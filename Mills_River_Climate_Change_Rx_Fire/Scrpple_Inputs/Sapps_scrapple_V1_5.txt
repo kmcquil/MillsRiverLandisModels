@@ -1,0 +1,175 @@
+LandisData  "SCRAPPLE"
+
+>>     Parameter                      Value
+>> ----------------------------       -------
+
+Timestep                            1
+
+>>File withe DBH~ Bark relationships for the above Cohort Mortality Equation. 
+Species_CSV_File	/landis/Scrpple_Inputs/SCRPPLE_Spp_Table.csv
+
+
+
+>>>Ignition Maps 
+AccidentalIgnitionsMap  /landis/Scrpple_Inputs/AccidentalIgnitionsMap.tif 
+LightningIgnitionsMap   /landis/Scrpple_Inputs/LightningIgnitionsMap.tif
+RxIgnitionsMap         /landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+
+DynamicRxIgnitionMaps 
+1	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+2	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+3	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+4	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+5	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+6	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+7	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+8	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+9	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+10	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+11	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+12	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+13	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+14	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+15	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+16	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+17	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+18	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+19	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+20	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+21	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+22	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+23	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+24	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+25	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+26	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+27	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+28	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+29	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+30	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+31	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+32	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+33	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+34	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+35	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+36	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+37	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+38	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+39	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+40	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+41	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+42	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+43	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+44	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+45	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+46	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+47	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+48	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+49	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+50	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+51	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+52	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+53	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+54	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+55	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+56	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+57	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+58	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+59	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+60	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+61	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+62	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+63	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+64	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+65	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+66	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+67	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+68	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+69	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+70 	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+71	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+72	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+73	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+74	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+75	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+76	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+77	/landis/Scrpple_Inputs/rXIgnitionsMap_ON.tif
+78	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+79	/landis/Scrpple_Inputs/rXIgnitionsMap_OFF.tif
+
+
+>>>> Suppression Maps 
+AccidentalSuppressionMap	/landis/Scrpple_Inputs/AccidentalSuppressionMap.tif
+LightningSuppressionMap		/landis/Scrpple_Inputs/LightningSuppressionMap.tif
+RxSuppressionMap		/landis/Scrpple_Inputs/RxSuppressionMap.tif
+
+
+
+>>> Surface Maps
+GroundSlopeMap /landis/Scrpple_Inputs/GroundSlope.tif
+UphillSlopeAzimuthMap  /landis/Scrpple_Inputs/UphillSlopeAzimuth.tif
+ClayMap /landis/Scrpple_Inputs/Clay_90m.tif
+
+
+
+>>> ZIPS Ignition Models
+LightningIgnitionsB0   0.31725
+LightningIgnitionsB1   -0.11073  
+AccidentalIgnitionsB0 -0.548252
+AccidentalIgnitionsB1   0.0400079   
+ 
+IgnitionDistribution ZeroInflatedPoisson
+LightningIgnitionsBinomialB0 8.19924
+LightningIgnitionsBinomialB1   -0.35325 
+AccidentalIgnitionsBinomialB0  2.8219
+AccidentalIgnitionsBinomialB1 -0.071535
+
+
+>> A generic parameter, determines the fine-fuel scale from 0-1.0
+MaximumFineFuels 1000.0
+
+>> Prescribed Fire Parameters
+MaximumRxWindSpeed 20 
+>>MinimumRxFireWeatherIndex 15.0   << Optional
+MaximumRxTemperature 35.0	<< Optional
+MinimumRxRelativeHumidity 25 << Optional
+MaximumRxFireIntensity 1
+NumberRxAnnualFires 50
+NumberRxDailyFires 1
+FirstDayRxFires 32
+LastDayRxFires 135
+TargetRxSize 3484  << Total area of burn unit is 3483.81 ha and we want that whole area to burn in each of the specified years
+>>MaximumRxFireWeatherIndex 80.0  << Optional
+
+RxZonesMap /landis/Scrpple_Inputs/rx_zones_map.tif
+
+
+>> Maximum Spread Function 
+MaximumSpreadAreaB0	419.52
+MaximumSpreadAreaB1	26.48  <<FWI
+MaximumSpreadAreaB2  0.00  << effective wind speed
+
+
+SpreadProbabilityB0 -1.977  << Intercept
+SpreadProbabilityB1 0.06778  <<FWI
+SpreadProbabilityB2 0.852 << relativized fine fuels This is a percent of max fine fuels
+SpreadProbabilityB3 00000 << effective wind speed. 
+
+
+SiteMortalityB0  1.186e-02  << Intercept
+SiteMortalityB1  1.758e-04  << The parameter fit for site level clay % in Soil.
+SiteMortalityB2  4.537e-06   << The parameter fit for site level previous years annual ET. 
+SiteMortalityB3 -3.553e-04  << The parameter fit for site level Effective Windspeed. 
+SiteMortalityB4 -6.288e-06  << The parameter fit for site level Climatic Water Deficit (PET-AET). 
+SiteMortalityB5  0.0  << The parameter fit for fine fuels. 
+SiteMortalityB6  0.0  << The parameter fit for ladder fuels.
+
+CohortMortalityB0  -1.194702 << Intercept
+CohortMortalityB1  -0.926577   << The parameter fit for the relationship between bark thickness and cohort mortality.
+CohortMortalityB2   0.004297<< The parameter fit for the relationship between site mortality and cohort mortality. 
+
+LadderFuelMaxAge 40
+LadderFuelSpeciesList 			<< I have no idea what this does anymore 
+SuppressionMaxWindSpeed 100
+
+Suppression_CSV_File /landis/Scrpple_Inputs/Suppression_Table.csv  <<< Fwi thresholds here represent 10% and 1% FWI.
+DeadWoodTable

@@ -1,0 +1,82 @@
+LandisData	"Biomass Harvest"
+
+Timestep  1
+
+ManagementAreas		/landis/Run1/Harvest_Inputs/management_units.tif
+Stands			/landis/Run1/Harvest_Inputs/stands.tif
+
+
+>> Prescriptions 
+
+>> Thin from below mesic species with dbh<12 
+>> The ages to remove for each species are based on the dbh~age association
+>>--------------------------------------------------------------------
+Prescription		UnderstoryThin
+StandRanking		Random
+SiteSelection		Complete  
+CohortsRemoved		SpeciesList
+>> Species	Selection   >> These are species identified by TNC that they would thin from below
+>> -------      ---------
+   AcerRubr     1-50 
+   BetuLent     1-56
+   OxydArbo     1-42  << not diffuse porous but specificed by TNC
+   NyssSylv     1-48
+   PinuStro     1-53  << not diffuse porous but specificed by TNC
+   LiriTuli     1-64
+   MagnMacr     1-62
+>> These are additional diffuse porous species we are including because they are in the model 
+   AcerSacc     1-52
+   CornFlor     1-24
+   FaguGran     1-43
+   HaleDipt     1-46
+   MagnAcum     1-59
+   TiliAmer     1-51
+   TiliAmhe     1-46
+
+
+>> Thin 1/6 of overstory diffuse porous basal area 
+>> The model does not let us select for the overstory, so use age as a proxy
+>> It also doesn't let us select 1/n for all species of a certain age category, so do it for every species in the model :/
+>>--------------------------------------------------------------------
+Prescription		OverstoryThin
+StandRanking		Random
+SiteSelection		Complete  
+CohortsRemoved		SpeciesList
+>> Species	Selection  
+>> -------      ---------
+   AcerRubr     62-1000 (17%)
+   AcerSacc     64-1000 (17%)	
+   BetuLent     66-1000 (17%)
+   CornFlor     43-1000 (17%)
+   FaguGran     56-1000 (17%)
+   HaleDipt     65-1000 (17%)
+   LiriTuli     64-1000 (17%)
+   MagnAcum     68-1000 (17%)
+   MagnMacr     96-1000 (17%)
+   NyssSylv     74-1000 (17%)
+   TiliAmer     58-1000 (17%)
+   TiliAmhe     52-1000 (17%)
+   OxydArbo     60-1000 (17%)
+   PinuStro     71-1000 (17%)
+
+
+HarvestImplementations
+>> Mgmt Area  Prescription    HarvestArea  BeginTime  EndTime
+>> ---------  ------------    -----------  ---------  --------
+   1	      UnderstoryThin  100%	   2	      2	   
+   1	      OverstoryThin   100%         8          8
+   1          OverstoryThin   100%         23         23
+   1          OverstoryThin   100%         38         38
+   1          OverstoryThin   100%         53         53
+   1          OverstoryThin   100%         68         68
+
+
+>> Specify outputs 
+PrescriptionMaps	/landis/Run1/harvest/prescription-{timestep}.img 
+BiomassMaps 		/landis/Run1/harvest/biomass-removed-{timestep}.img
+EventLog		/landis/Run1/harvest-events-log.csv
+SummaryLog		/landis/Run1/harvest-summary-log.csv
+
+
+
+	

@@ -1,0 +1,37 @@
+LandisData	"Output Biomass-by-Age"
+
+Timestep	10
+
+MapNames	/landis/Run1/output/{species}-{ageclass}-{timestep}.img
+
+Species		AcerRubr ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		AcerSacc ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)	
+   		BetuLent ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		CornFlor ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		FaguGran ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		HaleDipt ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		LiriTuli ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		MagnAcum ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		MagnMacr ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		NyssSylv ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		TiliAmer ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		TiliAmhe ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		CaryGlab ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		CaryAlba ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		FraxAmer ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		FraxPenn ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+  		OxydArbo ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		PrunSero ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		QuerAlba ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		QuerCocc ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		QuerFalc ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		QuerPrin ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		QuerRubr ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		QuerVelu ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		RobiPseu ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		SassAlid ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		PinuEnch ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		PinuPung ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		PinuRigi ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+   		PinuStro ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)
+		PinuVirg ageclass1(1-26) ageclass2(26-51) ageclass3(51-76) ageclass4(76-100) ageclass5(>100)

@@ -1,0 +1,23 @@
+LandisData "Climate Config"				
+		
+ClimateTimeSeries			Daily_SequencedYears
+ClimateFile				/landis/NECN_Inputs/miroc_esm_rcp85_landis_2021_2099.csv
+ClimateFileFormat			Daily_Temp-C_Precip-mmDay
+
+SpinUpClimateTimeSeries			Daily_SequencedYears
+SpinUpClimateFile			/landis/NECN_Inputs/miroc_esm_rcp85_landis_2021_2099.csv
+SpinUpClimateFileFormat			Daily_Temp-C_Precip-mmDay
+
+UsingFireClimate			yes
+FineFuelMoistureCode		85
+DuffMoistureCode			6
+DroughtCode				15
+FirstDayFire			31
+LastDayFire				334
+
+
+
+
+
+
+

@@ -1,0 +1,5055 @@
+LandisData      "Initial Communities"
+MapCode  1 
+      PinuEnch 60 (4713) 
+      CornFlor 20 (216) 
+      FraxAmer 30 (108) 
+      LiriTuli 40 (1900) 30 (1484) 
+      NyssSylv 20 (141) 
+      PrunSero 40 (178) 
+ 
+MapCode  2 
+      PinuEnch 30 (81) 
+      CaryGlab 60 (881) 70 (2484) 40 (78) 50 (1335) 
+      CornFlor 20 (88) 
+      QuerPrin 80 (864) 70 (608) 50 (164) 120 (859) 140 (2445) 30 (524) 
+ 
+MapCode  3 
+      PinuEnch 170 (3554) 150 (1266) 
+      PinuStro 30 (71) 
+      AcerRubr 50 (268) 40 (283) 30 (395) 80 (542) 60 (236) 90 (1147) 
+      AcerSacc 20 (28) 
+      CaryGlab 140 (6121) 120 (2582) 70 (1130) 
+      NyssSylv 10 (100) 
+      QuerAlba 40 (247) 
+      QuerCocc 140 (4640) 
+      QuerPrin 140 (1257) 
+      QuerVelu 140 (3638) 20 (787) 
+ 
+MapCode  4 
+      PinuEnch 170 (743) 70 (743) 80 (395) 50 (395) 
+      PinuVirg 80 (273) 40 (273) 
+      AcerRubr 40 (80) 30 (80) 
+      CaryGlab 90 (2149) 60 (2426) 80 (1124) 50 (1977) 70 (499) 40 (631) 
+      QuerAlba 130 (1476) 140 (1476) 
+      QuerPrin 130 (2811) 70 (414) 100 (2397) 
+      QuerVelu 40 (102) 30 (102) 
+ 
+MapCode  5 
+      PinuEnch 90 (1582) 
+      AcerRubr 40 (423) 50 (739) 20 (522) 
+      CaryGlab 40 (213) 60 (564) 50 (378) 
+      CaryAlba 40 (522) 
+      FaguGran 10 (77) 
+      NyssSylv 40 (492) 10 (14) 
+      QuerAlba 40 (997) 50 (474) 30 (116) 
+      QuerCocc 50 (4545) 40 (1617) 
+      QuerPrin 30 (281) 40 (631) 
+      QuerVelu 50 (527) 
+ 
+MapCode  6 
+      PinuEnch 30 (26) 40 (48) 
+      AcerRubr 40 (836) 80 (769) 70 (1996) 90 (1687) 30 (249) 110 (333) 100 (548) 20 (75) 
+      FaguGran 20 (31) 
+      MagnMacr 30 (68) 20 (38) 
+      NyssSylv 40 (94) 
+      OxydArbo 20 (164) 30 (83) 10 (74) 
+      QuerCocc 130 (1382) 40 (651) 
+      QuerPrin 70 (3535) 90 (1549) 130 (873) 40 (85) 80 (260) 
+      QuerVelu 30 (54) 130 (3063) 
+ 
+MapCode  7 
+      PinuEnch 80 (1012) 
+      PinuStro 60 (206) 130 (1494) 50 (174) 80 (818) 70 (1384) 40 (98) 
+      AcerRubr 40 (101) 60 (432) 50 (245) 80 (533) 70 (980) 20 (20) 
+      OxydArbo 40 (786) 30 (732) 50 (207) 
+      QuerAlba 60 (1245) 80 (309) 40 (284) 100 (615) 130 (666) 
+      QuerCocc 140 (1052) 
+      QuerFalc 80 (361) 140 (1065) 60 (566) 
+ 
+MapCode  8 
+      PinuEnch 50 (1057) 
+      AcerRubr 50 (545) 40 (1681) 30 (230) 10 (45) 20 (31) 
+      OxydArbo 40 (196) 30 (135) 
+      QuerAlba 60 (3058) 20 (302) 50 (1083) 30 (908) 40 (1599) 70 (1151) 
+      QuerCocc 80 (1966) 60 (436) 90 (3611) 
+      QuerPrin 50 (3362) 30 (124) 70 (1921) 
+      QuerVelu 30 (230) 50 (855) 
+      SassAlid 30 (124) 
+ 
+MapCode  9 
+      PinuEnch 40 (494) 180 (1285) 
+      AcerRubr 30 (199) 40 (137) 
+      CaryGlab 40 (116) 
+      CaryAlba 30 (115) 20 (175) 40 (133) 
+      LiriTuli 60 (235) 
+      OxydArbo 40 (553) 30 (502) 20 (160) 
+      PrunSero 50 (107) 10 (31) 
+      QuerAlba 40 (747) 30 (732) 60 (732) 50 (367) 
+      QuerFalc 40 (235) 80 (1243) 
+ 
+MapCode  10 
+      PinuEnch 50 (1064) 10 (8) 
+      AcerRubr 20 (83) 30 (176) 10 (25) 
+      CaryAlba 40 (332) 
+      LiriTuli 20 (565) 10 (22) 30 (305) 
+      OxydArbo 20 (99) 10 (61) 
+      PrunSero 20 (43) 
+      QuerAlba 10 (20) 30 (246) 
+ 
+MapCode  11 
+      PinuEnch 60 (137) 
+      PinuStro 80 (318) 
+      PinuVirg 40 (82) 
+      AcerRubr 30 (140) 40 (279) 
+      NyssSylv 10 (28) 
+      OxydArbo 40 (278) 50 (161) 70 (167) 20 (247) 30 (1459) 
+      QuerAlba 30 (109) 70 (208) 
+      QuerCocc 50 (353) 130 (4890) 80 (301) 
+      QuerFalc 130 (413) 
+      QuerVelu 90 (369) 60 (167) 70 (312) 80 (302) 
+      SassAlid 10 (17) 
+ 
+MapCode  12 
+      PinuEnch 20 (148) 90 (458) 70 (612) 30 (55) 
+      PinuStro 30 (53) 
+      PinuVirg 40 (199) 
+      AcerRubr 20 (259) 
+      LiriTuli 30 (291) 20 (49) 
+      NyssSylv 40 (80) 
+      OxydArbo 40 (84) 30 (114) 
+      PrunSero 40 (216) 
+      QuerAlba 90 (709) 
+      QuerCocc 80 (478) 40 (114) 
+      QuerFalc 30 (92) 90 (899) 60 (469) 70 (637) 20 (46) 
+      QuerVelu 90 (2035) 40 (722) 50 (421) 70 (973) 
+ 
+MapCode  13 
+      PinuEnch 50 (366) 
+      PinuStro 40 (189) 
+      AcerRubr 20 (85) 60 (310) 50 (1412) 
+      NyssSylv 30 (157) 
+      OxydArbo 50 (404) 20 (64) 30 (284) 
+      QuerAlba 50 (558) 10 (83) 
+      QuerCocc 70 (2208) 140 (2769) 110 (1419) 40 (432) 
+      QuerPrin 40 (780) 60 (1270) 140 (3612) 
+ 
+MapCode  14 
+      PinuEnch 100 (393) 160 (2052) 90 (964) 80 (324) 
+      AcerRubr 60 (248) 20 (100) 210 (574) 150 (654) 50 (667) 30 (101) 
+      CaryGlab 40 (76) 
+      NyssSylv 10 (74) 
+      OxydArbo 20 (229) 40 (268) 
+      QuerAlba 130 (2853) 60 (352) 70 (560) 100 (323) 90 (277) 50 (198) 30 (74) 
+      QuerCocc 130 (2693) 40 (103) 
+      QuerPrin 70 (221) 40 (80) 
+      QuerRubr 70 (152) 50 (179) 
+      QuerVelu 50 (92) 60 (198) 
+ 
+MapCode  15 
+      PinuEnch 80 (935) 
+      PinuRigi 30 (100) 90 (739) 20 (32) 40 (408) 
+      PinuStro 50 (890) 70 (902) 40 (296) 30 (95) 130 (868) 110 (954) 90 (555) 
+      AcerRubr 40 (188) 30 (57) 50 (124) 20 (15) 
+      NyssSylv 30 (206) 10 (18) 
+      OxydArbo 20 (66) 
+      QuerAlba 70 (525) 
+      QuerCocc 30 (277) 20 (20) 80 (498) 50 (281) 100 (903) 
+ 
+MapCode  16 
+      PinuEnch 40 (662) 
+      PinuVirg 30 (266) 
+      AcerRubr 30 (93) 
+      CaryGlab 50 (850) 
+      LiriTuli 70 (2979) 40 (187) 80 (2583) 60 (3024) 
+      QuerVelu 20 (150) 
+      SassAlid 30 (273) 
+ 
+MapCode  17 
+      PinuEnch 30 (242) 
+      PinuStro 130 (2157) 80 (2214) 70 (1367) 
+      AcerRubr 30 (225) 40 (515) 70 (897) 20 (37) 
+      NyssSylv 40 (261) 
+      OxydArbo 30 (831) 20 (963) 40 (420) 
+      QuerCocc 40 (1426) 50 (1091) 
+      QuerPrin 20 (260) 50 (684) 40 (1465) 30 (306) 
+ 
+MapCode  18 
+      PinuEnch 70 (795) 
+      AcerRubr 40 (198) 
+      LiriTuli 60 (238) 
+      MagnMacr 10 (17) 
+      NyssSylv 30 (204) 
+      OxydArbo 50 (416) 30 (705) 40 (511) 
+      QuerAlba 30 (359) 110 (993) 140 (4812) 40 (632) 50 (478) 
+      QuerCocc 140 (9900) 40 (526) 50 (677) 150 (849) 
+      QuerFalc 130 (1362) 40 (192) 
+      QuerVelu 140 (2825) 80 (1047) 
+ 
+MapCode  19 
+      PinuEnch 70 (958) 50 (1078) 
+      PinuStro 20 (33) 30 (71) 40 (188) 
+      PinuVirg 90 (1014) 30 (72) 
+      AcerRubr 50 (954) 40 (1173) 30 (74) 20 (80) 
+      LiriTuli 140 (861) 
+      NyssSylv 20 (58) 
+      OxydArbo 30 (621) 20 (67) 40 (167) 
+      QuerPrin 70 (1356) 100 (660) 90 (735) 80 (793) 60 (427) 30 (258) 40 (890) 140 (5884) 50 (516) 
+      QuerVelu 80 (1122) 30 (74) 
+ 
+MapCode  20 
+      PinuEnch 60 (485) 
+      PinuStro 90 (1973) 
+      PinuVirg 50 (570) 90 (897) 
+      AcerRubr 50 (847) 30 (1086) 40 (106) 
+      FraxAmer 30 (598) 20 (51) 
+      LiriTuli 200 (3001) 90 (1726) 60 (487) 30 (459) 40 (66) 
+      PrunSero 60 (702) 
+      QuerPrin 50 (555) 60 (589) 140 (1940) 130 (1832) 110 (2810) 
+      QuerRubr 140 (814) 
+ 
+MapCode  21 
+      PinuEnch 50 (633) 
+      AcerRubr 40 (2013) 50 (913) 30 (499) 
+      MagnMacr 70 (821) 
+      OxydArbo 40 (429) 30 (292) 50 (297) 20 (440) 
+      QuerAlba 30 (200) 
+      QuerCocc 80 (1472) 50 (2855) 90 (2265) 100 (2033) 110 (1614) 60 (854) 40 (505) 
+      QuerPrin 50 (512) 30 (252) 
+      RobiPseu 50 (653) 
+ 
+MapCode  22 
+      PinuEnch 80 (1269) 
+      PinuVirg 30 (85) 
+      CaryGlab 40 (484) 
+      CaryAlba 30 (45) 
+      OxydArbo 10 (18) 
+      QuerAlba 130 (962) 40 (180) 
+      QuerPrin 50 (553) 30 (121) 40 (1308) 130 (2438) 70 (853) 
+      RobiPseu 30 (90) 
+ 
+MapCode  23 
+      PinuEnch 40 (205) 
+      PinuVirg 40 (871) 30 (188) 
+      CornFlor 10 (99) 
+      NyssSylv 10 (324) 20 (1350) 70 (1126) 
+      OxydArbo 30 (82) 20 (665) 
+      QuerPrin 50 (2273) 40 (515) 30 (547) 20 (405) 60 (2348) 
+      QuerVelu 30 (192) 
+ 
+MapCode  24 
+      PinuEnch 10 (47) 
+      AcerRubr 30 (158) 10 (15) 
+      CaryGlab 40 (280) 
+      OxydArbo 20 (599) 10 (135) 
+      PrunSero 20 (17) 
+      QuerAlba 20 (247) 10 (328) 30 (1055) 40 (353) 
+      QuerCocc 30 (461) 
+ 
+MapCode  25 
+      PinuEnch 40 (62) 70 (335) 90 (699) 
+      PinuStro 40 (288) 30 (138) 
+      AcerRubr 40 (273) 50 (233) 80 (345) 
+      CornFlor 30 (82) 
+      NyssSylv 10 (33) 20 (352) 40 (141) 
+      OxydArbo 30 (76) 40 (435) 
+      QuerCocc 70 (2848) 50 (300) 80 (664) 
+      QuerFalc 40 (178) 
+      QuerPrin 50 (868) 70 (461) 40 (422) 20 (340) 30 (139) 60 (1913) 130 (1275) 80 (624) 
+      QuerVelu 60 (438) 
+ 
+MapCode  26 
+      PinuEnch 40 (213) 
+      PinuVirg 40 (282) 
+      AcerRubr 30 (98) 
+      CaryAlba 60 (1051) 
+      NyssSylv 30 (81) 
+      OxydArbo 40 (314) 30 (328) 
+      QuerAlba 40 (137) 50 (604) 30 (355) 
+      QuerCocc 140 (992) 100 (1043) 60 (1049) 
+      QuerPrin 80 (1219) 30 (86) 130 (3388) 70 (1256) 
+      QuerVelu 50 (215) 30 (142) 
+      SassAlid 30 (169) 
+ 
+MapCode  27 
+      PinuEnch 170 (612) 
+      PinuStro 30 (487) 40 (374) 60 (303) 
+      PinuVirg 30 (80) 
+      AcerRubr 40 (149) 
+      NyssSylv 10 (689) 30 (183) 20 (78) 
+      OxydArbo 30 (18) 10 (12) 
+      QuerPrin 50 (479) 
+ 
+MapCode  28 
+      PinuEnch 30 (1959) 
+      PinuVirg 20 (130) 40 (796) 
+      AcerRubr 20 (661) 30 (127) 10 (15) 40 (728) 
+      CaryGlab 40 (1730) 
+      CaryAlba 10 (25) 40 (524) 
+      CornFlor 20 (198) 10 (391) 
+      LiriTuli 20 (1051) 40 (4195) 50 (1453) 30 (2405) 
+      OxydArbo 20 (553) 30 (463) 
+      QuerPrin 30 (784) 
+ 
+MapCode  29 
+      PinuEnch 80 (454) 
+      PinuStro 30 (54) 
+      PinuVirg 60 (244) 
+      AcerRubr 70 (1344) 50 (280) 60 (367) 110 (310) 80 (818) 
+      NyssSylv 170 (1043) 30 (453) 
+      OxydArbo 30 (273) 40 (362) 20 (726) 
+      QuerAlba 130 (1049) 
+      QuerCocc 130 (1037) 
+      QuerPrin 50 (180) 70 (329) 130 (2681) 40 (272) 100 (583) 
+ 
+MapCode  30 
+      PinuEnch 80 (689) 
+      PinuStro 30 (31) 50 (199) 40 (77) 
+      PinuVirg 90 (351) 
+      AcerRubr 40 (691) 30 (154) 
+      NyssSylv 40 (187) 10 (14) 30 (212) 
+      OxydArbo 30 (386) 20 (1276) 40 (305) 50 (234) 
+      QuerAlba 60 (204) 30 (122) 80 (771) 
+      QuerCocc 40 (124) 130 (547) 150 (1142) 
+      QuerPrin 40 (309) 80 (266) 120 (1018) 110 (1153) 
+      QuerVelu 40 (338) 30 (241) 150 (583) 
+ 
+MapCode  31 
+      PinuEnch 50 (222) 
+      AcerRubr 70 (488) 20 (25) 50 (282) 30 (162) 40 (116) 
+      CaryAlba 40 (134) 
+      LiriTuli 80 (266) 60 (328) 140 (1762) 
+      OxydArbo 30 (76) 40 (289) 20 (142) 
+      QuerAlba 30 (488) 100 (792) 
+      QuerCocc 60 (574) 70 (538) 80 (745) 110 (2244) 30 (172) 
+      QuerFalc 60 (1132) 20 (173) 40 (677) 50 (395) 
+      QuerPrin 70 (557) 50 (287) 140 (3023) 60 (325) 40 (256) 30 (86) 130 (1281) 
+      QuerVelu 40 (369) 30 (145) 130 (1208) 
+ 
+MapCode  32 
+      PinuEnch 40 (408) 
+      PinuRigi 20 (154) 30 (388) 40 (1128) 50 (2328) 
+      PinuStro 30 (419) 40 (380) 20 (43) 
+      AcerRubr 20 (61) 30 (248) 
+      NyssSylv 10 (150) 30 (144) 20 (59) 
+      OxydArbo 20 (223) 
+      QuerCocc 50 (2346) 20 (76) 30 (636) 40 (623) 
+      QuerPrin 30 (1511) 40 (1099) 
+      QuerVelu 20 (120) 
+      SassAlid 10 (21) 
+ 
+MapCode  33 
+      PinuEnch 60 (378) 
+      AcerRubr 50 (427) 30 (161) 70 (2696) 60 (322) 
+      BetuLent 40 (183) 
+      LiriTuli 50 (110) 40 (113) 150 (10471) 
+      OxydArbo 30 (170) 60 (413) 40 (158) 
+      QuerAlba 60 (751) 
+      QuerVelu 140 (2270) 
+ 
+MapCode  34 
+      PinuEnch 40 (466) 30 (247) 50 (689) 
+      CaryGlab 30 (93) 
+      NyssSylv 10 (452) 20 (329) 
+      OxydArbo 20 (1057) 
+      QuerCocc 20 (156) 
+      QuerPrin 30 (1652) 20 (742) 
+      QuerRubr 20 (83) 
+      QuerVelu 20 (327) 30 (457) 10 (54) 
+      SassAlid 20 (75) 10 (96) 
+ 
+MapCode  35 
+      PinuEnch 80 (572) 
+      AcerRubr 40 (212) 20 (90) 30 (323) 
+      AcerSacc 20 (221) 
+      CaryGlab 60 (258) 30 (270) 40 (92) 
+      CaryAlba 50 (295) 30 (99) 
+      NyssSylv 10 (70) 
+      OxydArbo 10 (11) 
+      QuerAlba 50 (2048) 40 (1165) 30 (361) 60 (1123) 
+      QuerCocc 40 (1068) 50 (675) 60 (391) 
+      QuerFalc 60 (525) 50 (284) 40 (208) 30 (90) 140 (1246) 
+      QuerVelu 90 (533) 
+ 
+MapCode  36 
+      PinuEnch 80 (1881) 60 (425) 40 (149) 50 (907) 
+      PinuPung 30 (542) 
+      PinuStro 40 (978) 30 (131) 130 (1349) 
+      AcerRubr 40 (198) 50 (471) 30 (94) 
+      BetuLent 40 (159) 
+      LiriTuli 10 (19) 30 (1120) 
+      OxydArbo 20 (237) 30 (192) 
+      QuerAlba 30 (325) 
+      QuerCocc 40 (321) 20 (96) 30 (311) 
+      QuerPrin 40 (1875) 60 (2003) 30 (192) 
+      RobiPseu 30 (397) 
+      SassAlid 10 (43) 20 (379) 
+ 
+MapCode  37 
+      PinuEnch 80 (293) 
+      PinuVirg 20 (108) 
+      CaryAlba 40 (150) 
+      LiriTuli 20 (138) 
+      NyssSylv 30 (134) 20 (72) 10 (117) 
+      QuerPrin 130 (3194) 40 (199) 30 (91) 20 (329) 90 (399) 50 (178) 110 (513) 60 (170) 70 (169) 
+ 
+MapCode  38 
+      PinuEnch 70 (525) 
+      AcerRubr 60 (278) 50 (533) 40 (77) 30 (323) 20 (154) 
+      OxydArbo 30 (173) 50 (727) 40 (1003) 60 (603) 
+      QuerAlba 130 (549) 80 (475) 
+      QuerCocc 130 (4839) 90 (464) 80 (1322) 110 (971) 40 (251) 
+      QuerPrin 110 (1772) 90 (443) 50 (351) 130 (6128) 60 (260) 70 (271) 
+      QuerVelu 80 (261) 
+ 
+MapCode  39 
+      PinuEnch 180 (254) 
+      PinuPung 90 (1212) 50 (205) 110 (1071) 70 (120) 60 (132) 
+      AcerRubr 80 (165) 90 (328) 50 (170) 150 (419) 100 (317) 110 (467) 70 (67) 
+      NyssSylv 50 (62) 140 (84) 70 (51) 40 (70) 
+      OxydArbo 90 (241) 
+      QuerPrin 120 (4486) 
+ 
+MapCode  40 
+      PinuEnch 70 (368) 40 (141) 
+      PinuVirg 70 (345) 40 (164) 90 (1107) 
+      AcerRubr 40 (599) 60 (312) 20 (121) 80 (682) 50 (245) 
+      CaryAlba 50 (86) 
+      CornFlor 20 (102) 10 (25) 
+      FaguGran 30 (205) 20 (31) 
+      LiriTuli 70 (213) 
+      NyssSylv 10 (14) 
+      OxydArbo 30 (74) 20 (178) 10 (100) 
+      QuerAlba 30 (516) 20 (107) 90 (369) 50 (92) 40 (725) 
+      QuerCocc 70 (130) 50 (123) 60 (786) 120 (494) 
+      QuerFalc 50 (156) 
+      QuerVelu 50 (96) 
+ 
+MapCode  41 
+      PinuEnch 60 (468) 70 (362) 50 (158) 
+      PinuVirg 90 (1492) 
+      AcerRubr 60 (473) 50 (101) 40 (162) 
+      NyssSylv 30 (515) 40 (467) 20 (78) 10 (401) 
+      OxydArbo 40 (296) 30 (868) 
+      QuerAlba 80 (1422) 60 (1324) 50 (428) 
+      QuerCocc 60 (1444) 
+      QuerPrin 90 (2021) 40 (683) 80 (3471) 50 (449) 
+      QuerVelu 70 (420) 
+ 
+MapCode  42 
+      PinuEnch 50 (173) 
+      PinuVirg 30 (245) 50 (768) 100 (1001) 
+      AcerRubr 20 (70) 30 (818) 
+      CaryGlab 30 (86) 
+      CornFlor 10 (68) 
+      NyssSylv 20 (229) 40 (185) 
+      OxydArbo 20 (1140) 30 (73) 40 (249) 
+      QuerAlba 30 (205) 
+      QuerCocc 50 (632) 
+      QuerPrin 40 (491) 60 (486) 
+      QuerVelu 40 (148) 
+ 
+MapCode  43 
+      PinuEnch 60 (1692) 40 (1494) 50 (4212) 30 (403) 
+      PinuStro 30 (34) 
+      AcerSacc 30 (311) 40 (519) 
+      NyssSylv 20 (401) 
+      OxydArbo 20 (163) 30 (817) 
+      QuerCocc 40 (2139) 30 (445) 
+      QuerPrin 50 (1482) 20 (891) 30 (396) 40 (705) 
+ 
+MapCode  44 
+      PinuEnch 40 (264) 
+      AcerRubr 30 (154) 
+      FaguGran 20 (104) 10 (13) 
+      LiriTuli 10 (19) 
+      OxydArbo 20 (43) 
+      QuerAlba 50 (1186) 60 (819) 
+      QuerRubr 80 (3702) 70 (1587) 
+ 
+MapCode  45 
+      PinuEnch 40 (206) 
+      PinuStro 40 (165) 
+      PinuVirg 20 (77) 40 (205) 
+      AcerRubr 30 (105) 20 (25) 40 (163) 
+      FaguGran 20 (75) 40 (303) 10 (21) 
+      NyssSylv 40 (153) 
+      OxydArbo 30 (975) 20 (111) 10 (46) 
+      QuerAlba 40 (759) 
+      QuerCocc 120 (2611) 50 (665) 60 (786) 
+      QuerFalc 90 (1348) 80 (1346) 
+ 
+MapCode  46 
+      PinuEnch 40 (430) 
+      AcerRubr 70 (735) 
+      CaryGlab 60 (634) 80 (1130) 
+      LiriTuli 50 (162) 150 (878) 
+      NyssSylv 30 (79) 50 (168) 
+      OxydArbo 60 (890) 50 (927) 30 (382) 40 (125) 
+      QuerAlba 140 (18107) 
+      QuerRubr 80 (1903) 
+ 
+MapCode  47 
+      PinuEnch 60 (667) 
+      AcerRubr 50 (978) 40 (659) 70 (1838) 
+      BetuLent 40 (903) 
+      CaryGlab 50 (175) 
+      CaryAlba 30 (380) 50 (977) 
+      FaguGran 10 (218) 40 (421) 20 (272) 30 (179) 
+      LiriTuli 70 (637) 30 (140) 50 (244) 40 (115) 20 (214) 
+      OxydArbo 40 (266) 30 (471) 
+      QuerAlba 90 (1476) 
+      QuerCocc 40 (716) 
+      QuerFalc 70 (809) 
+      QuerRubr 40 (175) 140 (630) 
+      QuerVelu 90 (1036) 
+ 
+MapCode  48 
+      PinuEnch 50 (118) 
+      PinuVirg 40 (349) 50 (543) 60 (710) 
+      AcerRubr 50 (99) 20 (170) 60 (251) 
+      CaryGlab 60 (174) 50 (218) 
+      NyssSylv 10 (100) 40 (106) 
+      QuerAlba 60 (517) 90 (659) 80 (1027) 130 (998) 
+      QuerPrin 90 (999) 50 (473) 60 (951) 80 (385) 100 (804) 30 (71) 130 (1797) 
+      QuerVelu 70 (304) 90 (526) 
+ 
+MapCode  49 
+      PinuEnch 30 (88) 40 (418) 
+      PinuRigi 70 (1117) 40 (967) 50 (1011) 
+      PinuStro 30 (54) 
+      AcerRubr 40 (352) 30 (215) 60 (637) 
+      CaryGlab 40 (83) 
+      LiriTuli 40 (208) 
+      NyssSylv 30 (704) 10 (150) 20 (58) 
+      OxydArbo 30 (395) 
+      QuerCocc 40 (3061) 60 (1598) 50 (1230) 
+      QuerPrin 30 (1075) 40 (1931) 50 (679) 
+      QuerVelu 50 (1116) 40 (671) 30 (81) 
+ 
+MapCode  50 
+      PinuEnch 80 (508) 160 (1127) 40 (197) 60 (282) 
+      PinuRigi 50 (402) 80 (251) 
+      PinuVirg 90 (1093) 50 (239) 
+      AcerRubr 20 (44) 70 (294) 
+      CaryGlab 60 (733) 
+      NyssSylv 60 (403) 70 (450) 20 (537) 50 (358) 30 (62) 
+      OxydArbo 40 (174) 10 (24) 30 (186) 
+      QuerAlba 80 (674) 70 (158) 
+      QuerCocc 50 (164) 
+      QuerPrin 130 (4981) 70 (546) 80 (1302) 60 (296) 
+      QuerRubr 130 (3230) 
+ 
+MapCode  51 
+      PinuPung 10 (39) 20 (31) 30 (868) 
+      PinuVirg 20 (1445) 30 (172) 
+      QuerPrin 20 (327) 30 (1597) 
+      QuerRubr 20 (112) 
+ 
+MapCode  52 
+      PinuPung 30 (640) 
+      PinuRigi 40 (1259) 30 (287) 20 (125) 
+      PinuVirg 30 (161) 10 (13) 
+      CaryGlab 10 (63) 
+      NyssSylv 40 (240) 30 (509) 
+      QuerAlba 60 (840) 50 (531) 
+      QuerCocc 40 (1813) 50 (912) 10 (223) 70 (939) 60 (644) 
+      QuerPrin 40 (992) 
+      RobiPseu 10 (20) 
+      SassAlid 30 (645) 
+ 
+MapCode  53 
+      PinuPung 100 (1664) 
+      PinuRigi 200 (213) 80 (1263) 50 (144) 
+      PinuStro 70 (378) 50 (319) 40 (296) 30 (94) 
+      AcerRubr 50 (65) 60 (103) 
+      NyssSylv 30 (287) 
+      QuerCocc 40 (148) 50 (105) 60 (292) 
+      QuerPrin 130 (2614) 50 (1468) 100 (1057) 110 (429) 90 (376) 60 (940) 
+ 
+MapCode  54 
+      PinuPung 30 (163) 
+      AcerRubr 70 (127) 80 (157) 30 (52) 50 (421) 10 (15) 
+      AcerSacc 60 (146) 
+      QuerPrin 40 (317) 70 (1314) 130 (7187) 90 (807) 80 (247) 50 (424) 60 (457) 100 (437) 120 (573) 30 (188) 20 (306) 10 (28) 
+      QuerRubr 120 (316) 90 (515) 60 (222) 40 (102) 130 (2693) 70 (307) 50 (99) 
+ 
+MapCode  55 
+      PinuPung 70 (1070) 110 (785) 
+      PinuStro 30 (213) 40 (214) 
+      AcerRubr 60 (757) 40 (810) 50 (255) 30 (346) 20 (15) 
+      MagnMacr 40 (112) 
+      NyssSylv 40 (110) 30 (136) 
+      OxydArbo 10 (53) 40 (173) 
+      QuerCocc 100 (898) 60 (2088) 50 (1043) 
+      QuerPrin 50 (398) 40 (1975) 60 (1383) 70 (343) 
+ 
+MapCode  56 
+      PinuPung 50 (870) 
+      AcerRubr 50 (355) 30 (301) 
+      AcerSacc 20 (59) 
+      BetuLent 30 (561) 
+      CaryGlab 70 (3055) 50 (537) 60 (1059) 30 (458) 90 (1502) 
+      CornFlor 20 (111) 
+      LiriTuli 140 (1879) 40 (432) 
+      NyssSylv 10 (46) 
+      QuerPrin 120 (1236) 60 (1856) 140 (8626) 30 (927) 50 (388) 
+      QuerRubr 140 (2421) 
+      SassAlid 40 (118) 
+ 
+MapCode  57 
+      PinuPung 70 (1769) 50 (677) 
+      PinuStro 30 (245) 20 (148) 
+      AcerRubr 40 (805) 50 (879) 30 (263) 60 (2507) 70 (1223) 20 (356) 
+      LiriTuli 60 (586) 
+      MagnAcum 30 (323) 50 (403) 60 (477) 90 (1399) 
+      MagnMacr 40 (442) 30 (150) 
+      OxydArbo 60 (603) 30 (334) 20 (62) 
+      QuerCocc 50 (671) 
+      QuerPrin 90 (2732) 30 (164) 40 (208) 60 (1359) 70 (2132) 80 (2293) 140 (5383) 
+      QuerRubr 50 (868) 40 (904) 
+ 
+MapCode  58 
+      PinuRigi 30 (3645) 20 (404) 40 (687) 
+      PinuVirg 30 (290) 
+      QuerVelu 20 (822) 30 (1341) 40 (212) 
+ 
+MapCode  59 
+      PinuRigi 40 (4440) 30 (3261) 20 (91) 50 (930) 
+      AcerRubr 40 (77) 
+      SassAlid 20 (949) 40 (137) 30 (411) 
+ 
+MapCode  60 
+      PinuRigi 40 (296) 50 (1898) 
+      AcerRubr 40 (407) 
+      NyssSylv 40 (481) 
+      OxydArbo 20 (168) 
+      QuerAlba 30 (2380) 80 (2592) 
+      QuerCocc 30 (1097) 20 (286) 40 (977) 
+      QuerFalc 40 (607) 30 (285) 20 (88) 
+ 
+MapCode  61 
+      PinuRigi 40 (1277) 50 (694) 
+      PinuVirg 40 (719) 
+      AcerRubr 40 (1430) 30 (479) 20 (104) 
+      BetuLent 40 (3286) 50 (841) 30 (311) 20 (80) 
+      CornFlor 20 (71) 
+      LiriTuli 50 (1071) 80 (2178) 100 (2560) 60 (3775) 
+      OxydArbo 20 (205) 
+      PrunSero 60 (1272) 
+ 
+MapCode  62 
+      PinuRigi 20 (72) 
+      PinuVirg 20 (235) 
+ 
+MapCode  63 
+      PinuRigi 30 (5316) 20 (365) 40 (2572) 
+ 
+MapCode  64 
+      PinuRigi 20 (446) 30 (276) 
+      AcerRubr 40 (1405) 30 (263) 20 (50) 
+      OxydArbo 20 (166) 
+      QuerCocc 30 (3058) 40 (2728) 20 (141) 10 (35) 60 (1428) 50 (1428) 
+      QuerPrin 40 (5644) 30 (1570) 20 (316) 50 (5533) 60 (3587) 
+ 
+MapCode  65 
+      PinuRigi 90 (468) 
+      AcerRubr 50 (524) 80 (1409) 70 (1864) 60 (1233) 40 (106) 30 (39) 
+      LiriTuli 50 (60) 80 (711) 
+      NyssSylv 40 (48) 20 (53) 
+      OxydArbo 30 (135) 40 (233) 20 (43) 
+      QuerAlba 140 (2451) 
+      QuerPrin 140 (3301) 
+      QuerRubr 140 (1956) 110 (701) 
+      SassAlid 20 (19) 30 (147) 
+ 
+MapCode  66 
+      PinuRigi 90 (1248) 
+      AcerRubr 30 (851) 40 (643) 50 (942) 
+      CaryAlba 40 (325) 50 (1032) 
+      CornFlor 20 (111) 
+      FaguGran 20 (81) 
+      OxydArbo 30 (354) 20 (243) 40 (348) 
+      QuerAlba 20 (86) 
+      QuerCocc 20 (96) 
+      QuerVelu 60 (2567) 130 (1473) 
+ 
+MapCode  67 
+      PinuRigi 30 (118) 
+      AcerRubr 40 (169) 
+      BetuLent 30 (100) 
+      OxydArbo 70 (183) 60 (161) 30 (445) 40 (129) 
+      QuerCocc 140 (355) 50 (1267) 40 (378) 90 (545) 70 (462) 60 (207) 
+      QuerPrin 80 (860) 50 (445) 100 (1408) 60 (349) 70 (506) 40 (460) 
+ 
+MapCode  68 
+      PinuRigi 90 (1230) 50 (238) 
+      PinuStro 60 (145) 40 (122) 
+      AcerRubr 50 (390) 40 (139) 70 (444) 20 (61) 30 (381) 
+      BetuLent 220 (1936) 
+      CaryGlab 40 (711) 
+      NyssSylv 100 (509) 90 (292) 20 (123) 170 (3411) 
+      OxydArbo 30 (276) 60 (249) 
+      QuerPrin 40 (575) 50 (638) 30 (170) 60 (1345) 130 (996) 
+ 
+MapCode  69 
+      PinuRigi 40 (106) 
+      PinuVirg 90 (525) 
+      AcerRubr 30 (751) 50 (337) 
+      CaryGlab 40 (176) 50 (685) 
+      CornFlor 20 (318) 
+      FaguGran 30 (95) 
+      MagnAcum 40 (305) 
+      QuerAlba 40 (290) 
+      QuerCocc 50 (655) 40 (554) 
+      QuerPrin 30 (133) 40 (1548) 50 (551) 60 (3465) 80 (1850) 
+      QuerVelu 110 (1501) 
+      RobiPseu 30 (616) 
+      SassAlid 40 (195) 30 (837) 20 (554) 
+ 
+MapCode  70 
+      PinuRigi 60 (1654) 
+      PinuStro 130 (1816) 40 (424) 
+      AcerRubr 50 (616) 40 (344) 30 (73) 60 (409) 
+      NyssSylv 30 (198) 40 (1447) 20 (472) 50 (353) 60 (470) 
+      OxydArbo 40 (225) 30 (606) 
+      QuerPrin 80 (965) 60 (2848) 50 (2145) 30 (806) 40 (254) 150 (1381) 
+      SassAlid 40 (166) 
+ 
+MapCode  71 
+      PinuRigi 90 (422) 30 (136) 
+      PinuStro 130 (7890) 80 (1454) 30 (152) 50 (660) 90 (1622) 40 (784) 60 (907) 
+      AcerRubr 40 (1457) 50 (1796) 30 (1000) 20 (263) 
+      NyssSylv 10 (270) 
+      OxydArbo 20 (100) 30 (352) 
+      QuerPrin 50 (2228) 
+ 
+MapCode  72 
+      PinuRigi 90 (650) 
+      PinuStro 40 (284) 60 (221) 30 (173) 
+      AcerRubr 70 (284) 60 (152) 
+      CaryAlba 60 (186) 90 (503) 
+      NyssSylv 20 (112) 100 (387) 40 (108) 30 (751) 50 (361) 10 (33) 
+      OxydArbo 50 (1626) 40 (606) 70 (248) 30 (384) 20 (401) 110 (105) 
+      QuerAlba 60 (296) 
+      QuerCocc 130 (4491) 80 (510) 110 (953) 
+      QuerPrin 130 (2913) 60 (284) 
+ 
+MapCode  73 
+      PinuRigi 30 (1344) 
+      PinuStro 30 (1831) 10 (86) 40 (2342) 20 (94) 
+      PinuVirg 40 (2017) 
+      AcerRubr 20 (37) 30 (1194) 10 (15) 
+      CaryAlba 40 (1191) 
+      NyssSylv 10 (28) 20 (106) 
+      PrunSero 30 (187) 
+      QuerCocc 20 (108) 
+      QuerVelu 20 (61) 
+ 
+MapCode  74 
+      PinuRigi 30 (124) 90 (537) 50 (661) 
+      AcerRubr 40 (222) 30 (190) 
+      BetuLent 40 (278) 30 (140) 
+      CaryGlab 50 (399) 
+      CaryAlba 100 (1726) 50 (464) 
+      FraxAmer 120 (1022) 
+      LiriTuli 150 (2781) 110 (420) 
+      MagnMacr 50 (247) 40 (108) 
+      NyssSylv 10 (352) 
+      OxydArbo 30 (368) 20 (229) 10 (79) 
+      QuerCocc 40 (593) 30 (414) 60 (1048) 
+      QuerPrin 40 (178) 50 (410) 140 (1493) 
+      QuerVelu 80 (2806) 60 (705) 
+ 
+MapCode  75 
+      PinuRigi 80 (4178) 50 (193) 30 (61) 
+      AcerRubr 20 (15) 70 (106) 60 (100) 
+      NyssSylv 50 (205) 30 (56) 40 (57) 
+      OxydArbo 30 (118) 
+      QuerCocc 30 (75) 50 (110) 
+      QuerPrin 50 (820) 70 (165) 130 (1331) 90 (706) 60 (448) 40 (396) 30 (58) 
+      QuerVelu 30 (133) 50 (179) 
+      SassAlid 20 (75) 
+ 
+MapCode  76 
+      PinuRigi 60 (2166) 
+      PinuStro 130 (15193) 40 (941) 30 (142) 80 (1834) 60 (1295) 
+      AcerRubr 30 (138) 40 (1267) 20 (81) 50 (726) 
+      MagnMacr 20 (85) 
+      NyssSylv 30 (152) 
+      OxydArbo 30 (895) 10 (11) 
+      QuerAlba 50 (2904) 40 (275) 30 (398) 
+      QuerVelu 50 (3184) 
+      SassAlid 30 (167) 
+ 
+MapCode  77 
+      PinuRigi 50 (565) 
+      PinuStro 40 (230) 20 (253) 30 (89) 60 (889) 
+      PinuVirg 40 (980) 30 (106) 50 (576) 90 (2962) 
+      AcerRubr 10 (30) 40 (93) 50 (1230) 
+      NyssSylv 30 (152) 50 (430) 10 (18) 20 (123) 
+      OxydArbo 30 (752) 50 (449) 
+      QuerAlba 30 (108) 40 (628) 50 (1429) 80 (1323) 
+      QuerCocc 40 (547) 30 (143) 50 (494) 
+      QuerPrin 40 (339) 30 (159) 
+ 
+MapCode  78 
+      PinuRigi 30 (2594) 20 (1745) 
+      QuerAlba 30 (1027) 
+      QuerCocc 20 (162) 
+ 
+MapCode  79 
+      PinuRigi 50 (584) 20 (58) 30 (421) 40 (2169) 70 (990) 
+      AcerRubr 10 (15) 40 (186) 
+      NyssSylv 30 (77) 10 (93) 
+      QuerCocc 40 (299) 
+      QuerPrin 60 (2337) 40 (715) 30 (962) 50 (1171) 
+      QuerVelu 60 (420) 
+ 
+MapCode  80 
+      PinuRigi 40 (4369) 20 (133) 50 (1183) 60 (700) 30 (326) 
+      QuerFalc 20 (47) 40 (1373) 
+      QuerVelu 20 (94) 40 (639) 30 (188) 
+      SassAlid 20 (50) 
+ 
+MapCode  81 
+      PinuRigi 30 (6036) 20 (1544) 
+ 
+MapCode  82 
+      PinuRigi 40 (578) 30 (1006) 50 (845) 60 (753) 
+      QuerCocc 50 (3221) 40 (1275) 60 (389) 70 (447) 
+ 
+MapCode  83 
+      PinuRigi 30 (5379) 20 (774) 
+ 
+MapCode  84 
+      PinuRigi 40 (1411) 80 (916) 60 (1032) 
+      QuerAlba 30 (1310) 40 (1244) 50 (682) 20 (149) 
+      QuerPrin 40 (1011) 50 (1010) 
+      QuerVelu 40 (124) 30 (92) 
+ 
+MapCode  85 
+      PinuRigi 20 (62) 30 (384) 
+      AcerRubr 60 (529) 40 (177) 
+      CaryGlab 40 (1586) 60 (514) 
+      OxydArbo 40 (236) 30 (151) 
+      QuerAlba 130 (2599) 
+      QuerCocc 30 (109) 
+      QuerPrin 50 (481) 40 (328) 70 (825) 90 (1099) 130 (6743) 60 (1299) 30 (257) 20 (204) 
+      QuerRubr 60 (549) 20 (57) 130 (765) 40 (649) 
+      QuerVelu 80 (155) 50 (142) 
+ 
+MapCode  86 
+      PinuRigi 70 (745) 
+      PinuStro 130 (14336) 90 (844) 50 (117) 
+      PinuVirg 90 (3388) 110 (637) 
+      AcerRubr 40 (498) 50 (306) 
+      LiriTuli 40 (302) 50 (105) 
+      MagnMacr 20 (462) 10 (31) 
+      OxydArbo 20 (688) 
+      QuerCocc 90 (2036) 
+      QuerVelu 50 (364) 
+      SassAlid 20 (55) 
+ 
+MapCode  87 
+      PinuRigi 90 (414) 
+      AcerRubr 50 (309) 20 (90) 40 (78) 
+      NyssSylv 10 (345) 20 (248) 30 (80) 40 (245) 150 (706) 
+      OxydArbo 40 (657) 
+      QuerCocc 60 (901) 40 (2118) 90 (1197) 50 (1024) 80 (1628) 
+      QuerPrin 120 (2307) 30 (479) 40 (216) 70 (1162) 60 (1144) 80 (1074) 
+      SassAlid 20 (202) 
+ 
+MapCode  88 
+      PinuRigi 30 (2241) 40 (692) 20 (108) 
+ 
+MapCode  89 
+      PinuRigi 30 (8536) 40 (1245) 20 (556) 
+      AcerRubr 10 (174) 20 (429) 40 (184) 30 (346) 
+ 
+MapCode  90 
+      PinuRigi 20 (607) 80 (840) 40 (335) 30 (64) 90 (1144) 50 (242) 
+      QuerFalc 50 (390) 90 (825) 
+      QuerVelu 90 (1100) 60 (188) 40 (514) 120 (1186) 20 (55) 70 (723) 50 (439) 
+ 
+MapCode  91 
+      PinuRigi 30 (87) 40 (228) 
+      QuerAlba 30 (599) 130 (1055) 40 (596) 50 (195) 20 (164) 60 (785) 80 (2314) 100 (1515) 
+      QuerVelu 40 (272) 
+ 
+MapCode  92 
+      PinuRigi 20 (57) 
+      AcerRubr 50 (596) 20 (277) 30 (445) 70 (954) 80 (641) 60 (1036) 
+      CaryGlab 30 (177) 
+      LiriTuli 50 (326) 60 (1288) 
+      OxydArbo 20 (34) 10 (28) 
+      QuerPrin 60 (1879) 40 (4516) 30 (1723) 
+      QuerRubr 40 (1059) 
+ 
+MapCode  93 
+      PinuRigi 50 (2365) 20 (86) 
+      PinuVirg 50 (362) 
+      AcerRubr 20 (553) 10 (35) 30 (162) 
+      BetuLent 20 (31) 
+      LiriTuli 30 (193) 
+      MagnMacr 20 (502) 
+      NyssSylv 10 (28) 
+      QuerAlba 40 (816) 70 (856) 140 (2408) 
+      QuerCocc 50 (956) 40 (559) 70 (1716) 
+      QuerPrin 50 (653) 40 (230) 20 (65) 30 (1056) 
+ 
+MapCode  94 
+      PinuRigi 80 (5869) 
+      PinuVirg 60 (80) 
+      AcerRubr 60 (142) 40 (654) 
+      NyssSylv 40 (64) 
+      OxydArbo 40 (400) 60 (180) 20 (179) 30 (136) 
+      QuerCocc 40 (488) 130 (809) 160 (397) 90 (397) 100 (308) 
+      QuerPrin 130 (1452) 60 (554) 160 (364) 50 (164) 40 (432) 
+ 
+MapCode  95 
+      PinuStro 60 (757) 30 (771) 20 (251) 40 (104) 80 (1381) 
+      PinuVirg 30 (488) 
+      AcerRubr 30 (271) 50 (433) 40 (329) 20 (227) 
+      NyssSylv 20 (109) 
+      OxydArbo 20 (653) 10 (28) 30 (188) 
+      QuerAlba 40 (845) 90 (1776) 
+      QuerFalc 40 (1728) 50 (1480) 
+ 
+MapCode  96 
+      PinuStro 20 (183) 130 (3695) 
+      PinuVirg 90 (1021) 
+      AcerRubr 20 (109) 50 (561) 80 (2144) 90 (3371) 60 (2529) 30 (216) 
+      CaryGlab 110 (2516) 30 (77) 120 (3381) 40 (205) 
+      FaguGran 20 (95) 10 (37) 
+      LiriTuli 40 (452) 150 (1430) 
+      NyssSylv 20 (85) 
+      QuerAlba 140 (4726) 70 (1051) 
+      QuerCocc 140 (2893) 40 (937) 
+      QuerVelu 50 (555) 
+ 
+MapCode  97 
+      PinuStro 30 (393) 20 (115) 
+      AcerRubr 80 (568) 50 (158) 20 (113) 40 (116) 
+      CaryGlab 40 (152) 30 (175) 60 (384) 
+      CaryAlba 40 (352) 70 (571) 
+      CornFlor 20 (68) 
+      NyssSylv 40 (221) 
+      OxydArbo 40 (119) 
+      PrunSero 50 (116) 70 (464) 
+      QuerAlba 140 (2064) 
+      QuerPrin 80 (549) 140 (6786) 
+      SassAlid 30 (71) 
+ 
+MapCode  98 
+      PinuStro 20 (38) 
+      AcerRubr 70 (200) 30 (783) 80 (799) 60 (259) 40 (449) 50 (174) 
+      CaryGlab 20 (602) 
+      LiriTuli 140 (9806) 
+      NyssSylv 30 (107) 
+      OxydArbo 40 (648) 30 (187) 20 (233) 
+      QuerPrin 60 (259) 140 (2502) 50 (1088) 90 (666) 70 (4048) 
+      QuerVelu 140 (2650) 90 (1023) 
+      RobiPseu 20 (144) 
+ 
+MapCode  99 
+      PinuStro 30 (96) 
+      AcerRubr 60 (1264) 40 (850) 50 (1218) 10 (15) 
+      CaryAlba 30 (97) 20 (364) 
+      CornFlor 20 (182) 
+      OxydArbo 40 (395) 20 (180) 
+      QuerAlba 90 (1184) 30 (688) 
+      QuerCocc 50 (410) 140 (1920) 100 (1817) 40 (769) 
+      QuerVelu 40 (648) 
+ 
+MapCode  100 
+      PinuStro 40 (422) 
+      AcerRubr 40 (487) 20 (56) 50 (133) 
+      BetuLent 40 (378) 
+      CaryGlab 30 (82) 
+      LiriTuli 50 (1542) 40 (1438) 60 (896) 70 (468) 20 (442) 30 (369) 10 (28) 
+      NyssSylv 40 (286) 10 (11) 
+      OxydArbo 30 (276) 
+      PrunSero 30 (50) 
+      QuerRubr 70 (2115) 
+      RobiPseu 20 (73) 
+ 
+MapCode  101 
+      PinuStro 70 (868) 30 (62) 
+      AcerRubr 60 (519) 40 (1088) 30 (301) 50 (826) 10 (154) 
+      LiriTuli 50 (202) 30 (89) 
+      MagnAcum 30 (77) 
+      MagnMacr 20 (86) 
+      NyssSylv 60 (1086) 20 (762) 30 (699) 10 (100) 
+      OxydArbo 30 (724) 40 (657) 20 (832) 
+      QuerAlba 30 (387) 
+      QuerPrin 70 (6163) 60 (2168) 
+      RobiPseu 20 (141) 
+      SassAlid 30 (230) 
+ 
+MapCode  102 
+      PinuStro 30 (56) 
+      AcerRubr 80 (540) 90 (649) 50 (324) 60 (566) 
+      BetuLent 40 (173) 60 (930) 70 (355) 50 (714) 20 (56) 
+      LiriTuli 150 (514) 140 (1274) 
+      MagnMacr 80 (180) 170 (610) 30 (71) 50 (159) 
+      OxydArbo 50 (671) 40 (92) 
+      QuerPrin 80 (631) 70 (1028) 50 (155) 60 (795) 30 (153) 130 (2003) 40 (160) 
+      QuerRubr 140 (980) 70 (694) 130 (1689) 120 (460) 
+      RobiPseu 100 (283) 
+ 
+MapCode  103 
+      PinuStro 40 (893) 30 (696) 
+      AcerRubr 30 (429) 10 (414) 20 (809) 40 (347) 60 (602) 
+      LiriTuli 30 (94) 
+      MagnAcum 20 (14) 
+      NyssSylv 20 (101) 
+      OxydArbo 10 (39) 
+      QuerAlba 30 (555) 40 (766) 100 (1981) 
+      QuerCocc 30 (571) 
+      QuerPrin 30 (232) 20 (379) 
+      QuerRubr 10 (40) 
+      SassAlid 10 (117) 20 (85) 
+ 
+MapCode  104 
+      PinuStro 30 (435) 50 (460) 40 (1149) 20 (408) 
+      AcerRubr 20 (94) 50 (913) 
+      NyssSylv 20 (451) 10 (141) 
+      OxydArbo 10 (28) 
+      QuerAlba 40 (281) 30 (101) 
+      QuerPrin 30 (366) 60 (1737) 100 (1259) 140 (1130) 50 (1169) 90 (2166) 
+      QuerRubr 80 (1004) 
+ 
+MapCode  105 
+      PinuStro 30 (333) 80 (967) 
+      PinuVirg 20 (30) 30 (135) 70 (1137) 50 (432) 
+      AcerRubr 50 (408) 40 (562) 30 (237) 20 (35) 
+      CaryAlba 20 (25) 30 (292) 
+      CornFlor 20 (182) 
+      LiriTuli 10 (11) 40 (75) 20 (90) 30 (197) 50 (215) 
+      NyssSylv 20 (39) 10 (14) 30 (107) 
+      PrunSero 30 (420) 
+      QuerAlba 20 (54) 
+      QuerFalc 70 (759) 80 (597) 60 (577) 
+      SassAlid 20 (21) 10 (10) 
+ 
+MapCode  106 
+      PinuStro 30 (163) 
+      AcerRubr 40 (369) 20 (116) 
+      AcerSacc 30 (122) 
+      BetuLent 30 (619) 40 (281) 
+      CaryGlab 60 (1717) 50 (1028) 
+      LiriTuli 80 (1252) 40 (363) 150 (1269) 50 (469) 
+      MagnAcum 60 (1054) 30 (327) 
+      NyssSylv 30 (282) 
+      OxydArbo 10 (352) 
+      QuerAlba 50 (1415) 30 (230) 150 (6988) 40 (541) 
+      QuerPrin 20 (697) 30 (632) 40 (379) 10 (112) 
+ 
+MapCode  107 
+      PinuStro 90 (1349) 50 (233) 
+      PinuVirg 90 (992) 
+      AcerRubr 40 (98) 60 (125) 50 (534) 
+      AcerSacc 40 (121) 
+      CaryGlab 40 (365) 30 (307) 50 (502) 
+      LiriTuli 80 (296) 40 (288) 
+      OxydArbo 30 (512) 10 (14) 
+      QuerCocc 140 (3651) 
+      QuerPrin 50 (249) 
+      QuerVelu 30 (109) 140 (4656) 110 (1350) 80 (1497) 
+ 
+MapCode  108 
+      PinuStro 30 (294) 40 (255) 
+      AcerRubr 30 (312) 
+      BetuLent 20 (526) 10 (47) 30 (976) 50 (1279) 40 (2436) 
+      CaryGlab 50 (408) 20 (116) 
+      FraxAmer 60 (762) 
+      LiriTuli 30 (94) 50 (168) 20 (116) 40 (443) 10 (90) 
+      NyssSylv 30 (83) 
+      OxydArbo 10 (66) 30 (194) 40 (185) 
+      QuerCocc 20 (260) 40 (140) 50 (522) 
+      QuerPrin 40 (585) 60 (631) 
+      QuerRubr 40 (837) 50 (1027) 
+      RobiPseu 20 (215) 40 (160) 30 (112) 
+ 
+MapCode  109 
+      PinuStro 30 (60) 
+      AcerRubr 40 (265) 
+      CornFlor 20 (46) 
+      LiriTuli 60 (386) 
+      NyssSylv 50 (1359) 30 (98) 
+      OxydArbo 30 (482) 
+      QuerAlba 140 (2687) 60 (2661) 40 (453) 70 (1091) 90 (2343) 
+      QuerCocc 60 (1199) 140 (6159) 
+      QuerPrin 60 (2499) 
+      QuerRubr 50 (1273) 
+ 
+MapCode  110 
+      PinuStro 40 (510) 
+      AcerRubr 40 (1081) 50 (1368) 20 (203) 
+      CaryGlab 30 (154) 
+      LiriTuli 40 (599) 
+      MagnMacr 30 (121) 
+      NyssSylv 30 (265) 40 (359) 60 (909) 20 (136) 
+      OxydArbo 30 (1646) 10 (33) 20 (591) 
+      QuerAlba 40 (574) 
+      QuerCocc 80 (2580) 
+      QuerPrin 40 (5268) 30 (280) 50 (5854) 
+ 
+MapCode  111 
+      PinuStro 130 (22918) 
+      BetuLent 40 (231) 
+      FaguGran 40 (643) 
+      LiriTuli 150 (3914) 
+      QuerAlba 90 (3428) 
+ 
+MapCode  112 
+      PinuStro 30 (46) 
+      AcerRubr 60 (1925) 20 (221) 10 (37) 40 (452) 30 (100) 
+      BetuLent 40 (202) 
+      LiriTuli 20 (53) 
+      OxydArbo 30 (127) 
+      QuerCocc 50 (4559) 
+      QuerPrin 50 (1783) 30 (136) 
+      QuerRubr 30 (188) 130 (2547) 60 (720) 
+      RobiPseu 30 (132) 10 (80) 
+ 
+MapCode  113 
+      PinuStro 70 (1390) 60 (1216) 130 (7492) 50 (811) 30 (210) 20 (186) 
+      AcerRubr 40 (1595) 30 (177) 
+      CornFlor 20 (630) 
+      LiriTuli 40 (275) 
+      NyssSylv 20 (210) 
+      OxydArbo 30 (1106) 20 (301) 
+      QuerAlba 100 (3776) 80 (2902) 30 (322) 
+      QuerCocc 50 (1264) 30 (849) 100 (3973) 
+      QuerFalc 30 (482) 
+      QuerVelu 60 (963) 50 (855) 
+ 
+MapCode  114 
+      PinuStro 50 (605) 100 (1399) 40 (159) 
+      PinuVirg 40 (116) 
+      AcerRubr 50 (618) 40 (984) 20 (20) 
+      CaryGlab 40 (80) 60 (503) 80 (1090) 
+      CornFlor 20 (532) 30 (85) 
+      LiriTuli 160 (637) 110 (395) 50 (126) 80 (298) 140 (987) 30 (312) 
+      NyssSylv 30 (101) 10 (58) 
+      OxydArbo 30 (580) 40 (287) 110 (569) 
+      QuerAlba 30 (227) 140 (2408) 
+      QuerCocc 50 (309) 
+      QuerVelu 20 (84) 
+ 
+MapCode  115 
+      PinuStro 20 (308) 
+      AcerRubr 40 (722) 50 (480) 30 (345) 20 (395) 
+      HaleDipt 10 (429) 
+      LiriTuli 150 (3663) 
+      NyssSylv 20 (236) 30 (173) 40 (477) 
+      OxydArbo 20 (280) 30 (164) 40 (1691) 
+      QuerAlba 60 (1019) 
+      QuerCocc 90 (2366) 40 (438) 
+      QuerPrin 140 (2642) 80 (1444) 40 (1052) 50 (596) 110 (2791) 70 (2936) 
+      QuerVelu 60 (1432) 
+ 
+MapCode  116 
+      PinuStro 70 (999) 130 (2840) 80 (1735) 40 (89) 
+      AcerRubr 50 (892) 
+      BetuLent 60 (604) 
+      NyssSylv 10 (53) 30 (114) 
+      OxydArbo 30 (553) 40 (367) 
+      QuerAlba 140 (2663) 
+      QuerCocc 50 (2499) 
+      QuerPrin 60 (591) 70 (2980) 30 (266) 40 (1209) 50 (890) 110 (2196) 90 (746) 100 (1210) 
+      QuerRubr 60 (499) 
+      SassAlid 30 (107) 
+ 
+MapCode  117 
+      PinuStro 30 (314) 40 (220) 
+      PinuVirg 70 (854) 40 (1180) 60 (375) 
+      AcerRubr 30 (212) 20 (44) 10 (15) 
+      CaryGlab 40 (125) 
+      CornFlor 20 (37) 
+      NyssSylv 40 (663) 30 (450) 20 (63) 
+      OxydArbo 40 (490) 30 (107) 
+      QuerCocc 50 (340) 40 (635) 60 (1120) 
+      QuerPrin 50 (1619) 30 (129) 
+      QuerVelu 50 (518) 
+ 
+MapCode  118 
+      PinuStro 30 (56) 
+      AcerRubr 40 (1003) 
+      CaryAlba 50 (707) 
+      NyssSylv 10 (282) 
+      OxydArbo 20 (822) 40 (1037) 30 (206) 10 (11) 
+      QuerCocc 30 (1936) 20 (107) 40 (1763) 
+      QuerPrin 30 (1339) 50 (1747) 40 (683) 60 (560) 
+      QuerRubr 30 (410) 50 (1617) 40 (915) 
+ 
+MapCode  119 
+      PinuStro 40 (208) 80 (1105) 30 (348) 50 (217) 60 (2097) 
+      AcerRubr 20 (323) 60 (1497) 10 (15) 50 (650) 40 (612) 
+      NyssSylv 30 (437) 40 (265) 50 (408) 20 (61) 
+      OxydArbo 40 (668) 30 (329) 20 (229) 
+      QuerAlba 40 (610) 
+      QuerCocc 40 (1365) 50 (487) 
+      QuerPrin 60 (2868) 40 (364) 50 (1099) 80 (1697) 
+ 
+MapCode  120 
+      PinuStro 20 (25) 40 (520) 
+      BetuLent 20 (133) 
+      CaryGlab 20 (933) 40 (1053) 50 (1357) 30 (1201) 60 (1136) 
+      CaryAlba 40 (573) 30 (566) 20 (30) 
+      FraxPenn 30 (169) 
+      QuerAlba 20 (258) 50 (1039) 
+      QuerCocc 10 (63) 
+      RobiPseu 10 (96) 
+      SassAlid 20 (66) 
+ 
+MapCode  121 
+      PinuStro 60 (3364) 40 (573) 130 (18777) 50 (826) 30 (75) 
+      PinuVirg 10 (17) 
+      AcerRubr 20 (33) 30 (122) 40 (1237) 
+      CaryAlba 30 (112) 
+      HaleDipt 10 (21) 
+      LiriTuli 20 (270) 10 (58) 
+      MagnMacr 20 (712) 
+      NyssSylv 20 (69) 10 (46) 
+      OxydArbo 20 (83) 10 (53) 30 (121) 
+      QuerAlba 30 (638) 20 (160) 
+      QuerFalc 60 (1611) 
+      QuerVelu 40 (961) 
+ 
+MapCode  122 
+      PinuStro 30 (346) 20 (29) 
+      PinuVirg 60 (1466) 40 (390) 
+      AcerRubr 20 (140) 40 (747) 30 (203) 
+      CaryGlab 70 (745) 
+      NyssSylv 30 (658) 
+      OxydArbo 30 (452) 20 (216) 
+      QuerCocc 80 (3818) 
+      QuerPrin 50 (2812) 40 (3412) 30 (1541) 60 (6168) 70 (2112) 20 (185) 
+      QuerVelu 60 (834) 
+ 
+MapCode  123 
+      PinuStro 50 (467) 70 (1986) 40 (857) 30 (124) 
+      AcerRubr 40 (474) 30 (181) 20 (279) 
+      CaryGlab 40 (598) 
+      CaryAlba 50 (908) 30 (536) 
+      OxydArbo 50 (659) 30 (255) 20 (63) 40 (667) 
+      QuerAlba 40 (1531) 50 (509) 30 (280) 
+      QuerPrin 40 (4608) 
+      QuerRubr 60 (1551) 70 (1185) 40 (691) 10 (16) 
+      QuerVelu 30 (77) 
+ 
+MapCode  124 
+      PinuStro 20 (179) 
+      AcerRubr 10 (269) 30 (129) 40 (3206) 
+      CaryGlab 40 (1616) 30 (1549) 50 (2145) 
+      LiriTuli 50 (2319) 10 (56) 90 (8965) 30 (526) 40 (491) 
+      MagnMacr 20 (126) 
+      QuerPrin 40 (3761) 
+      QuerRubr 30 (2458) 40 (2327) 
+ 
+MapCode  125 
+      PinuStro 70 (1190) 
+      AcerRubr 60 (2735) 40 (1022) 20 (169) 50 (866) 80 (490) 70 (588) 
+      CaryGlab 30 (339) 
+      LiriTuli 80 (366) 
+      NyssSylv 20 (136) 
+      OxydArbo 50 (615) 20 (26) 
+      QuerAlba 50 (775) 30 (107) 60 (375) 
+      QuerCocc 60 (1677) 140 (1801) 90 (1366) 
+      QuerPrin 70 (446) 50 (1613) 60 (852) 90 (879) 40 (235) 
+      QuerRubr 60 (1281) 40 (370) 
+      SassAlid 30 (66) 
+ 
+MapCode  126 
+      PinuStro 30 (187) 
+      AcerRubr 30 (453) 40 (2261) 
+      AcerSacc 40 (549) 
+      CaryGlab 40 (1714) 
+      CornFlor 10 (274) 
+      LiriTuli 80 (3556) 60 (5216) 10 (181) 50 (2210) 40 (913) 70 (1451) 20 (191) 30 (1167) 
+      NyssSylv 20 (229) 30 (668) 40 (672) 
+      OxydArbo 30 (277) 
+      QuerRubr 10 (33) 
+      RobiPseu 10 (318) 30 (530) 20 (224) 
+ 
+MapCode  127 
+      PinuStro 90 (1528) 40 (196) 50 (1247) 60 (609) 
+      AcerRubr 50 (1172) 
+      BetuLent 40 (398) 30 (232) 
+      LiriTuli 40 (487) 50 (1093) 
+      MagnMacr 30 (307) 20 (54) 40 (483) 
+      NyssSylv 20 (89) 
+      OxydArbo 20 (849) 30 (142) 
+      QuerAlba 30 (131) 20 (199) 
+      QuerCocc 50 (648) 70 (2025) 140 (3094) 
+      QuerPrin 30 (93) 110 (1420) 70 (1033) 
+      SassAlid 20 (84) 
+ 
+MapCode  128 
+      PinuStro 30 (314) 
+      AcerRubr 80 (1799) 30 (76) 20 (1151) 60 (358) 
+      CornFlor 20 (195) 
+      LiriTuli 30 (251) 40 (189) 70 (288) 140 (529) 
+      OxydArbo 30 (357) 50 (160) 
+      QuerAlba 140 (6959) 60 (287) 40 (175) 20 (98) 50 (342) 
+      QuerCocc 110 (476) 140 (1557) 
+      QuerFalc 30 (142) 130 (1081) 
+ 
+MapCode  129 
+      PinuStro 40 (125) 20 (59) 30 (650) 
+      AcerRubr 60 (2199) 30 (158) 20 (31) 
+      NyssSylv 10 (70) 20 (310) 
+      OxydArbo 40 (209) 20 (649) 30 (592) 10 (14) 
+      QuerAlba 20 (403) 
+      QuerCocc 90 (1842) 
+      QuerPrin 30 (303) 40 (169) 20 (1013) 80 (4601) 50 (702) 
+      QuerVelu 40 (356) 60 (1459) 
+ 
+MapCode  130 
+      PinuStro 40 (1027) 20 (70) 50 (1288) 30 (341) 
+      AcerRubr 40 (556) 20 (367) 30 (81) 
+      LiriTuli 30 (232) 40 (409) 
+      NyssSylv 40 (162) 20 (71) 
+      OxydArbo 20 (71) 40 (815) 
+      QuerCocc 50 (2983) 70 (3185) 80 (2574) 90 (1261) 140 (2397) 
+      QuerPrin 60 (465) 40 (1160) 30 (453) 50 (318) 
+      QuerVelu 40 (433) 
+ 
+MapCode  131 
+      PinuStro 30 (105) 40 (42) 
+      AcerRubr 70 (610) 60 (1022) 80 (889) 20 (52) 40 (181) 
+      NyssSylv 50 (162) 
+      OxydArbo 40 (138) 60 (435) 
+      QuerAlba 30 (72) 40 (135) 
+      QuerPrin 70 (705) 60 (363) 50 (886) 80 (842) 40 (197) 20 (176) 130 (4507) 100 (781) 30 (96) 
+      QuerVelu 130 (1164) 
+ 
+MapCode  132 
+      PinuStro 30 (47) 
+      CaryGlab 80 (1855) 40 (475) 
+      LiriTuli 10 (23) 
+      NyssSylv 30 (425) 40 (561) 50 (456) 10 (14) 
+      OxydArbo 30 (1562) 40 (461) 
+      QuerAlba 50 (311) 70 (442) 
+      QuerCocc 80 (872) 60 (664) 
+      QuerPrin 130 (1223) 140 (2291) 30 (277) 50 (2119) 40 (142) 60 (1891) 20 (88) 
+      QuerVelu 140 (1916) 120 (1201) 
+ 
+MapCode  133 
+      PinuStro 50 (277) 40 (75) 
+      CaryGlab 40 (62) 
+      NyssSylv 50 (88) 40 (94) 
+      PrunSero 90 (391) 60 (142) 
+      QuerAlba 80 (760) 130 (14709) 30 (96) 40 (95) 
+      QuerRubr 130 (477) 
+ 
+MapCode  134 
+      PinuStro 30 (413) 20 (503) 
+      AcerRubr 30 (146) 50 (779) 60 (1326) 40 (154) 
+      CaryGlab 50 (279) 
+      CornFlor 30 (145) 
+      NyssSylv 30 (129) 
+      OxydArbo 40 (232) 
+      QuerCocc 140 (3120) 
+      QuerPrin 110 (2152) 80 (2704) 40 (412) 60 (1915) 50 (2470) 30 (171) 70 (1105) 140 (4881) 
+      QuerRubr 140 (3075) 50 (777) 
+      RobiPseu 40 (202) 
+ 
+MapCode  135 
+      PinuStro 70 (898) 40 (69) 50 (437) 130 (3845) 90 (602) 20 (23) 
+      AcerRubr 50 (2172) 60 (2070) 70 (1600) 40 (214) 
+      NyssSylv 30 (176) 
+      OxydArbo 40 (1067) 30 (211) 50 (505) 
+      QuerPrin 70 (2251) 100 (1499) 110 (1764) 50 (368) 60 (2980) 10 (30) 90 (1572) 80 (1793) 40 (390) 
+      QuerRubr 80 (949) 
+ 
+MapCode  136 
+      PinuStro 20 (105) 
+      AcerRubr 30 (314) 
+      CaryGlab 50 (748) 60 (503) 30 (536) 
+      LiriTuli 10 (54) 100 (653) 150 (908) 40 (81) 
+      NyssSylv 10 (76) 20 (212) 30 (353) 70 (1272) 
+      OxydArbo 40 (1350) 
+      QuerAlba 140 (6044) 60 (1442) 50 (578) 40 (196) 
+      QuerPrin 70 (1176) 
+      QuerVelu 140 (7483) 60 (621) 
+ 
+MapCode  137 
+      PinuStro 30 (458) 40 (785) 60 (359) 50 (410) 
+      AcerRubr 50 (562) 20 (221) 30 (140) 
+      BetuLent 40 (362) 30 (184) 
+      LiriTuli 50 (899) 40 (501) 30 (674) 20 (363) 60 (942) 
+      QuerPrin 50 (772) 140 (2021) 30 (262) 40 (584) 
+      QuerVelu 20 (661) 
+      RobiPseu 30 (125) 
+ 
+MapCode  138 
+      PinuStro 20 (10) 40 (132) 30 (64) 
+      AcerRubr 40 (608) 60 (813) 30 (125) 
+      NyssSylv 20 (1213) 
+      OxydArbo 30 (677) 40 (1264) 
+      QuerAlba 40 (709) 80 (1949) 
+      QuerCocc 140 (2122) 100 (1790) 70 (1121) 
+      QuerPrin 80 (1301) 70 (853) 
+      QuerVelu 70 (1810) 80 (2752) 
+ 
+MapCode  139 
+      PinuStro 20 (566) 30 (5092) 50 (1865) 40 (445) 
+      AcerRubr 30 (1546) 40 (885) 
+      AcerSacc 30 (391) 
+      BetuLent 10 (136) 20 (59) 
+      PrunSero 20 (102) 
+ 
+MapCode  140 
+      PinuStro 20 (188) 30 (192) 
+      AcerRubr 30 (135) 20 (52) 
+      BetuLent 20 (115) 
+      LiriTuli 30 (1140) 
+      NyssSylv 20 (470) 30 (347) 
+      PrunSero 30 (656) 
+      QuerRubr 10 (33) 
+      RobiPseu 20 (689) 50 (364) 
+ 
+MapCode  141 
+      PinuStro 30 (454) 40 (558) 
+      PinuVirg 30 (242) 40 (295) 60 (336) 
+      AcerRubr 50 (1003) 40 (252) 30 (468) 20 (80) 
+      CaryGlab 20 (37) 40 (368) 
+      CaryAlba 30 (417) 
+      LiriTuli 150 (2128) 180 (2101) 70 (1204) 90 (883) 
+      QuerAlba 30 (638) 60 (3949) 40 (3327) 
+      QuerCocc 50 (791) 
+      QuerRubr 60 (1097) 
+      QuerVelu 70 (1100) 60 (715) 
+ 
+MapCode  142 
+      PinuStro 130 (980) 60 (429) 110 (1179) 
+      AcerRubr 110 (1346) 80 (730) 90 (969) 50 (336) 
+      NyssSylv 40 (288) 180 (987) 
+      QuerPrin 140 (7283) 
+      QuerVelu 140 (1108) 60 (260) 
+      SassAlid 30 (507) 
+ 
+MapCode  143 
+      PinuStro 120 (1294) 130 (1345) 50 (317) 60 (454) 
+      AcerRubr 70 (1252) 80 (1483) 30 (346) 90 (1750) 50 (98) 60 (168) 
+      BetuLent 30 (142) 120 (598) 
+      CaryGlab 80 (303) 
+      FaguGran 60 (324) 
+      QuerAlba 60 (259) 80 (340) 130 (3081) 
+      QuerCocc 130 (4577) 
+      QuerPrin 130 (3252) 
+ 
+MapCode  144 
+      PinuStro 130 (4655) 
+      AcerRubr 50 (469) 60 (1134) 
+      BetuLent 50 (556) 
+      LiriTuli 50 (313) 150 (14330) 40 (315) 90 (4410) 30 (378) 60 (2340) 70 (901) 80 (756) 
+      MagnMacr 60 (842) 40 (521) 
+      OxydArbo 40 (237) 
+      QuerPrin 70 (954) 
+      QuerRubr 150 (6111) 
+ 
+MapCode  145 
+      PinuStro 40 (95) 
+      CaryGlab 200 (107) 
+      CaryAlba 150 (117) 200 (1852) 
+      QuerPrin 110 (5727) 80 (248) 
+      QuerRubr 80 (503) 110 (4412) 60 (59) 30 (48) 
+      RobiPseu 60 (757) 
+      SassAlid 20 (14) 
+ 
+MapCode  146 
+      PinuStro 30 (300) 
+      AcerRubr 20 (221) 
+      AcerSacc 10 (281) 
+      CaryGlab 30 (127) 40 (274) 
+      CaryAlba 20 (86) 
+      FraxAmer 20 (475) 
+      LiriTuli 60 (918) 
+      MagnAcum 40 (564) 50 (1312) 
+      QuerAlba 60 (1693) 
+      QuerVelu 50 (10825) 
+ 
+MapCode  147 
+      PinuStro 20 (86) 50 (538) 30 (463) 
+      AcerRubr 30 (603) 10 (140) 20 (227) 50 (374) 
+      NyssSylv 10 (32) 
+      OxydArbo 30 (248) 40 (117) 
+      QuerAlba 140 (2051) 20 (859) 
+      QuerCocc 140 (3220) 100 (1727) 70 (1285) 
+      QuerPrin 80 (870) 70 (546) 
+      QuerVelu 140 (1461) 
+ 
+MapCode  148 
+      PinuStro 30 (286) 20 (218) 
+      AcerRubr 20 (61) 
+      BetuLent 40 (206) 
+      CaryGlab 40 (593) 20 (25) 30 (209) 
+      CaryAlba 40 (163) 30 (207) 50 (846) 60 (989) 
+      CornFlor 10 (31) 
+      LiriTuli 40 (741) 10 (15) 50 (152) 
+      NyssSylv 20 (104) 30 (119) 
+      OxydArbo 30 (241) 
+      QuerAlba 60 (2143) 
+      QuerPrin 60 (4027) 50 (2710) 30 (160) 40 (131) 
+      QuerVelu 50 (1641) 
+      RobiPseu 10 (216) 60 (375) 
+ 
+MapCode  149 
+      PinuStro 30 (1466) 40 (3830) 50 (1794) 
+      AcerRubr 50 (635) 10 (44) 20 (446) 30 (983) 40 (1228) 
+      CaryGlab 30 (650) 
+      OxydArbo 20 (604) 30 (262) 
+      QuerCocc 40 (4262) 30 (2089) 
+      QuerPrin 30 (1355) 20 (78) 
+      QuerVelu 30 (226) 
+ 
+MapCode  150 
+      PinuStro 10 (43) 
+      AcerRubr 20 (731) 10 (61) 30 (1349) 
+      BetuLent 10 (138) 
+      CaryGlab 30 (217) 
+      FaguGran 10 (147) 
+      LiriTuli 30 (340) 10 (60) 20 (409) 40 (892) 
+      MagnAcum 40 (1016) 20 (83) 
+      OxydArbo 20 (561) 30 (350) 
+      PrunSero 10 (164) 20 (313) 
+      QuerPrin 30 (3458) 
+      QuerVelu 50 (2742) 
+ 
+MapCode  151 
+      PinuStro 40 (75) 
+      AcerRubr 20 (625) 50 (104) 90 (897) 80 (407) 
+      BetuLent 50 (446) 80 (1305) 
+      LiriTuli 140 (1342) 50 (163) 
+      MagnMacr 110 (448) 
+      OxydArbo 20 (51) 40 (164) 30 (393) 
+      QuerAlba 170 (817) 40 (255) 70 (859) 
+      QuerCocc 170 (1476) 
+      QuerPrin 130 (1086) 50 (398) 40 (614) 
+ 
+MapCode  152 
+      PinuStro 30 (2561) 20 (476) 
+      AcerRubr 30 (244) 
+      FaguGran 20 (320) 
+      OxydArbo 20 (168) 
+      QuerAlba 20 (1008) 40 (1262) 50 (4107) 30 (1939) 
+      QuerCocc 20 (264) 50 (1825) 30 (1239) 
+      QuerPrin 20 (378) 30 (5590) 40 (1259) 
+ 
+MapCode  153 
+      PinuStro 20 (249) 
+      AcerRubr 50 (1195) 40 (572) 70 (782) 
+      CaryGlab 50 (207) 
+      LiriTuli 110 (478) 
+      OxydArbo 40 (253) 30 (158) 130 (877) 20 (83) 90 (818) 80 (598) 
+      QuerAlba 60 (1281) 
+      QuerPrin 110 (3788) 40 (121) 140 (6531) 60 (1165) 
+      QuerRubr 140 (5295) 
+      QuerVelu 140 (2956) 
+ 
+MapCode  154 
+      PinuStro 20 (7) 
+      AcerRubr 60 (1341) 30 (82) 20 (101) 40 (108) 
+      CaryGlab 60 (352) 30 (49) 40 (86) 
+      LiriTuli 30 (657) 100 (1442) 40 (423) 120 (659) 80 (196) 50 (189) 20 (251) 90 (709) 
+      NyssSylv 40 (299) 
+      OxydArbo 40 (1016) 20 (118) 30 (192) 
+      QuerAlba 50 (337) 90 (1245) 
+      QuerPrin 40 (741) 50 (291) 100 (2132) 
+      QuerRubr 60 (444) 
+      QuerVelu 70 (1258) 50 (719) 
+ 
+MapCode  155 
+      PinuStro 50 (648) 30 (55) 40 (207) 
+      AcerRubr 30 (292) 40 (1767) 50 (1001) 
+      CaryGlab 40 (310) 30 (223) 
+      LiriTuli 30 (242) 40 (168) 
+      NyssSylv 20 (82) 
+      OxydArbo 30 (1042) 
+      QuerAlba 30 (171) 50 (1678) 
+      QuerCocc 50 (1014) 30 (300) 
+      QuerVelu 30 (308) 
+ 
+MapCode  156 
+      PinuStro 20 (37) 
+      PinuVirg 70 (1085) 30 (503) 
+      AcerRubr 50 (310) 30 (188) 40 (508) 20 (80) 
+      NyssSylv 30 (875) 20 (580) 40 (328) 
+      OxydArbo 30 (593) 20 (169) 
+      QuerCocc 40 (2272) 30 (656) 
+      QuerPrin 40 (1227) 30 (172) 
+ 
+MapCode  157 
+      PinuStro 40 (352) 30 (208) 
+      AcerRubr 40 (1170) 30 (84) 10 (62) 
+      NyssSylv 30 (89) 20 (173) 
+      OxydArbo 40 (340) 20 (87) 30 (391) 
+      QuerPrin 50 (4419) 30 (175) 60 (2005) 40 (1356) 
+      QuerRubr 30 (386) 50 (825) 
+      SassAlid 30 (84) 
+ 
+MapCode  158 
+      PinuStro 20 (148) 40 (177) 
+      AcerRubr 40 (276) 50 (206) 70 (1628) 
+      LiriTuli 150 (559) 
+      NyssSylv 70 (958) 30 (162) 
+      OxydArbo 30 (239) 50 (684) 40 (146) 
+      QuerAlba 70 (2741) 50 (474) 
+      QuerCocc 50 (967) 60 (1726) 
+      QuerPrin 70 (2524) 50 (1696) 80 (1690) 130 (1391) 
+      QuerVelu 60 (305) 
+ 
+MapCode  159 
+      PinuStro 80 (962) 30 (269) 50 (335) 60 (393) 70 (633) 
+      AcerRubr 60 (1239) 50 (668) 40 (335) 
+      NyssSylv 20 (59) 
+      OxydArbo 40 (460) 30 (134) 
+      QuerAlba 30 (624) 70 (1920) 
+      QuerCocc 40 (280) 100 (2504) 70 (1228) 50 (678) 80 (789) 
+      QuerPrin 40 (289) 80 (1022) 50 (607) 
+ 
+MapCode  160 
+      PinuStro 30 (58) 
+      AcerRubr 30 (402) 10 (57) 50 (173) 
+      LiriTuli 50 (116) 
+      MagnAcum 30 (64) 
+      MagnMacr 40 (165) 
+      NyssSylv 20 (150) 10 (71) 
+      OxydArbo 30 (121) 40 (381) 
+      QuerPrin 140 (6466) 70 (1730) 90 (562) 40 (194) 80 (637) 
+      RobiPseu 40 (393) 60 (352) 
+ 
+MapCode  161 
+      PinuStro 20 (247) 40 (489) 30 (35) 
+      PinuVirg 30 (156) 
+      AcerRubr 40 (251) 50 (926) 20 (90) 30 (81) 60 (900) 
+      NyssSylv 50 (2052) 30 (137) 20 (95) 
+      QuerAlba 130 (1508) 
+      QuerCocc 60 (1762) 
+      QuerPrin 40 (652) 70 (1395) 60 (2282) 80 (2747) 140 (4656) 
+      QuerVelu 70 (840) 140 (2616) 90 (1484) 
+ 
+MapCode  162 
+      PinuStro 80 (3633) 40 (401) 30 (206) 130 (2201) 20 (13) 
+      AcerRubr 60 (1158) 40 (1872) 30 (682) 20 (113) 50 (235) 
+      OxydArbo 30 (228) 
+      QuerAlba 30 (189) 
+      QuerCocc 50 (3378) 90 (2216) 
+      QuerPrin 40 (1226) 30 (380) 50 (664) 
+ 
+MapCode  163 
+      PinuStro 30 (277) 20 (92) 
+      PinuVirg 20 (615) 
+      AcerRubr 40 (181) 50 (496) 30 (811) 10 (86) 
+      CaryAlba 40 (771) 30 (329) 
+      FaguGran 10 (13) 
+      PrunSero 20 (21) 
+      QuerAlba 10 (363) 20 (120) 
+      QuerFalc 10 (26) 
+      QuerRubr 10 (56) 
+ 
+MapCode  164 
+      PinuStro 60 (1091) 20 (62) 50 (334) 130 (2023) 40 (55) 
+      PinuVirg 90 (1075) 
+      AcerRubr 20 (126) 40 (231) 
+      CaryGlab 150 (2333) 
+      CaryAlba 70 (767) 60 (476) 
+      LiriTuli 140 (4318) 40 (98) 
+      OxydArbo 50 (198) 30 (134) 60 (353) 
+      PrunSero 40 (194) 
+      QuerAlba 130 (8515) 
+ 
+MapCode  165 
+      PinuStro 40 (318) 50 (193) 
+      AcerRubr 60 (163) 50 (734) 20 (52) 
+      AcerSacc 10 (50) 
+      CaryAlba 70 (343) 
+      OxydArbo 40 (76) 30 (93) 10 (23) 20 (641) 
+      QuerAlba 90 (329) 70 (150) 50 (376) 40 (109) 80 (1235) 60 (283) 130 (1170) 
+      QuerCocc 130 (7964) 
+      QuerPrin 70 (790) 60 (1509) 
+ 
+MapCode  166 
+      PinuStro 40 (502) 30 (59) 
+      AcerRubr 40 (887) 30 (631) 70 (559) 60 (1210) 50 (451) 
+      LiriTuli 60 (127) 
+      NyssSylv 50 (109) 60 (205) 80 (759) 40 (105) 30 (78) 20 (89) 
+      OxydArbo 30 (172) 50 (365) 40 (180) 
+      QuerPrin 40 (1291) 50 (201) 30 (230) 60 (2518) 80 (351) 130 (851) 
+      QuerRubr 130 (2229) 50 (489) 60 (762) 80 (655) 90 (380) 
+ 
+MapCode  167 
+      PinuStro 100 (1291) 40 (421) 90 (2688) 30 (60) 
+      AcerRubr 30 (1073) 20 (315) 60 (511) 50 (1290) 
+      CaryGlab 40 (261) 
+      LiriTuli 30 (803) 10 (55) 20 (357) 
+      MagnAcum 30 (131) 
+      OxydArbo 30 (570) 10 (36) 
+      QuerAlba 50 (2412) 
+      QuerCocc 60 (1311) 
+      QuerPrin 40 (606) 50 (990) 
+      QuerVelu 60 (2216) 
+      RobiPseu 30 (170) 
+ 
+MapCode  168 
+      PinuStro 70 (358) 20 (7) 
+      AcerRubr 70 (734) 110 (1263) 40 (281) 60 (239) 50 (210) 
+      BetuLent 90 (700) 80 (971) 60 (305) 
+      FaguGran 70 (602) 90 (1068) 40 (260) 50 (171) 
+      HaleDipt 10 (128) 
+      OxydArbo 50 (407) 30 (453) 60 (765) 110 (913) 130 (966) 70 (307) 
+      QuerAlba 130 (3166) 120 (567) 
+      QuerCocc 130 (6777) 110 (576) 
+      QuerPrin 130 (1414) 
+ 
+MapCode  169 
+      PinuStro 30 (141) 
+      AcerRubr 40 (178) 
+      NyssSylv 10 (28) 30 (109) 
+      OxydArbo 30 (1060) 20 (337) 40 (543) 
+      QuerCocc 30 (1091) 40 (1688) 50 (424) 60 (512) 
+      QuerPrin 30 (1679) 20 (456) 40 (2269) 60 (2600) 
+ 
+MapCode  170 
+      PinuStro 30 (43) 20 (86) 
+      PinuVirg 90 (1795) 
+      AcerRubr 30 (872) 50 (1114) 
+      OxydArbo 50 (793) 20 (54) 
+      QuerCocc 70 (625) 140 (4784) 
+      QuerPrin 50 (2224) 80 (2061) 70 (1539) 140 (6729) 30 (305) 40 (224) 
+      QuerVelu 50 (451) 
+ 
+MapCode  171 
+      PinuStro 30 (315) 40 (81) 20 (75) 
+      AcerRubr 30 (226) 40 (99) 
+      QuerCocc 50 (890) 
+      QuerFalc 50 (1401) 
+      QuerPrin 40 (7864) 30 (1212) 50 (4337) 60 (2298) 
+      RobiPseu 30 (294) 
+ 
+MapCode  172 
+      PinuStro 50 (232) 20 (95) 
+      AcerRubr 40 (766) 80 (955) 50 (596) 20 (25) 60 (205) 30 (698) 
+      CaryGlab 60 (1506) 50 (487) 
+      LiriTuli 70 (304) 
+      OxydArbo 20 (61) 40 (148) 30 (91) 10 (14) 
+      QuerAlba 60 (564) 
+      QuerCocc 100 (1231) 60 (720) 140 (6380) 50 (346) 
+      QuerVelu 90 (694) 140 (1645) 60 (547) 
+ 
+MapCode  173 
+      PinuStro 20 (37) 
+      AcerRubr 60 (149) 170 (793) 
+      CaryGlab 50 (97) 20 (19) 40 (111) 
+      LiriTuli 140 (2423) 
+      OxydArbo 70 (174) 110 (458) 
+      QuerAlba 130 (1468) 90 (682) 
+      QuerPrin 80 (464) 130 (13746) 70 (180) 
+      QuerVelu 130 (2770) 
+ 
+MapCode  174 
+      PinuStro 60 (2682) 50 (895) 70 (1627) 30 (400) 40 (144) 
+      PinuVirg 30 (115) 
+      AcerRubr 20 (31) 
+      BetuLent 40 (370) 60 (976) 
+      LiriTuli 40 (414) 50 (326) 10 (40) 30 (576) 110 (780) 20 (291) 
+      QuerAlba 10 (20) 
+ 
+MapCode  175 
+      PinuStro 10 (39) 
+      PinuVirg 20 (526) 
+      AcerRubr 30 (1476) 20 (746) 
+      BetuLent 10 (254) 20 (144) 
+      CaryAlba 30 (133) 
+      CornFlor 20 (99) 
+      LiriTuli 10 (193) 40 (2701) 30 (3001) 20 (788) 
+      NyssSylv 10 (136) 
+      OxydArbo 20 (112) 
+      PrunSero 30 (479) 20 (359) 
+      QuerCocc 30 (425) 
+ 
+MapCode  176 
+      PinuStro 130 (3679) 40 (165) 20 (17) 80 (636) 50 (126) 30 (182) 100 (555) 
+      AcerRubr 100 (1846) 90 (525) 80 (467) 60 (189) 40 (74) 20 (234) 30 (154) 
+      NyssSylv 10 (18) 
+      OxydArbo 20 (53) 50 (254) 40 (70) 10 (100) 
+      QuerCocc 130 (9354) 
+      QuerVelu 130 (2223) 
+      SassAlid 20 (184) 
+ 
+MapCode  177 
+      PinuStro 110 (1665) 30 (296) 
+      AcerRubr 40 (354) 
+      CaryGlab 40 (112) 60 (673) 70 (1703) 
+      MagnMacr 30 (136) 
+      QuerAlba 40 (752) 30 (1291) 20 (300) 50 (815) 60 (1590) 80 (3359) 
+      QuerCocc 50 (1153) 
+      QuerPrin 30 (244) 40 (756) 
+ 
+MapCode  178 
+      PinuStro 40 (649) 50 (1351) 130 (2240) 
+      AcerRubr 40 (1093) 20 (105) 30 (409) 50 (1047) 
+      BetuLent 40 (633) 50 (487) 
+      FraxAmer 30 (110) 50 (776) 
+      HaleDipt 10 (222) 
+      LiriTuli 70 (531) 50 (715) 
+      MagnMacr 10 (26) 
+      NyssSylv 30 (181) 40 (407) 
+      OxydArbo 20 (383) 
+      QuerAlba 40 (471) 
+      QuerRubr 20 (174) 10 (21) 
+ 
+MapCode  179 
+      PinuStro 10 (7) 
+      AcerRubr 40 (769) 20 (684) 
+      BetuLent 20 (153) 40 (803) 30 (220) 70 (1962) 
+      CaryGlab 30 (217) 
+      CornFlor 10 (59) 
+      LiriTuli 70 (2712) 60 (969) 30 (322) 40 (1022) 50 (3119) 80 (4288) 20 (39) 90 (1393) 120 (2645) 
+      NyssSylv 20 (203) 
+      OxydArbo 20 (140) 30 (226) 
+      PrunSero 30 (79) 
+      QuerPrin 60 (2427) 
+ 
+MapCode  180 
+      PinuStro 20 (48) 
+      LiriTuli 10 (91) 
+      QuerPrin 20 (728) 10 (48) 
+ 
+MapCode  181 
+      PinuStro 130 (1346) 
+      AcerRubr 30 (52) 20 (52) 50 (97) 
+      CaryAlba 20 (15) 
+      CornFlor 30 (101) 
+      NyssSylv 10 (23) 
+      OxydArbo 30 (265) 40 (192) 50 (109) 20 (70) 
+      PrunSero 20 (14) 30 (43) 
+      QuerAlba 130 (1426) 
+      QuerCocc 80 (297) 130 (2972) 
+      QuerFalc 130 (3116) 70 (390) 
+      QuerPrin 130 (1026) 
+      QuerVelu 130 (725) 70 (667) 60 (278) 40 (167) 
+ 
+MapCode  182 
+      PinuStro 50 (184) 30 (44) 
+      PinuVirg 100 (902) 
+      AcerRubr 30 (88) 40 (418) 20 (107) 
+      CaryGlab 60 (244) 70 (3313) 
+      CaryAlba 50 (251) 
+      NyssSylv 30 (170) 
+      OxydArbo 40 (157) 30 (499) 20 (229) 10 (11) 
+      QuerCocc 140 (3272) 110 (1511) 50 (548) 
+      QuerPrin 60 (3045) 90 (2239) 100 (2166) 40 (629) 30 (116) 
+      QuerRubr 80 (1396) 
+ 
+MapCode  183 
+      PinuStro 30 (165) 20 (565) 
+      AcerRubr 20 (37) 10 (75) 
+      BetuLent 40 (661) 50 (1498) 
+      CaryGlab 50 (2515) 70 (2068) 
+      CornFlor 10 (44) 
+      HaleDipt 10 (26) 
+      LiriTuli 10 (19) 70 (1054) 130 (2506) 
+      QuerPrin 60 (1703) 30 (181) 
+      QuerRubr 30 (100) 50 (3377) 
+ 
+MapCode  184 
+      PinuStro 20 (86) 30 (68) 70 (718) 140 (1966) 
+      PinuVirg 70 (691) 40 (254) 60 (632) 50 (463) 90 (476) 
+      AcerRubr 40 (324) 10 (105) 30 (142) 
+      NyssSylv 10 (111) 50 (635) 
+      OxydArbo 20 (184) 30 (105) 
+      QuerCocc 100 (1863) 
+      QuerPrin 60 (2229) 80 (1483) 140 (5579) 70 (1100) 30 (298) 40 (955) 
+      QuerRubr 50 (1040) 
+ 
+MapCode  185 
+      PinuStro 50 (129) 40 (75) 
+      QuerAlba 70 (1670) 160 (674) 60 (772) 90 (2108) 50 (93) 80 (378) 
+      QuerCocc 130 (2444) 
+      QuerPrin 90 (217) 50 (218) 130 (938) 
+      QuerRubr 80 (478) 100 (602) 20 (229) 40 (79) 30 (112) 
+      RobiPseu 80 (501) 
+ 
+MapCode  186 
+      PinuStro 30 (404) 
+      AcerRubr 50 (1089) 20 (289) 30 (449) 40 (411) 60 (565) 
+      OxydArbo 30 (2345) 40 (518) 
+      QuerAlba 50 (1793) 40 (691) 20 (70) 
+      QuerCocc 60 (1305) 
+      QuerPrin 50 (2444) 40 (914) 30 (102) 
+      QuerVelu 70 (2967) 50 (803) 
+ 
+MapCode  187 
+      PinuStro 30 (244) 
+      AcerRubr 50 (480) 30 (203) 40 (141) 
+      CaryGlab 40 (1116) 20 (103) 
+      NyssSylv 20 (220) 30 (246) 
+      OxydArbo 50 (545) 30 (71) 20 (401) 
+      QuerAlba 50 (599) 
+      QuerCocc 50 (5809) 40 (1186) 60 (2751) 90 (1490) 
+      QuerPrin 40 (1030) 50 (1191) 30 (261) 
+ 
+MapCode  188 
+      PinuStro 20 (58) 120 (2056) 90 (2908) 60 (466) 50 (618) 40 (119) 
+      PinuVirg 30 (147) 
+      AcerRubr 20 (46) 50 (1261) 30 (67) 40 (348) 
+      CaryAlba 50 (544) 
+      CornFlor 10 (20) 20 (219) 
+      LiriTuli 60 (1010) 30 (63) 50 (441) 10 (48) 
+      NyssSylv 20 (52) 30 (152) 
+      OxydArbo 20 (53) 30 (1004) 10 (14) 
+      QuerPrin 30 (242) 
+      QuerVelu 40 (436) 
+ 
+MapCode  189 
+      PinuVirg 50 (738) 
+      AcerRubr 40 (524) 70 (1342) 50 (915) 30 (44) 
+      FraxAmer 30 (146) 
+      LiriTuli 70 (1512) 60 (577) 50 (2649) 
+      QuerRubr 30 (345) 140 (15504) 
+      RobiPseu 30 (251) 
+      SassAlid 40 (639) 
+ 
+MapCode  190 
+      PinuVirg 10 (13) 20 (38) 
+      AcerRubr 20 (57) 10 (25) 40 (274) 
+      CaryGlab 20 (19) 
+      NyssSylv 20 (189) 
+      OxydArbo 30 (133) 10 (75) 
+      QuerAlba 20 (139) 
+      QuerPrin 50 (2583) 
+      QuerVelu 50 (1619) 
+ 
+MapCode  191 
+      PinuVirg 20 (217) 
+      AcerRubr 50 (221) 60 (388) 40 (651) 
+      OxydArbo 10 (11) 
+      PrunSero 30 (58) 
+      QuerAlba 70 (534) 50 (1300) 20 (54) 30 (196) 40 (414) 
+      QuerVelu 80 (391) 50 (294) 140 (1271) 
+ 
+MapCode  192 
+      PinuVirg 50 (775) 40 (408) 
+      AcerRubr 30 (237) 40 (407) 
+      CaryAlba 40 (119) 50 (575) 30 (143) 
+      LiriTuli 80 (632) 90 (920) 
+      NyssSylv 20 (87) 
+      OxydArbo 30 (503) 
+      PrunSero 50 (164) 
+      QuerAlba 140 (3336) 120 (4458) 70 (2002) 30 (397) 
+      QuerRubr 90 (4713) 
+      QuerVelu 50 (632) 230 (1925) 60 (951) 80 (1706) 
+      SassAlid 20 (334) 
+ 
+MapCode  193 
+      PinuVirg 20 (206) 30 (447) 
+      AcerRubr 50 (2710) 30 (425) 40 (665) 20 (170) 
+      AcerSacc 30 (721) 
+      LiriTuli 90 (478) 60 (831) 50 (216) 
+      PrunSero 50 (360) 
+      QuerCocc 30 (278) 
+      QuerVelu 40 (262) 30 (98) 
+ 
+MapCode  194 
+      PinuVirg 40 (2036) 
+      AcerRubr 40 (1830) 20 (126) 30 (323) 
+      CaryGlab 30 (295) 
+      FaguGran 20 (118) 10 (98) 
+      FraxPenn 30 (345) 
+      LiriTuli 50 (3616) 70 (6830) 40 (766) 30 (250) 
+      NyssSylv 10 (81) 30 (206) 
+      OxydArbo 30 (1261) 
+      SassAlid 20 (81) 
+ 
+MapCode  195 
+      PinuVirg 40 (5878) 30 (1719) 50 (853) 10 (13) 
+      AcerRubr 30 (686) 40 (292) 10 (20) 
+      CaryGlab 10 (25) 
+      CornFlor 10 (77) 
+      LiriTuli 110 (1042) 50 (583) 60 (1132) 150 (1707) 
+      OxydArbo 10 (39) 
+ 
+MapCode  196 
+      PinuVirg 50 (175) 40 (121) 30 (1066) 
+      AcerRubr 40 (139) 70 (704) 50 (1771) 30 (1331) 20 (113) 
+      CaryGlab 40 (77) 
+      LiriTuli 50 (202) 40 (236) 
+      NyssSylv 20 (88) 
+      OxydArbo 10 (164) 
+      QuerAlba 50 (1079) 30 (211) 60 (1318) 40 (478) 
+      QuerCocc 70 (1101) 80 (739) 40 (314) 50 (623) 
+      QuerPrin 70 (547) 
+      QuerRubr 90 (829) 
+      QuerVelu 40 (161) 80 (652) 
+ 
+MapCode  197 
+      PinuVirg 40 (157) 
+      AcerRubr 20 (475) 30 (1879) 50 (1163) 60 (735) 40 (86) 
+      CaryGlab 40 (128) 
+      CaryAlba 10 (44) 
+      CornFlor 30 (82) 
+      NyssSylv 30 (176) 50 (484) 20 (480) 
+      OxydArbo 30 (211) 20 (195) 
+      QuerFalc 20 (78) 30 (100) 
+      QuerVelu 120 (1076) 
+ 
+MapCode  198 
+      PinuVirg 40 (874) 30 (70) 60 (391) 
+      NyssSylv 20 (417) 40 (317) 30 (226) 
+      OxydArbo 30 (695) 20 (580) 10 (14) 
+      QuerCocc 70 (2130) 50 (783) 80 (1622) 
+      QuerPrin 50 (1350) 60 (5982) 30 (182) 70 (940) 20 (76) 
+      QuerRubr 50 (897) 
+      QuerVelu 30 (62) 
+ 
+MapCode  199 
+      PinuVirg 30 (253) 
+      CaryGlab 40 (643) 
+      LiriTuli 40 (1012) 20 (382) 30 (1511) 50 (1320) 10 (105) 
+      OxydArbo 20 (141) 
+      PrunSero 10 (31) 
+      QuerCocc 30 (770) 
+      QuerFalc 30 (1069) 
+ 
+MapCode  200 
+      PinuVirg 40 (1112) 30 (139) 
+      AcerRubr 20 (175) 30 (81) 
+      CaryAlba 20 (19) 
+      CornFlor 10 (123) 20 (195) 
+      LiriTuli 10 (138) 30 (123) 20 (59) 
+      QuerCocc 20 (330) 
+ 
+MapCode  201 
+      PinuVirg 20 (47) 
+      LiriTuli 30 (436) 40 (984) 50 (356) 
+      PrunSero 10 (10) 30 (289) 20 (215) 40 (607) 
+      QuerPrin 10 (15) 30 (263) 
+      QuerRubr 30 (133) 
+ 
+MapCode  202 
+      PinuVirg 10 (92) 
+      LiriTuli 10 (47) 
+ 
+MapCode  203 
+      PinuVirg 60 (807) 
+      AcerRubr 40 (1059) 30 (171) 
+      BetuLent 30 (208) 
+      CaryGlab 40 (458) 
+      OxydArbo 30 (64) 
+      QuerAlba 30 (98) 
+      QuerCocc 50 (3364) 20 (42) 40 (2073) 30 (277) 
+      QuerPrin 40 (2385) 30 (490) 50 (1713) 60 (1307) 20 (130) 
+      QuerVelu 50 (4216) 40 (219) 
+ 
+MapCode  204 
+      PinuVirg 30 (2132) 20 (664) 60 (679) 80 (942) 50 (1391) 40 (154) 
+      AcerRubr 30 (170) 60 (983) 70 (399) 
+      CaryGlab 30 (354) 50 (659) 
+      CaryAlba 50 (197) 
+      FraxAmer 50 (130) 80 (587) 180 (3150) 
+      LiriTuli 50 (125) 
+      NyssSylv 10 (18) 30 (600) 60 (184) 50 (164) 
+      QuerAlba 80 (342) 
+      QuerRubr 100 (843) 
+      QuerVelu 130 (2863) 
+ 
+MapCode  205 
+      PinuVirg 40 (730) 
+      AcerRubr 30 (653) 40 (918) 
+      CornFlor 10 (176) 
+      LiriTuli 80 (1127) 60 (840) 90 (2757) 20 (79) 110 (2785) 150 (3157) 100 (2024) 
+      OxydArbo 30 (1188) 20 (165) 
+      QuerAlba 10 (284) 
+      QuerRubr 150 (3856) 
+ 
+MapCode  206 
+      PinuVirg 90 (663) 
+      AcerRubr 30 (59) 50 (85) 
+      QuerAlba 60 (264) 50 (185) 40 (163) 
+      QuerPrin 60 (325) 30 (97) 130 (2298) 
+ 
+MapCode  207 
+      PinuVirg 20 (1020) 
+      AcerRubr 30 (157) 10 (20) 
+      CaryGlab 40 (224) 
+      CornFlor 10 (16) 
+      NyssSylv 10 (67) 
+      QuerAlba 20 (54) 10 (478) 
+      QuerCocc 10 (15) 
+      QuerVelu 10 (46) 
+ 
+MapCode  208 
+      PinuVirg 30 (162) 90 (1302) 60 (795) 50 (832) 80 (385) 
+      AcerSacc 50 (242) 
+      CaryGlab 50 (224) 
+      CaryAlba 50 (178) 70 (801) 40 (224) 
+      LiriTuli 150 (637) 
+      QuerAlba 20 (108) 
+      QuerCocc 40 (690) 
+      QuerPrin 90 (2125) 40 (491) 50 (1242) 30 (309) 100 (2201) 
+      QuerVelu 80 (1019) 30 (302) 40 (933) 50 (1399) 
+ 
+MapCode  209 
+      PinuVirg 30 (204) 20 (52) 10 (22) 
+      AcerRubr 30 (817) 20 (961) 10 (31) 
+      NyssSylv 10 (125) 
+      OxydArbo 30 (364) 
+      QuerAlba 30 (536) 40 (1181) 140 (1304) 50 (1753) 60 (1690) 
+      QuerCocc 30 (303) 
+      QuerFalc 40 (492) 30 (314) 
+ 
+MapCode  210 
+      PinuVirg 30 (97) 
+      AcerRubr 20 (165) 60 (336) 40 (73) 
+      OxydArbo 20 (149) 10 (11) 
+      PrunSero 20 (93) 30 (234) 
+      QuerAlba 20 (639) 50 (437) 30 (156) 
+      QuerFalc 20 (147) 
+ 
+MapCode  211 
+      PinuVirg 70 (215) 
+      AcerRubr 20 (95) 80 (453) 50 (507) 60 (397) 30 (239) 40 (92) 
+      CaryGlab 80 (1120) 
+      CaryAlba 60 (583) 
+      CornFlor 20 (145) 
+      LiriTuli 40 (87) 80 (224) 
+      NyssSylv 40 (93) 
+      OxydArbo 20 (53) 30 (69) 40 (368) 50 (186) 
+      QuerAlba 180 (1223) 30 (555) 60 (327) 130 (1198) 50 (268) 20 (351) 
+      QuerPrin 80 (585) 130 (3995) 
+      QuerRubr 30 (184) 40 (153) 
+      QuerVelu 130 (5658) 
+      RobiPseu 20 (481) 
+ 
+MapCode  212 
+      PinuVirg 30 (676) 
+      LiriTuli 150 (1654) 50 (670) 20 (322) 
+      OxydArbo 20 (188) 
+      QuerPrin 10 (176) 
+      QuerRubr 30 (192) 
+ 
+MapCode  213 
+      PinuVirg 10 (148) 20 (145) 
+      LiriTuli 10 (53) 
+      QuerCocc 10 (15) 
+ 
+MapCode  214 
+      PinuVirg 80 (675) 60 (145) 40 (96) 120 (160) 
+      AcerRubr 60 (188) 30 (70) 
+      NyssSylv 60 (130) 30 (71) 50 (101) 40 (61) 
+      OxydArbo 50 (393) 40 (171) 60 (150) 70 (79) 20 (50) 
+      QuerCocc 70 (571) 130 (3277) 90 (801) 110 (256) 40 (420) 80 (285) 60 (153) 50 (100) 
+      QuerPrin 60 (296) 50 (87) 130 (478) 
+ 
+MapCode  215 
+      AcerRubr 50 (1677) 40 (387) 80 (3201) 
+      NyssSylv 80 (1320) 40 (512) 50 (980) 90 (2638) 
+ 
+MapCode  216 
+      AcerRubr 30 (95) 40 (212) 60 (485) 50 (218) 
+      AcerSacc 40 (319) 30 (557) 50 (277) 
+      BetuLent 70 (940) 40 (385) 50 (201) 
+      LiriTuli 40 (797) 150 (15257) 50 (501) 70 (380) 60 (909) 90 (383) 30 (154) 
+      RobiPseu 100 (5637) 50 (607) 80 (536) 40 (463) 
+ 
+MapCode  217 
+      AcerRubr 40 (342) 70 (992) 50 (456) 20 (80) 10 (37) 30 (1044) 
+      CaryGlab 50 (420) 30 (97) 40 (343) 
+      OxydArbo 30 (1886) 10 (164) 40 (606) 20 (665) 
+      QuerAlba 50 (519) 30 (139) 
+      QuerCocc 30 (409) 40 (763) 
+      QuerPrin 100 (1210) 40 (384) 30 (148) 
+      QuerVelu 40 (570) 60 (831) 70 (741) 
+      RobiPseu 30 (351) 
+ 
+MapCode  218 
+      AcerRubr 40 (438) 
+      BetuLent 30 (2739) 60 (2844) 50 (1788) 
+      PrunSero 30 (105) 
+      QuerRubr 50 (2766) 30 (1696) 20 (90) 
+ 
+MapCode  219 
+      AcerRubr 70 (2047) 50 (170) 40 (642) 30 (829) 20 (180) 
+      LiriTuli 140 (3081) 80 (248) 
+      MagnMacr 20 (94) 
+      OxydArbo 20 (219) 50 (495) 30 (94) 
+      QuerPrin 140 (9799) 120 (924) 80 (724) 
+      QuerRubr 140 (1322) 
+ 
+MapCode  220 
+      AcerRubr 50 (593) 40 (297) 
+      BetuLent 40 (657) 70 (644) 
+      CaryGlab 30 (798) 40 (190) 
+      CaryAlba 50 (1089) 60 (1399) 
+      FraxAmer 90 (1355) 
+      LiriTuli 150 (1521) 50 (955) 
+      PrunSero 60 (911) 
+      QuerAlba 40 (1111) 140 (1410) 
+      QuerCocc 30 (110) 
+      QuerVelu 40 (619) 60 (1783) 50 (732) 30 (198) 70 (708) 
+      RobiPseu 100 (616) 
+      TiliAmer 30 (51) 
+ 
+MapCode  221 
+      AcerRubr 30 (406) 40 (369) 
+      BetuLent 10 (56) 
+      CornFlor 10 (20) 
+      LiriTuli 40 (252) 50 (262) 10 (40) 30 (103) 
+      NyssSylv 10 (369) 20 (62) 
+      OxydArbo 40 (665) 20 (156) 30 (684) 
+      QuerCocc 60 (802) 50 (1341) 30 (892) 20 (132) 
+      QuerPrin 30 (196) 40 (1310) 110 (1601) 20 (114) 
+      QuerRubr 10 (16) 
+      QuerVelu 50 (1249) 150 (2260) 20 (72) 
+      RobiPseu 20 (69) 30 (246) 
+ 
+MapCode  222 
+      AcerRubr 60 (2623) 70 (1528) 100 (1050) 50 (739) 90 (1294) 
+      LiriTuli 50 (256) 40 (65) 
+      NyssSylv 60 (561) 30 (110) 
+      OxydArbo 40 (507) 30 (271) 20 (62) 
+      QuerAlba 40 (153) 50 (262) 
+      QuerCocc 60 (311) 140 (1727) 
+      QuerPrin 70 (1030) 50 (1540) 40 (220) 80 (377) 140 (1429) 
+      QuerRubr 60 (857) 
+ 
+MapCode  223 
+      AcerRubr 50 (417) 40 (374) 60 (561) 20 (61) 
+      BetuLent 50 (740) 40 (579) 
+      CaryGlab 40 (96) 100 (3594) 50 (253) 
+      CaryAlba 70 (2222) 
+      LiriTuli 90 (608) 40 (1341) 150 (4207) 50 (317) 30 (269) 100 (534) 10 (15) 
+      MagnMacr 30 (300) 40 (255) 10 (75) 130 (833) 60 (773) 
+      OxydArbo 30 (202) 
+      QuerPrin 70 (1571) 100 (930) 
+      QuerRubr 120 (1816) 100 (1836) 90 (1050) 140 (4120) 
+      RobiPseu 40 (858) 
+ 
+MapCode  224 
+      AcerRubr 50 (1219) 60 (899) 
+      BetuLent 30 (373) 40 (241) 60 (368) 
+      CaryGlab 70 (3391) 
+      OxydArbo 30 (645) 60 (583) 
+      QuerCocc 50 (1332) 80 (2318) 
+      QuerPrin 90 (2631) 30 (137) 140 (1845) 100 (2788) 40 (395) 
+      QuerRubr 80 (2444) 20 (88) 
+      QuerVelu 40 (571) 50 (1100) 
+      RobiPseu 10 (20) 
+ 
+MapCode  225 
+      AcerRubr 40 (964) 60 (854) 50 (1002) 30 (184) 70 (1821) 
+      CornFlor 20 (92) 
+      NyssSylv 40 (376) 
+      OxydArbo 30 (649) 20 (303) 50 (625) 
+      QuerAlba 140 (6455) 
+      QuerCocc 70 (814) 140 (1812) 50 (539) 
+      QuerPrin 40 (514) 50 (1018) 
+      QuerVelu 140 (3470) 
+ 
+MapCode  226 
+      AcerRubr 30 (959) 20 (1630) 40 (423) 10 (20) 
+      CaryGlab 40 (1274) 50 (2888) 
+      LiriTuli 50 (2450) 90 (1868) 40 (2338) 20 (511) 30 (362) 80 (2134) 60 (2167) 70 (1476) 
+      QuerRubr 20 (319) 30 (456) 
+      RobiPseu 20 (290) 30 (541) 
+      TiliAmer 60 (992) 
+ 
+MapCode  227 
+      AcerRubr 20 (102) 30 (1684) 50 (2045) 40 (221) 
+      FraxPenn 30 (2588) 20 (99) 
+      NyssSylv 40 (588) 
+ 
+MapCode  228 
+      AcerRubr 70 (224) 170 (1600) 60 (162) 100 (1614) 120 (385) 
+      CaryGlab 80 (248) 
+      QuerAlba 130 (994) 
+      QuerCocc 130 (3865) 
+      QuerPrin 130 (16403) 90 (177) 80 (115) 
+ 
+MapCode  229 
+      AcerRubr 70 (219) 
+      AcerSacc 50 (385) 60 (300) 70 (185) 40 (69) 
+      BetuLent 100 (1787) 
+      CaryGlab 80 (3485) 
+      CaryAlba 120 (1890) 
+      LiriTuli 40 (221) 140 (7990) 90 (564) 60 (500) 20 (455) 70 (530) 
+      NyssSylv 40 (372) 
+      PrunSero 90 (1213) 
+      QuerAlba 80 (1581) 
+      QuerRubr 40 (346) 
+ 
+MapCode  230 
+      AcerRubr 70 (2866) 50 (539) 
+      AcerSacc 40 (445) 70 (1079) 50 (743) 20 (56) 
+      LiriTuli 40 (147) 
+      MagnAcum 140 (2184) 
+      PrunSero 60 (1569) 90 (3705) 
+      TiliAmer 30 (177) 20 (12) 
+ 
+MapCode  231 
+      AcerRubr 30 (110) 
+      AcerSacc 20 (199) 40 (946) 30 (712) 
+      BetuLent 40 (1246) 30 (331) 
+      FaguGran 20 (39) 60 (878) 
+      FraxAmer 30 (235) 
+      LiriTuli 80 (2968) 60 (1241) 50 (1024) 
+      MagnMacr 30 (117) 
+      PrunSero 60 (8428) 40 (388) 30 (288) 
+      RobiPseu 40 (628) 
+      TiliAmer 40 (328) 30 (270) 20 (59) 
+ 
+MapCode  232 
+      AcerRubr 40 (657) 60 (1549) 30 (286) 20 (142) 50 (1505) 
+      BetuLent 20 (440) 30 (410) 
+      LiriTuli 90 (1836) 80 (1800) 30 (236) 
+      MagnAcum 50 (1045) 30 (124) 
+      MagnMacr 30 (331) 10 (154) 
+      OxydArbo 30 (194) 
+      QuerPrin 40 (781) 50 (1268) 70 (8013) 
+      TiliAmer 10 (73) 30 (148) 
+ 
+MapCode  233 
+      AcerRubr 40 (662) 50 (234) 20 (61) 
+      BetuLent 70 (299) 50 (243) 
+      CaryGlab 30 (339) 50 (111) 
+      CaryAlba 50 (288) 
+      LiriTuli 140 (1030) 110 (181) 90 (617) 50 (300) 40 (132) 
+      OxydArbo 30 (69) 10 (39) 110 (562) 
+      QuerAlba 60 (702) 80 (514) 50 (604) 20 (63) 140 (2993) 40 (316) 30 (274) 
+      QuerCocc 140 (7003) 
+      QuerVelu 140 (778) 
+ 
+MapCode  234 
+      AcerRubr 40 (207) 30 (459) 50 (331) 60 (1066) 
+      AcerSacc 60 (1593) 10 (17) 20 (683) 40 (177) 30 (123) 
+      CaryGlab 80 (1856) 
+      LiriTuli 20 (786) 10 (37) 
+      MagnAcum 20 (199) 
+      NyssSylv 20 (56) 
+      PrunSero 50 (364) 40 (350) 
+      QuerPrin 50 (583) 140 (2134) 
+      QuerVelu 50 (1021) 
+      SassAlid 10 (17) 
+ 
+MapCode  235 
+      AcerRubr 50 (1593) 40 (860) 60 (398) 
+      FraxAmer 50 (999) 40 (716) 70 (1598) 30 (566) 20 (182) 
+      LiriTuli 20 (101) 60 (458) 50 (1299) 40 (300) 
+      NyssSylv 40 (1040) 
+      PrunSero 40 (649) 50 (3071) 
+      QuerPrin 140 (3702) 
+      QuerVelu 50 (471) 
+      RobiPseu 30 (123) 40 (502) 
+ 
+MapCode  236 
+      AcerRubr 30 (504) 
+      NyssSylv 20 (111) 
+      QuerCocc 80 (5716) 50 (1757) 60 (1863) 120 (1233) 100 (1432) 90 (1344) 40 (239) 70 (726) 
+      QuerPrin 70 (2800) 40 (645) 50 (565) 60 (1130) 
+      QuerVelu 40 (536) 80 (796) 
+ 
+MapCode  237 
+      AcerRubr 70 (1334) 50 (1057) 20 (179) 40 (1459) 60 (464) 
+      CaryAlba 70 (1211) 50 (341) 
+      NyssSylv 10 (70) 
+      QuerAlba 140 (832) 90 (1772) 
+      QuerCocc 140 (3797) 
+      QuerPrin 40 (256) 120 (780) 80 (355) 30 (349) 50 (346) 
+      QuerVelu 80 (616) 50 (958) 
+ 
+MapCode  238 
+      AcerRubr 40 (128) 
+      NyssSylv 20 (1159) 100 (654) 
+      OxydArbo 10 (39) 30 (753) 
+      QuerPrin 140 (4030) 120 (835) 70 (2069) 80 (4043) 40 (503) 50 (431) 90 (2161) 
+      QuerRubr 40 (144) 
+ 
+MapCode  239 
+      AcerRubr 50 (154) 
+      AcerSacc 30 (1272) 20 (794) 40 (1074) 50 (211) 
+      CaryAlba 40 (548) 60 (3326) 100 (1946) 70 (941) 30 (121) 50 (394) 
+      FaguGran 10 (13) 
+      LiriTuli 10 (104) 
+ 
+MapCode  240 
+      AcerRubr 70 (324) 20 (130) 60 (572) 50 (384) 
+      CaryGlab 80 (528) 50 (127) 
+      NyssSylv 40 (228) 
+      OxydArbo 40 (124) 30 (66) 20 (46) 
+      QuerAlba 130 (4413) 90 (269) 70 (267) 50 (816) 40 (113) 60 (243) 
+      QuerPrin 130 (2368) 120 (396) 
+      QuerVelu 130 (766) 
+ 
+MapCode  241 
+      AcerRubr 30 (96) 20 (20) 10 (20) 
+      CaryGlab 50 (718) 
+      CaryAlba 60 (619) 50 (1053) 
+      CornFlor 10 (77) 
+      NyssSylv 60 (679) 20 (75) 
+      QuerAlba 40 (250) 70 (702) 140 (1127) 
+      QuerPrin 60 (393) 
+ 
+MapCode  242 
+      AcerRubr 60 (222) 40 (465) 30 (262) 10 (15) 50 (332) 
+      LiriTuli 20 (189) 80 (652) 70 (347) 30 (93) 40 (192) 60 (731) 50 (498) 130 (442) 
+      NyssSylv 40 (201) 30 (75) 
+      OxydArbo 30 (302) 40 (349) 
+      QuerPrin 140 (4101) 60 (2164) 80 (3044) 50 (3194) 20 (58) 100 (1959) 30 (192) 
+ 
+MapCode  243 
+      AcerRubr 70 (670) 
+      AcerSacc 60 (896) 30 (228) 
+      BetuLent 50 (1213) 40 (357) 60 (333) 
+      FaguGran 60 (1870) 
+      LiriTuli 150 (4834) 20 (191) 60 (1005) 30 (297) 10 (11) 
+      QuerVelu 20 (54) 
+      SassAlid 20 (157) 10 (14) 
+      TiliAmer 20 (89) 
+ 
+MapCode  244 
+      AcerRubr 50 (911) 40 (1027) 
+      AcerSacc 20 (373) 70 (849) 10 (251) 50 (816) 
+      CaryAlba 50 (235) 
+      CornFlor 10 (77) 
+      FaguGran 40 (379) 30 (108) 50 (321) 
+      LiriTuli 30 (270) 60 (454) 
+      OxydArbo 20 (33) 10 (25) 
+      QuerAlba 130 (6825) 110 (1655) 70 (733) 120 (655) 100 (1336) 
+      QuerPrin 20 (43) 
+      QuerRubr 10 (16) 
+ 
+MapCode  245 
+      AcerRubr 40 (378) 10 (35) 
+      CaryAlba 50 (2117) 
+      CornFlor 20 (1040) 
+      FraxAmer 30 (275) 
+      LiriTuli 40 (553) 50 (480) 80 (1117) 60 (1864) 150 (1947) 
+      MagnAcum 40 (651) 
+      NyssSylv 20 (41) 
+      SassAlid 30 (57) 10 (31) 20 (96) 
+ 
+MapCode  246 
+      AcerRubr 50 (575) 60 (1111) 40 (276) 20 (241) 30 (119) 10 (52) 
+      QuerAlba 70 (461) 
+      QuerCocc 110 (1392) 80 (2200) 70 (2555) 140 (2246) 50 (538) 
+      QuerPrin 60 (1564) 40 (863) 30 (586) 140 (2888) 50 (1729) 
+      QuerVelu 120 (1218) 
+ 
+MapCode  247 
+      AcerRubr 50 (1483) 30 (102) 10 (221) 20 (210) 40 (607) 
+      NyssSylv 10 (246) 30 (178) 20 (80) 
+      OxydArbo 30 (907) 20 (169) 10 (426) 40 (428) 
+      QuerAlba 140 (6146) 
+      QuerPrin 140 (3686) 150 (3832) 80 (1981) 
+      QuerVelu 80 (2568) 
+ 
+MapCode  248 
+      AcerRubr 20 (384) 30 (461) 10 (15) 40 (766) 
+      AcerSacc 60 (477) 
+      CaryGlab 60 (652) 50 (325) 70 (1225) 
+      FaguGran 50 (948) 30 (76) 
+      FraxAmer 40 (306) 20 (51) 50 (962) 
+      LiriTuli 40 (115) 
+      NyssSylv 20 (78) 
+      QuerPrin 140 (3732) 110 (1188) 20 (76) 40 (1322) 30 (171) 50 (585) 
+ 
+MapCode  249 
+      AcerRubr 70 (194) 20 (118) 40 (239) 60 (103) 120 (298) 110 (275) 100 (242) 90 (302) 30 (62) 
+      CaryAlba 140 (632) 
+      OxydArbo 50 (98) 40 (119) 70 (262) 
+      QuerAlba 130 (6820) 90 (314) 80 (217) 40 (84) 70 (201) 
+      QuerCocc 130 (638) 
+ 
+MapCode  250 
+      AcerRubr 40 (1867) 30 (96) 10 (55) 50 (306) 60 (1481) 20 (37) 
+      CaryGlab 40 (870) 
+      CornFlor 20 (341) 
+      LiriTuli 10 (30) 30 (198) 150 (1401) 
+      NyssSylv 40 (718) 
+      QuerAlba 80 (1952) 
+      QuerPrin 50 (726) 30 (310) 
+      QuerVelu 70 (1603) 
+      SassAlid 10 (122) 
+ 
+MapCode  251 
+      AcerRubr 40 (691) 30 (810) 50 (998) 
+      AcerSacc 70 (1866) 30 (259) 
+      CaryGlab 70 (671) 40 (151) 
+      FaguGran 40 (122) 10 (16) 50 (633) 60 (3264) 
+      LiriTuli 40 (164) 
+      OxydArbo 20 (374) 40 (299) 30 (95) 
+      QuerAlba 70 (1184) 40 (1084) 10 (120) 30 (879) 
+      QuerPrin 40 (345) 50 (337) 
+      QuerRubr 60 (536) 
+      QuerVelu 50 (610) 
+ 
+MapCode  252 
+      AcerRubr 50 (315) 20 (45) 
+      AcerSacc 50 (247) 70 (386) 
+      CaryGlab 250 (2512) 60 (478) 120 (1139) 160 (1983) 
+      CaryAlba 60 (195) 
+      FaguGran 50 (495) 40 (181) 
+      FraxPenn 40 (83) 
+      NyssSylv 30 (426) 
+ 
+MapCode  253 
+      AcerRubr 20 (31) 40 (597) 50 (132) 
+      CaryGlab 70 (604) 80 (1314) 
+      FaguGran 40 (215) 30 (115) 50 (349) 80 (520) 60 (200) 
+      FraxPenn 30 (68) 
+      NyssSylv 20 (267) 10 (28) 
+      OxydArbo 30 (341) 20 (436) 
+      QuerAlba 80 (872) 50 (175) 130 (9036) 
+      QuerCocc 40 (249) 
+      QuerPrin 100 (516) 
+ 
+MapCode  254 
+      AcerRubr 20 (221) 30 (608) 
+      LiriTuli 40 (678) 50 (578) 30 (415) 10 (156) 
+      NyssSylv 20 (82) 
+      QuerAlba 40 (490) 
+      QuerPrin 30 (435) 60 (933) 40 (453) 
+ 
+MapCode  255 
+      AcerRubr 30 (412) 10 (178) 
+      AcerSacc 20 (938) 10 (94) 
+      CaryGlab 40 (992) 
+      FaguGran 30 (1317) 40 (2638) 
+      LiriTuli 30 (1499) 20 (520) 
+      PrunSero 10 (10) 
+ 
+MapCode  256 
+      AcerRubr 20 (246) 40 (520) 30 (180) 10 (90) 
+      BetuLent 30 (487) 
+      FraxAmer 30 (325) 
+      FraxPenn 20 (182) 
+      LiriTuli 50 (4584) 20 (740) 60 (5094) 40 (4089) 30 (650) 10 (71) 
+      QuerVelu 30 (567) 
+      RobiPseu 40 (461) 50 (939) 
+ 
+MapCode  257 
+      AcerRubr 70 (642) 80 (588) 20 (306) 30 (186) 40 (155) 
+      CaryGlab 70 (827) 90 (1610) 60 (751) 
+      LiriTuli 140 (1115) 
+      MagnAcum 40 (94) 20 (84) 
+      MagnMacr 40 (89) 20 (184) 30 (462) 
+      QuerCocc 130 (1526) 
+      QuerPrin 130 (2401) 60 (786) 30 (104) 20 (619) 
+      QuerRubr 80 (731) 130 (8173) 70 (453) 
+      RobiPseu 90 (760) 
+ 
+MapCode  258 
+      AcerRubr 80 (1925) 70 (2468) 30 (44) 50 (879) 120 (1953) 110 (1060) 130 (1756) 
+      BetuLent 100 (819) 
+      CaryGlab 100 (520) 
+      QuerPrin 70 (1405) 130 (3989) 60 (148) 120 (401) 140 (368) 
+      QuerRubr 80 (363) 40 (213) 90 (383) 120 (1722) 
+      QuerVelu 130 (1496) 
+ 
+MapCode  259 
+      AcerRubr 50 (898) 30 (199) 10 (504) 20 (1162) 
+      CaryGlab 30 (303) 
+      CaryAlba 20 (61) 
+      FaguGran 10 (457) 20 (896) 
+      FraxPenn 30 (1401) 
+      LiriTuli 70 (3751) 90 (2476) 80 (2265) 10 (108) 40 (914) 
+      NyssSylv 30 (527) 
+      OxydArbo 20 (138) 30 (196) 
+      QuerAlba 110 (6135) 20 (219) 
+      QuerPrin 60 (8615) 
+ 
+MapCode  260 
+      AcerRubr 50 (483) 40 (599) 30 (298) 80 (802) 20 (698) 10 (66) 
+      AcerSacc 40 (253) 50 (251) 10 (42) 
+      NyssSylv 70 (1017) 
+      OxydArbo 20 (195) 30 (87) 
+      QuerAlba 50 (1927) 30 (131) 
+      QuerCocc 40 (537) 60 (727) 50 (1724) 
+      QuerFalc 60 (456) 
+ 
+MapCode  261 
+      AcerRubr 50 (278) 40 (257) 20 (392) 10 (15) 
+      CaryGlab 40 (304) 
+      LiriTuli 140 (450) 20 (62) 10 (11) 
+      NyssSylv 90 (958) 
+      OxydArbo 40 (302) 30 (230) 60 (206) 
+      QuerAlba 40 (152) 120 (909) 30 (237) 70 (407) 140 (2991) 100 (494) 50 (204) 150 (523) 80 (908) 
+      QuerCocc 140 (7694) 
+      QuerPrin 140 (771) 
+      QuerVelu 140 (3212) 
+      SassAlid 30 (409) 
+ 
+MapCode  262 
+      AcerRubr 40 (729) 20 (140) 
+      AcerSacc 30 (770) 40 (251) 10 (459) 
+      CaryGlab 40 (650) 50 (2069) 
+      CaryAlba 40 (464) 
+      LiriTuli 30 (2148) 
+      NyssSylv 40 (834) 
+      QuerAlba 50 (678) 70 (3303) 60 (1842) 
+      QuerPrin 30 (1069) 140 (4099) 40 (313) 60 (1793) 
+      QuerRubr 50 (1020) 
+ 
+MapCode  263 
+      AcerRubr 50 (717) 40 (400) 30 (489) 20 (323) 
+      NyssSylv 10 (57) 
+      OxydArbo 10 (14) 
+      QuerAlba 70 (1787) 100 (1565) 50 (226) 130 (1234) 
+      QuerCocc 70 (332) 
+      QuerPrin 40 (303) 
+ 
+MapCode  264 
+      AcerRubr 40 (110) 
+      CaryAlba 70 (314) 40 (108) 
+      LiriTuli 50 (101) 20 (19) 
+      OxydArbo 30 (114) 
+      QuerAlba 20 (127) 10 (72) 
+      QuerCocc 100 (774) 80 (512) 
+      QuerPrin 130 (1518) 
+ 
+MapCode  265 
+      AcerRubr 20 (44) 
+      CaryAlba 20 (128) 
+      CornFlor 10 (31) 
+      OxydArbo 30 (913) 20 (133) 
+      QuerAlba 50 (348) 40 (197) 30 (348) 10 (403) 20 (111) 
+      QuerVelu 140 (2231) 20 (68) 30 (298) 
+      SassAlid 20 (117) 10 (21) 
+ 
+MapCode  266 
+      AcerRubr 50 (343) 40 (159) 
+      NyssSylv 10 (100) 20 (666) 
+      OxydArbo 30 (122) 
+      QuerAlba 60 (884) 50 (2198) 30 (215) 40 (779) 70 (1013) 
+      QuerCocc 70 (768) 50 (1389) 40 (145) 
+      QuerVelu 60 (417) 40 (145) 
+ 
+MapCode  267 
+      AcerRubr 50 (175) 30 (771) 40 (361) 
+      CornFlor 20 (665) 
+      OxydArbo 30 (661) 20 (647) 40 (279) 
+      QuerPrin 70 (861) 20 (355) 50 (3019) 40 (243) 30 (1068) 90 (3871) 
+      QuerRubr 90 (3735) 70 (1098) 
+      QuerVelu 140 (2604) 
+ 
+MapCode  268 
+      AcerRubr 40 (268) 30 (121) 
+      NyssSylv 20 (164) 10 (46) 
+      OxydArbo 40 (711) 20 (242) 30 (269) 10 (14) 
+      QuerAlba 20 (279) 
+      QuerCocc 60 (814) 20 (130) 40 (189) 50 (226) 140 (1997) 30 (142) 
+      QuerPrin 40 (1293) 80 (1573) 50 (573) 60 (1956) 30 (1563) 130 (1289) 10 (39) 
+      QuerVelu 80 (678) 
+ 
+MapCode  269 
+      AcerRubr 40 (626) 10 (154) 30 (338) 20 (307) 60 (979) 
+      AcerSacc 10 (64) 
+      BetuLent 20 (376) 30 (339) 60 (1809) 50 (201) 
+      MagnAcum 40 (640) 
+      OxydArbo 30 (847) 
+      PrunSero 50 (656) 
+      QuerPrin 60 (3508) 70 (2096) 100 (1540) 120 (2732) 
+      QuerRubr 50 (706) 30 (103) 
+      RobiPseu 30 (99) 
+      TiliAmhe 50 (112) 
+ 
+MapCode  270 
+      AcerRubr 50 (241) 60 (125) 40 (134) 130 (1053) 
+      BetuLent 40 (153) 220 (1059) 
+      LiriTuli 130 (558) 
+      MagnAcum 50 (82) 
+      QuerAlba 130 (1573) 60 (400) 
+      QuerCocc 130 (15180) 60 (203) 
+      QuerPrin 130 (7938) 
+      QuerRubr 130 (1410) 
+      RobiPseu 90 (712) 
+ 
+MapCode  271 
+      AcerRubr 60 (3722) 10 (64) 20 (15) 40 (636) 50 (1359) 70 (1053) 
+      CaryGlab 60 (1644) 
+      OxydArbo 40 (335) 30 (1288) 20 (140) 10 (62) 
+      QuerAlba 80 (2289) 140 (2860) 40 (283) 60 (1267) 30 (168) 100 (1475) 70 (896) 
+      QuerPrin 30 (304) 
+      QuerVelu 60 (489) 
+ 
+MapCode  272 
+      AcerRubr 40 (219) 
+      BetuLent 60 (4241) 50 (1543) 30 (132) 20 (319) 
+      CaryGlab 40 (86) 
+      OxydArbo 60 (1284) 
+      QuerAlba 140 (3389) 120 (2423) 60 (636) 
+      QuerRubr 80 (1170) 90 (1100) 140 (2573) 50 (489) 30 (175) 
+ 
+MapCode  273 
+      AcerRubr 50 (510) 40 (398) 30 (1051) 
+      HaleDipt 10 (362) 
+      NyssSylv 70 (1205) 
+      OxydArbo 20 (143) 30 (696) 10 (18) 
+      QuerAlba 40 (638) 
+      QuerCocc 50 (3705) 40 (172) 30 (318) 
+      QuerPrin 30 (1560) 50 (1486) 40 (2571) 
+      QuerRubr 70 (1370) 
+ 
+MapCode  274 
+      AcerRubr 20 (235) 40 (201) 50 (1170) 
+      CaryGlab 20 (37) 50 (838) 
+      NyssSylv 30 (474) 40 (303) 20 (205) 
+      OxydArbo 30 (508) 40 (250) 
+      QuerAlba 30 (315) 
+      QuerCocc 50 (1063) 40 (1283) 
+      QuerPrin 50 (1935) 30 (564) 40 (2160) 60 (2439) 70 (2363) 
+ 
+MapCode  275 
+      AcerRubr 50 (1411) 40 (904) 20 (390) 60 (572) 30 (323) 
+      NyssSylv 20 (600) 
+      OxydArbo 30 (709) 20 (549) 
+      QuerAlba 40 (181) 
+      QuerCocc 10 (39) 80 (683) 40 (1153) 
+      QuerPrin 50 (4427) 20 (72) 30 (580) 
+      RobiPseu 70 (794) 
+      SassAlid 30 (327) 
+ 
+MapCode  276 
+      AcerRubr 40 (254) 60 (495) 30 (119) 50 (783) 
+      CaryAlba 90 (1355) 30 (789) 
+      LiriTuli 120 (798) 110 (1919) 70 (627) 90 (745) 
+      MagnMacr 30 (80) 
+      NyssSylv 40 (552) 20 (86) 
+      OxydArbo 40 (163) 20 (453) 30 (212) 
+      QuerAlba 130 (2364) 
+      QuerCocc 80 (2589) 
+      RobiPseu 100 (256) 
+ 
+MapCode  277 
+      AcerRubr 40 (191) 20 (255) 10 (37) 
+      CaryGlab 50 (2130) 40 (1210) 
+      CaryAlba 40 (223) 
+      LiriTuli 150 (4063) 30 (303) 80 (2228) 
+      NyssSylv 40 (412) 20 (119) 30 (318) 
+      OxydArbo 50 (825) 40 (577) 30 (161) 
+      QuerAlba 20 (754) 230 (3343) 
+      QuerCocc 110 (3252) 
+      QuerPrin 70 (1130) 
+      QuerRubr 50 (1015) 30 (332) 
+      QuerVelu 80 (2794) 
+ 
+MapCode  278 
+      AcerRubr 30 (98) 
+      AcerSacc 40 (1404) 70 (1357) 60 (1097) 50 (524) 20 (22) 
+      BetuLent 30 (788) 
+      MagnMacr 30 (129) 
+      TiliAmer 70 (2536) 50 (509) 60 (100) 30 (116) 40 (262) 20 (272) 
+ 
+MapCode  279 
+      AcerRubr 40 (1087) 50 (1375) 60 (370) 
+      CaryGlab 60 (1509) 50 (330) 40 (203) 
+      FaguGran 50 (383) 30 (671) 
+      LiriTuli 100 (709) 30 (99) 
+      NyssSylv 10 (14) 
+      QuerAlba 60 (504) 
+      QuerPrin 140 (5941) 90 (1627) 50 (705) 40 (253) 60 (965) 
+      QuerRubr 70 (951) 
+      QuerVelu 140 (2164) 
+ 
+MapCode  280 
+      AcerRubr 40 (1163) 50 (406) 30 (802) 10 (110) 20 (283) 
+      FraxPenn 80 (738) 90 (1570) 40 (2507) 60 (3537) 50 (2507) 30 (756) 70 (820) 
+      QuerCocc 20 (85) 
+ 
+MapCode  281 
+      AcerRubr 60 (1667) 40 (737) 50 (1934) 
+      BetuLent 40 (214) 50 (362) 
+      CaryGlab 50 (429) 60 (537) 
+      FaguGran 40 (207) 10 (88) 
+      LiriTuli 80 (692) 70 (809) 50 (559) 40 (106) 
+      MagnAcum 50 (387) 70 (641) 60 (803) 
+      OxydArbo 20 (123) 30 (67) 40 (285) 
+      QuerAlba 50 (1628) 70 (1065) 40 (368) 
+      QuerCocc 40 (436) 50 (1612) 90 (2783) 
+      QuerVelu 60 (1781) 
+      SassAlid 50 (206) 
+ 
+MapCode  282 
+      AcerRubr 60 (1275) 
+      AcerSacc 40 (414) 80 (1955) 60 (648) 30 (393) 
+      CaryGlab 50 (227) 60 (370) 70 (1972) 40 (173) 
+      CaryAlba 50 (503) 60 (554) 
+      LiriTuli 50 (389) 150 (3146) 
+      MagnAcum 140 (1490) 
+      QuerPrin 50 (1386) 150 (1874) 140 (3493) 40 (1038) 
+      QuerRubr 70 (1196) 
+      RobiPseu 50 (1570) 
+      TiliAmer 70 (536) 
+ 
+MapCode  283 
+      AcerRubr 50 (560) 30 (170) 70 (1844) 60 (3152) 
+      FaguGran 20 (1148) 
+      LiriTuli 60 (952) 80 (688) 
+      MagnMacr 20 (86) 
+      NyssSylv 10 (432) 60 (1248) 90 (1676) 
+      OxydArbo 30 (448) 
+      QuerAlba 40 (516) 
+      QuerPrin 50 (2426) 60 (1546) 140 (5894) 80 (966) 
+      QuerRubr 140 (13300) 
+      QuerVelu 140 (3610) 
+ 
+MapCode  284 
+      AcerRubr 50 (99) 100 (1160) 70 (345) 
+      AcerSacc 60 (770) 50 (537) 100 (215) 70 (604) 
+      CaryAlba 90 (1559) 130 (3126) 60 (224) 40 (207) 70 (386) 50 (191) 
+      FraxAmer 60 (163) 110 (4783) 
+      NyssSylv 60 (187) 
+      QuerAlba 60 (236) 
+      QuerPrin 140 (452) 
+      QuerRubr 140 (4137) 
+      QuerVelu 60 (334) 90 (477) 
+      TiliAmer 80 (407) 
+ 
+MapCode  285 
+      AcerRubr 60 (193) 100 (826) 50 (55) 40 (73) 90 (1322) 
+      FaguGran 50 (117) 
+      LiriTuli 140 (752) 
+      NyssSylv 170 (1136) 
+      PrunSero 190 (3561) 80 (1091) 90 (1206) 
+      QuerAlba 130 (792) 
+      QuerRubr 20 (48) 130 (7883) 50 (62) 60 (176) 
+      RobiPseu 10 (138) 
+      SassAlid 10 (155) 
+ 
+MapCode  286 
+      AcerRubr 60 (150) 
+      FaguGran 50 (277) 30 (43) 
+      NyssSylv 170 (1207) 
+      QuerAlba 140 (4411) 40 (190) 70 (502) 
+      QuerCocc 140 (2767) 
+      QuerRubr 140 (7484) 
+ 
+MapCode  287 
+      AcerRubr 90 (1187) 80 (141) 60 (117) 50 (76) 
+      BetuLent 70 (859) 
+      FaguGran 70 (1158) 100 (3373) 60 (168) 90 (1087) 
+      LiriTuli 150 (175) 20 (641) 140 (926) 
+      MagnAcum 80 (693) 50 (137) 130 (1243) 
+      QuerAlba 130 (1243) 
+      QuerPrin 130 (1887) 
+      QuerVelu 130 (1058) 
+ 
+MapCode  288 
+      AcerRubr 40 (312) 
+      AcerSacc 50 (629) 60 (1324) 
+      CaryGlab 60 (547) 
+      FaguGran 50 (136) 40 (341) 90 (1482) 
+      FraxPenn 40 (232) 
+      LiriTuli 40 (112) 140 (1908) 
+      NyssSylv 30 (57) 
+      QuerAlba 140 (3177) 
+      TiliAmer 110 (1847) 
+ 
+MapCode  289 
+      AcerRubr 50 (913) 70 (257) 60 (431) 
+      CaryGlab 60 (391) 
+      FaguGran 50 (233) 60 (160) 30 (338) 
+      NyssSylv 20 (68) 
+      OxydArbo 30 (497) 40 (531) 50 (138) 
+      QuerAlba 30 (299) 50 (848) 80 (792) 60 (2691) 40 (514) 
+      QuerCocc 90 (627) 80 (939) 50 (995) 140 (8167) 40 (390) 
+      QuerVelu 50 (340) 90 (1514) 
+ 
+MapCode  290 
+      AcerRubr 60 (107) 50 (86) 30 (64) 
+      AcerSacc 60 (287) 40 (103) 
+      CaryGlab 150 (4129) 
+      FaguGran 40 (631) 
+      LiriTuli 50 (256) 
+      MagnMacr 80 (537) 50 (248) 
+      NyssSylv 50 (366) 
+      OxydArbo 60 (172) 40 (367) 30 (52) 
+      QuerPrin 130 (1789) 60 (266) 30 (129) 
+      QuerRubr 80 (986) 70 (673) 50 (969) 60 (683) 130 (1700) 
+      RobiPseu 90 (1536) 
+ 
+MapCode  291 
+      AcerRubr 20 (131) 70 (1064) 50 (673) 40 (704) 30 (141) 60 (293) 
+      BetuLent 50 (142) 
+      CaryAlba 50 (768) 
+      LiriTuli 70 (171) 140 (6347) 90 (432) 40 (156) 50 (1689) 110 (667) 
+      MagnAcum 140 (549) 50 (113) 30 (137) 60 (64) 
+      MagnMacr 40 (86) 
+      OxydArbo 40 (128) 
+      QuerAlba 140 (817) 
+      QuerPrin 40 (107) 
+      QuerRubr 140 (505) 
+ 
+MapCode  292 
+      AcerRubr 120 (1231) 70 (1567) 110 (564) 50 (80) 100 (1261) 
+      AcerSacc 50 (359) 
+      BetuLent 110 (1141) 140 (1219) 70 (488) 90 (1733) 80 (1278) 100 (462) 
+      FaguGran 40 (41) 50 (223) 
+      PrunSero 120 (2282) 90 (901) 
+      QuerRubr 130 (2426) 
+ 
+MapCode  293 
+      AcerRubr 150 (1705) 40 (62) 50 (70) 
+      AcerSacc 70 (250) 80 (463) 50 (127) 90 (546) 100 (1651) 40 (111) 
+      BetuLent 90 (3935) 110 (1615) 70 (1087) 100 (3598) 120 (689) 220 (2636) 180 (1219) 
+      FaguGran 70 (1085) 50 (588) 40 (113) 60 (89) 
+      FraxAmer 180 (1142) 
+      LiriTuli 130 (2600) 
+      MagnMacr 40 (42) 
+      QuerRubr 40 (53) 
+ 
+MapCode  294 
+      AcerRubr 30 (392) 40 (113) 
+      FaguGran 30 (166) 40 (1697) 10 (55) 60 (3099) 50 (1135) 
+      LiriTuli 20 (50) 30 (1005) 150 (1942) 
+      MagnAcum 70 (888) 
+      QuerAlba 40 (1141) 50 (2067) 
+      QuerPrin 50 (1450) 
+      QuerRubr 140 (2130) 
+ 
+MapCode  295 
+      AcerRubr 80 (715) 60 (439) 40 (135) 50 (82) 
+      AcerSacc 60 (360) 20 (34) 
+      BetuLent 20 (193) 60 (214) 40 (761) 50 (255) 
+      CaryAlba 120 (567) 
+      FaguGran 20 (132) 90 (1724) 30 (852) 
+      FraxAmer 50 (198) 
+      LiriTuli 30 (58) 
+      NyssSylv 90 (406) 
+      OxydArbo 50 (473) 
+      QuerAlba 70 (689) 130 (2247) 
+      QuerRubr 100 (893) 50 (256) 
+ 
+MapCode  296 
+      AcerRubr 50 (173) 40 (164) 
+      LiriTuli 10 (45) 
+      NyssSylv 10 (28) 
+      OxydArbo 40 (430) 30 (197) 10 (18) 20 (229) 
+      QuerAlba 40 (1445) 140 (3708) 50 (706) 20 (70) 70 (339) 190 (599) 80 (529) 
+      QuerPrin 140 (752) 30 (98) 50 (278) 
+ 
+MapCode  297 
+      AcerRubr 30 (57) 
+      CaryGlab 50 (708) 
+      CaryAlba 40 (162) 60 (682) 80 (840) 
+      FraxAmer 90 (818) 
+      LiriTuli 30 (352) 140 (1818) 
+      NyssSylv 30 (82) 40 (201) 20 (54) 
+      QuerAlba 40 (606) 130 (1185) 70 (1315) 80 (820) 
+      QuerRubr 30 (86) 
+      QuerVelu 110 (3970) 
+      RobiPseu 10 (197) 30 (94) 
+ 
+MapCode  298 
+      AcerRubr 50 (4464) 70 (3901) 30 (666) 40 (1187) 
+      AcerSacc 50 (897) 
+      BetuLent 30 (404) 
+      FaguGran 30 (82) 20 (179) 10 (16) 
+      HaleDipt 10 (413) 
+      PrunSero 50 (1309) 
+      QuerRubr 100 (2470) 30 (525) 70 (6660) 90 (4735) 40 (554) 50 (2425) 
+ 
+MapCode  299 
+      AcerRubr 50 (894) 30 (1316) 40 (160) 60 (339) 
+      MagnMacr 80 (705) 
+      OxydArbo 30 (245) 40 (513) 20 (453) 
+      QuerCocc 90 (1529) 130 (2792) 60 (340) 50 (323) 
+      QuerPrin 80 (1150) 40 (126) 50 (268) 30 (94) 
+      QuerRubr 50 (546) 130 (868) 
+      RobiPseu 80 (427) 
+ 
+MapCode  300 
+      AcerRubr 50 (1287) 40 (162) 60 (686) 
+      BetuLent 50 (278) 
+      HaleDipt 10 (639) 
+      MagnMacr 40 (137) 70 (273) 
+      QuerRubr 50 (987) 90 (1622) 
+ 
+MapCode  301 
+      AcerRubr 50 (762) 20 (113) 40 (1350) 60 (1112) 10 (25) 
+      CaryGlab 50 (1769) 60 (2060) 
+      HaleDipt 10 (43) 
+      LiriTuli 50 (521) 60 (520) 
+      OxydArbo 30 (273) 
+      QuerAlba 120 (1851) 140 (4008) 
+      QuerPrin 30 (512) 90 (1828) 
+      QuerRubr 120 (3515) 
+ 
+MapCode  302 
+      AcerRubr 20 (133) 
+      CaryAlba 50 (3991) 30 (440) 
+      LiriTuli 40 (5434) 30 (430) 20 (316) 60 (4186) 10 (118) 
+      OxydArbo 20 (371) 
+      QuerCocc 60 (7264) 
+      QuerPrin 50 (3553) 30 (1389) 20 (243) 40 (3447) 10 (88) 
+      QuerRubr 40 (1449) 
+      RobiPseu 30 (700) 
+ 
+MapCode  303 
+      AcerRubr 30 (112) 
+      AcerSacc 60 (1715) 70 (1478) 10 (59) 50 (788) 20 (273) 
+      CaryGlab 70 (600) 
+      FraxAmer 180 (2842) 
+      LiriTuli 150 (4472) 20 (41) 
+      MagnAcum 130 (1034) 150 (1555) 50 (595) 140 (4128) 80 (449) 
+      QuerRubr 80 (1752) 
+      RobiPseu 100 (1068) 
+      TiliAmer 90 (611) 30 (64) 
+ 
+MapCode  304 
+      AcerRubr 110 (2333) 20 (151) 30 (203) 
+      AcerSacc 60 (1643) 40 (979) 70 (2073) 80 (813) 100 (2112) 50 (141) 20 (133) 
+      CaryGlab 70 (590) 
+      FraxAmer 70 (742) 
+      QuerRubr 80 (1292) 130 (2622) 50 (653) 70 (714) 
+ 
+MapCode  305 
+      AcerRubr 30 (246) 40 (1535) 20 (823) 50 (1411) 
+      CaryGlab 40 (710) 
+      CaryAlba 60 (1563) 50 (1109) 
+      LiriTuli 160 (6812) 60 (1300) 
+      MagnMacr 20 (193) 
+      OxydArbo 20 (412) 10 (229) 
+      QuerPrin 40 (2400) 30 (387) 50 (2689) 
+ 
+MapCode  306 
+      AcerRubr 40 (447) 50 (516) 30 (128) 
+      BetuLent 40 (323) 
+      FraxAmer 180 (1415) 50 (209) 40 (246) 
+      HaleDipt 10 (1274) 
+      LiriTuli 150 (3895) 60 (1446) 40 (901) 50 (848) 90 (733) 70 (683) 
+      OxydArbo 30 (225) 50 (498) 40 (385) 
+      QuerPrin 80 (1397) 140 (1258) 
+      RobiPseu 40 (608) 
+      TiliAmer 80 (858) 60 (253) 
+ 
+MapCode  307 
+      AcerRubr 30 (224) 
+      BetuLent 30 (353) 
+      CaryGlab 30 (823) 
+      FaguGran 10 (47) 
+      FraxAmer 20 (566) 
+      LiriTuli 40 (1357) 30 (243) 
+      MagnMacr 20 (112) 
+      NyssSylv 20 (245) 30 (419) 10 (444) 
+      QuerAlba 20 (221) 30 (356) 
+      QuerRubr 40 (1509) 50 (2629) 
+      TiliAmer 40 (1335) 30 (335) 
+ 
+MapCode  308 
+      AcerRubr 10 (111) 20 (854) 30 (120) 40 (445) 
+      CaryGlab 30 (215) 40 (1132) 
+      CaryAlba 40 (838) 
+      FaguGran 10 (179) 30 (416) 
+      LiriTuli 60 (1829) 30 (120) 
+      NyssSylv 20 (86) 
+      OxydArbo 20 (114) 
+      QuerAlba 30 (900) 60 (2114) 70 (1858) 20 (139) 40 (1736) 50 (991) 
+ 
+MapCode  309 
+      AcerRubr 70 (556) 30 (186) 20 (113) 
+      CornFlor 20 (651) 
+      NyssSylv 30 (146) 60 (378) 
+      OxydArbo 50 (560) 40 (123) 20 (436) 30 (111) 70 (449) 
+      QuerPrin 80 (3899) 40 (406) 130 (3915) 50 (705) 70 (267) 60 (521) 30 (521) 100 (416) 90 (447) 
+      QuerVelu 70 (963) 60 (708) 130 (2404) 
+ 
+MapCode  310 
+      AcerRubr 40 (672) 50 (329) 70 (565) 
+      NyssSylv 30 (164) 40 (63) 160 (1368) 110 (277) 50 (228) 
+      OxydArbo 50 (109) 40 (474) 
+      QuerCocc 70 (323) 60 (569) 40 (629) 90 (362) 
+      QuerPrin 70 (635) 50 (667) 60 (231) 40 (253) 130 (4677) 30 (329) 90 (567) 100 (379) 
+      QuerRubr 70 (536) 80 (302) 
+ 
+MapCode  311 
+      AcerRubr 30 (89) 
+      LiriTuli 50 (3203) 40 (3186) 30 (659) 60 (1218) 70 (3828) 20 (308) 
+      QuerVelu 30 (72) 
+      SassAlid 40 (119) 
+ 
+MapCode  312 
+      AcerRubr 50 (493) 40 (108) 
+      AcerSacc 40 (187) 
+      BetuLent 50 (972) 60 (900) 
+      HaleDipt 10 (392) 
+      LiriTuli 50 (1572) 40 (132) 70 (756) 60 (849) 110 (591) 
+      NyssSylv 60 (402) 
+      OxydArbo 40 (887) 
+ 
+MapCode  313 
+      AcerRubr 90 (102) 110 (250) 
+      QuerAlba 130 (980) 
+      QuerRubr 130 (2381) 
+ 
+MapCode  314 
+      AcerRubr 40 (88) 50 (106) 
+      AcerSacc 70 (2677) 80 (1157) 60 (804) 
+      FaguGran 30 (55) 
+      FraxAmer 30 (65) 
+      NyssSylv 20 (270) 
+      QuerAlba 30 (85) 40 (225) 60 (1430) 140 (5937) 50 (460) 
+      QuerCocc 140 (2062) 
+      QuerPrin 40 (111) 
+      QuerRubr 140 (4336) 
+ 
+MapCode  315 
+      AcerRubr 50 (958) 30 (233) 40 (324) 
+      AcerSacc 40 (130) 20 (35) 30 (313) 
+      CaryGlab 50 (1260) 40 (274) 
+      FaguGran 20 (223) 
+      LiriTuli 60 (3591) 10 (154) 40 (1561) 150 (2808) 110 (1232) 140 (1634) 100 (1757) 80 (3633) 20 (72) 
+      OxydArbo 10 (17) 40 (196) 
+      SassAlid 30 (605) 
+ 
+MapCode  316 
+      AcerRubr 40 (380) 30 (365) 50 (780) 20 (33) 
+      LiriTuli 70 (1403) 180 (2672) 90 (978) 80 (4426) 
+      RobiPseu 10 (484) 
+      TiliAmer 40 (307) 60 (1431) 20 (101) 
+ 
+MapCode  317 
+      AcerRubr 60 (240) 50 (102) 40 (45) 
+      FaguGran 40 (272) 70 (3074) 50 (576) 
+      LiriTuli 30 (78) 140 (2351) 120 (243) 80 (755) 
+      OxydArbo 30 (163) 40 (58) 20 (42) 
+      QuerRubr 130 (618) 
+      QuerVelu 130 (730) 
+ 
+MapCode  318 
+      AcerRubr 30 (67) 
+      CaryGlab 50 (3209) 
+      CaryAlba 40 (1620) 
+      LiriTuli 30 (577) 70 (2144) 90 (1528) 
+      MagnAcum 40 (1032) 
+      NyssSylv 20 (434) 
+      QuerAlba 40 (927) 
+      QuerCocc 20 (108) 
+      QuerVelu 40 (2226) 
+      SassAlid 30 (253) 
+ 
+MapCode  319 
+      AcerRubr 40 (2898) 30 (197) 20 (64) 
+      BetuLent 30 (702) 20 (42) 
+      CaryGlab 30 (110) 
+      FaguGran 50 (752) 30 (378) 
+      LiriTuli 30 (1508) 40 (1167) 20 (56) 70 (4298) 60 (1783) 50 (1819) 
+      NyssSylv 20 (61) 
+      OxydArbo 30 (191) 
+      SassAlid 20 (82) 
+ 
+MapCode  320 
+      AcerRubr 40 (470) 50 (777) 
+      CaryAlba 30 (180) 40 (229) 
+      FraxAmer 60 (570) 40 (262) 
+      QuerAlba 30 (264) 
+      QuerPrin 50 (2128) 
+      QuerVelu 10 (60) 50 (170) 60 (557) 40 (81) 30 (187) 
+ 
+MapCode  321 
+      AcerRubr 50 (958) 60 (3807) 30 (290) 
+      AcerSacc 30 (156) 
+      BetuLent 50 (1172) 20 (758) 
+      CaryAlba 40 (975) 50 (1621) 30 (81) 20 (62) 60 (732) 
+      FaguGran 20 (109) 80 (1226) 
+      LiriTuli 30 (95) 60 (1740) 
+      MagnMacr 20 (182) 
+      NyssSylv 20 (93) 
+      QuerAlba 40 (1804) 70 (3239) 
+ 
+MapCode  322 
+      AcerRubr 30 (199) 60 (351) 50 (293) 
+      AcerSacc 70 (351) 40 (2442) 10 (59) 20 (757) 30 (255) 
+      FraxAmer 110 (2383) 
+      PrunSero 60 (3283) 
+      RobiPseu 30 (256) 
+ 
+MapCode  323 
+      AcerRubr 20 (371) 30 (338) 
+      CaryGlab 50 (816) 
+      LiriTuli 20 (79) 
+ 
+MapCode  324 
+      AcerRubr 80 (3788) 30 (654) 
+      AcerSacc 10 (118) 30 (106) 40 (529) 20 (72) 
+      BetuLent 50 (946) 
+      CaryGlab 60 (2800) 
+      FaguGran 40 (453) 
+      LiriTuli 150 (4178) 20 (105) 
+      OxydArbo 10 (53) 
+      QuerRubr 100 (5143) 
+ 
+MapCode  325 
+      AcerRubr 10 (25) 40 (520) 50 (620) 30 (39) 80 (972) 70 (751) 
+      LiriTuli 30 (123) 40 (210) 
+      MagnMacr 40 (168) 
+      NyssSylv 50 (406) 10 (141) 
+      OxydArbo 40 (355) 30 (75) 10 (11) 
+      QuerAlba 40 (553) 30 (139) 180 (1419) 
+      QuerCocc 50 (526) 140 (3274) 
+      QuerPrin 70 (1259) 40 (604) 80 (893) 50 (1009) 60 (421) 
+      QuerVelu 60 (2241) 180 (2325) 
+      SassAlid 30 (160) 
+ 
+MapCode  326 
+      AcerRubr 60 (1758) 70 (2065) 20 (209) 10 (44) 90 (3240) 50 (401) 
+      CaryGlab 60 (1277) 50 (311) 
+      FaguGran 20 (229) 60 (755) 50 (644) 
+      LiriTuli 90 (905) 60 (732) 
+      OxydArbo 30 (331) 50 (854) 60 (181) 
+      QuerAlba 140 (5533) 
+      QuerCocc 140 (9675) 
+      QuerVelu 70 (1186) 100 (1123) 
+      SassAlid 40 (59) 50 (375) 30 (25) 
+ 
+MapCode  327 
+      AcerRubr 60 (125) 
+      BetuLent 30 (56) 
+      CaryGlab 80 (432) 250 (2592) 230 (1166) 
+      LiriTuli 140 (4153) 20 (232) 
+      NyssSylv 50 (480) 40 (95) 
+      QuerAlba 130 (6702) 
+      QuerPrin 130 (1340) 100 (716) 
+      QuerRubr 130 (6748) 
+      QuerVelu 130 (1697) 
+ 
+MapCode  328 
+      AcerRubr 20 (179) 70 (539) 60 (1168) 50 (404) 40 (104) 
+      MagnAcum 10 (14) 
+      MagnMacr 40 (101) 
+      NyssSylv 10 (14) 
+      OxydArbo 30 (314) 10 (134) 20 (92) 
+      QuerPrin 50 (727) 140 (7019) 30 (122) 40 (573) 
+      QuerRubr 140 (8602) 
+      QuerVelu 140 (5827) 
+ 
+MapCode  329 
+      AcerRubr 70 (1440) 60 (1481) 
+      LiriTuli 30 (192) 50 (856) 60 (1563) 70 (802) 10 (34) 150 (1430) 100 (739) 
+      NyssSylv 40 (351) 20 (353) 
+      QuerAlba 140 (1811) 
+      QuerVelu 60 (2284) 
+ 
+MapCode  330 
+      AcerRubr 50 (506) 
+      BetuLent 30 (740) 40 (1161) 
+      FaguGran 30 (308) 100 (4968) 60 (1413) 
+      LiriTuli 60 (1457) 50 (746) 
+      QuerAlba 70 (4574) 
+      TiliAmer 70 (517) 
+ 
+MapCode  331 
+      AcerRubr 30 (88) 
+      CaryAlba 50 (1055) 30 (187) 
+      LiriTuli 150 (1835) 
+      QuerPrin 30 (328) 40 (489) 
+ 
+MapCode  332 
+      AcerRubr 40 (182) 50 (433) 
+      CornFlor 20 (136) 
+      NyssSylv 20 (195) 10 (61) 
+      OxydArbo 30 (917) 20 (295) 40 (329) 
+      QuerAlba 30 (719) 
+      QuerCocc 80 (1992) 90 (4514) 70 (2978) 40 (235) 60 (3005) 30 (224) 
+      QuerFalc 40 (701) 60 (1330) 
+      QuerPrin 40 (1243) 30 (119) 
+ 
+MapCode  333 
+      AcerRubr 60 (291) 40 (503) 20 (336) 30 (31) 50 (173) 
+      FraxAmer 50 (289) 
+      LiriTuli 20 (90) 10 (19) 
+      NyssSylv 40 (237) 10 (267) 
+      OxydArbo 40 (215) 
+      QuerAlba 70 (800) 
+      QuerPrin 50 (1024) 90 (1621) 40 (570) 150 (1074) 60 (382) 130 (2296) 
+ 
+MapCode  334 
+      AcerRubr 40 (458) 10 (157) 30 (741) 20 (461) 
+      LiriTuli 20 (270) 40 (950) 10 (195) 50 (510) 30 (422) 60 (813) 
+      NyssSylv 30 (76) 
+      OxydArbo 30 (779) 40 (690) 20 (111) 
+      QuerAlba 90 (1565) 
+      QuerRubr 40 (305) 140 (4195) 
+      QuerVelu 10 (20) 
+ 
+MapCode  335 
+      AcerRubr 10 (90) 
+      LiriTuli 10 (438) 
+ 
+MapCode  336 
+      AcerRubr 50 (588) 30 (783) 
+      AcerSacc 10 (273) 20 (562) 30 (573) 40 (416) 
+      CaryAlba 50 (2542) 60 (2104) 
+      LiriTuli 40 (601) 20 (153) 30 (380) 
+      MagnAcum 50 (1076) 
+      QuerPrin 50 (4372) 40 (3611) 
+      QuerVelu 50 (2102) 
+      TiliAmer 30 (158) 20 (55) 
+ 
+MapCode  337 
+      AcerRubr 10 (25) 30 (363) 50 (1130) 
+      AcerSacc 50 (1119) 10 (333) 
+      BetuLent 30 (198) 10 (19) 
+      FaguGran 70 (1986) 
+      FraxPenn 30 (161) 
+      LiriTuli 60 (1963) 70 (1459) 50 (1080) 20 (84) 30 (272) 
+      NyssSylv 20 (108) 
+      OxydArbo 30 (273) 
+      QuerPrin 50 (2796) 
+      QuerRubr 20 (134) 
+      SassAlid 30 (1332) 20 (95) 
+ 
+MapCode  338 
+      AcerRubr 40 (624) 50 (724) 30 (259) 
+      BetuLent 40 (372) 
+      CaryAlba 30 (297) 
+      LiriTuli 70 (1136) 60 (766) 
+      OxydArbo 20 (131) 30 (568) 
+      QuerAlba 20 (167) 30 (265) 50 (1816) 
+      QuerFalc 30 (515) 40 (455) 50 (892) 
+      QuerVelu 50 (4642) 40 (1596) 30 (514) 
+ 
+MapCode  339 
+      AcerRubr 50 (1747) 10 (196) 30 (368) 40 (1096) 20 (1036) 
+      CornFlor 20 (166) 
+      FaguGran 10 (468) 
+      LiriTuli 50 (898) 20 (269) 40 (2186) 30 (158) 
+      NyssSylv 20 (378) 
+      OxydArbo 20 (1118) 10 (22) 
+      QuerAlba 10 (73) 
+      QuerVelu 20 (183) 
+ 
+MapCode  340 
+      AcerRubr 50 (1077) 60 (1991) 20 (221) 30 (448) 40 (274) 
+      MagnMacr 70 (866) 
+      NyssSylv 60 (472) 40 (254) 
+      OxydArbo 30 (58) 40 (171) 
+      QuerPrin 80 (4071) 60 (964) 140 (3733) 90 (2052) 100 (1252) 70 (1461) 120 (1735) 40 (348) 50 (1568) 
+      QuerRubr 70 (1376) 40 (271) 80 (1302) 
+ 
+MapCode  341 
+      AcerRubr 50 (287) 20 (76) 70 (1797) 
+      BetuLent 60 (1217) 
+      MagnMacr 40 (650) 20 (379) 60 (475) 30 (172) 
+      QuerCocc 90 (2378) 100 (2635) 50 (233) 
+      QuerRubr 90 (1110) 60 (533) 130 (5221) 
+ 
+MapCode  342 
+      AcerRubr 20 (221) 60 (362) 70 (1470) 10 (52) 
+      AcerSacc 10 (101) 30 (104) 20 (230) 50 (701) 
+      CaryAlba 40 (134) 
+      LiriTuli 150 (6971) 
+      MagnAcum 60 (405) 
+      QuerAlba 140 (6339) 60 (1019) 
+      QuerPrin 140 (4967) 
+      QuerRubr 40 (258) 140 (1476) 80 (1797) 
+ 
+MapCode  343 
+      AcerRubr 30 (700) 40 (507) 20 (301) 10 (301) 50 (651) 
+      CaryAlba 30 (306) 60 (5375) 
+      FaguGran 30 (227) 10 (16) 
+      NyssSylv 40 (1955) 
+      OxydArbo 30 (210) 
+      QuerAlba 60 (3232) 40 (1305) 30 (688) 
+      QuerPrin 40 (4750) 20 (171) 
+      QuerVelu 50 (2017) 60 (2487) 70 (4413) 
+ 
+MapCode  344 
+      AcerRubr 30 (427) 40 (2123) 20 (70) 10 (15) 
+      CaryGlab 50 (311) 
+      OxydArbo 30 (300) 40 (263) 
+      QuerAlba 30 (478) 50 (855) 60 (987) 
+      QuerCocc 50 (1046) 60 (2060) 
+      QuerPrin 30 (271) 50 (2578) 40 (382) 
+      QuerRubr 40 (792) 
+ 
+MapCode  345 
+      AcerRubr 10 (140) 30 (380) 20 (44) 50 (837) 
+      AcerSacc 10 (59) 20 (79) 30 (266) 
+      BetuLent 20 (178) 
+      CaryGlab 30 (79) 20 (39) 
+      CaryAlba 50 (1231) 
+      FaguGran 60 (1807) 10 (378) 90 (1931) 70 (1351) 50 (865) 
+      LiriTuli 40 (246) 
+      MagnAcum 30 (225) 20 (466) 
+      OxydArbo 30 (595) 
+      QuerAlba 40 (1198) 60 (1632) 
+      QuerRubr 20 (584) 30 (585) 50 (3706) 
+      TiliAmer 40 (410) 
+ 
+MapCode  346 
+      AcerRubr 30 (504) 20 (31) 40 (207) 
+      AcerSacc 10 (89) 30 (283) 
+      BetuLent 30 (561) 20 (269) 
+      CaryAlba 70 (2403) 
+      FraxAmer 40 (146) 
+      LiriTuli 20 (1396) 10 (148) 150 (2294) 70 (812) 
+      MagnMacr 20 (1211) 10 (242) 
+ 
+MapCode  347 
+      AcerRubr 50 (559) 40 (413) 30 (406) 
+      AcerSacc 20 (217) 
+      CaryGlab 50 (381) 
+      CaryAlba 60 (1550) 
+      NyssSylv 30 (92) 
+      QuerAlba 20 (136) 30 (245) 40 (410) 80 (1735) 
+      QuerCocc 140 (1535) 
+      QuerPrin 40 (582) 80 (2469) 90 (1414) 60 (765) 50 (1634) 30 (104) 
+      QuerRubr 140 (2278) 
+      QuerVelu 60 (676) 
+ 
+MapCode  348 
+      AcerRubr 20 (232) 
+      AcerSacc 20 (568) 60 (2027) 
+      CaryGlab 90 (2693) 40 (257) 
+      NyssSylv 20 (96) 60 (566) 30 (497) 
+      QuerAlba 130 (1327) 40 (241) 
+      QuerPrin 140 (2112) 70 (2636) 80 (737) 
+ 
+MapCode  349 
+      AcerRubr 20 (44) 40 (298) 
+      AcerSacc 70 (1993) 60 (631) 50 (159) 20 (285) 
+      CornFlor 10 (68) 20 (429) 
+      FaguGran 40 (142) 30 (212) 
+      LiriTuli 150 (6654) 40 (291) 80 (798) 30 (228) 110 (840) 70 (575) 60 (272) 50 (304) 
+      PrunSero 30 (94) 
+      QuerVelu 20 (39) 
+      SassAlid 20 (58) 30 (627) 
+ 
+MapCode  350 
+      AcerRubr 10 (25) 40 (99) 20 (279) 
+      AcerSacc 10 (91) 
+      CornFlor 20 (621) 30 (175) 
+      LiriTuli 10 (24) 30 (133) 
+ 
+MapCode  351 
+      AcerRubr 30 (450) 40 (814) 
+      CaryGlab 30 (260) 50 (1130) 40 (217) 
+      FaguGran 60 (2109) 10 (214) 
+      LiriTuli 50 (1883) 70 (3008) 40 (429) 
+      QuerAlba 50 (1475) 40 (808) 
+      QuerRubr 40 (1245) 
+ 
+MapCode  352 
+      AcerRubr 10 (114) 30 (136) 40 (680) 
+      CaryGlab 80 (3110) 
+      LiriTuli 60 (797) 150 (2026) 30 (266) 10 (90) 20 (121) 
+      NyssSylv 20 (426) 10 (182) 
+      QuerCocc 50 (920) 
+      QuerPrin 10 (73) 100 (2585) 70 (1680) 20 (112) 30 (130) 40 (1232) 
+      QuerVelu 50 (2565) 30 (246) 
+      SassAlid 10 (69) 20 (116) 
+ 
+MapCode  353 
+      AcerRubr 50 (1949) 30 (739) 40 (283) 
+      AcerSacc 20 (397) 30 (182) 10 (22) 
+      FraxAmer 50 (558) 70 (744) 
+      LiriTuli 10 (100) 80 (2330) 60 (1287) 150 (2329) 
+      NyssSylv 40 (568) 
+      TiliAmer 10 (48) 
+ 
+MapCode  354 
+      AcerRubr 20 (140) 
+      AcerSacc 10 (269) 
+      CaryGlab 30 (132) 
+      QuerCocc 30 (253) 
+      QuerPrin 40 (862) 
+      RobiPseu 10 (136) 
+      SassAlid 20 (1401) 10 (43) 
+ 
+MapCode  355 
+      AcerRubr 30 (563) 20 (31) 50 (1134) 70 (320) 60 (188) 
+      CaryAlba 130 (1455) 
+      LiriTuli 50 (126) 
+      NyssSylv 40 (90) 
+      OxydArbo 30 (629) 
+      QuerAlba 80 (1982) 130 (5249) 40 (247) 90 (398) 
+      QuerCocc 90 (551) 
+      QuerPrin 130 (3516) 
+      QuerRubr 290 (705) 
+      QuerVelu 130 (1170) 
+ 
+MapCode  356 
+      AcerRubr 10 (44) 30 (81) 20 (133) 
+      NyssSylv 10 (117) 
+      OxydArbo 10 (67) 30 (78) 20 (1868) 
+      QuerAlba 20 (72) 
+      QuerCocc 20 (73) 30 (100) 10 (46) 
+      QuerPrin 30 (1057) 50 (953) 40 (872) 
+ 
+MapCode  357 
+      AcerRubr 40 (782) 70 (1027) 60 (714) 10 (25) 
+      CaryGlab 70 (1378) 
+      CaryAlba 30 (116) 
+      CornFlor 20 (122) 
+      LiriTuli 40 (164) 30 (467) 
+      NyssSylv 30 (127) 20 (207) 40 (293) 10 (23) 
+      OxydArbo 30 (403) 20 (681) 
+      PrunSero 40 (309) 50 (193) 30 (142) 
+      QuerAlba 20 (72) 40 (163) 
+      QuerPrin 40 (1416) 30 (203) 
+      QuerVelu 40 (259) 
+ 
+MapCode  358 
+      AcerRubr 40 (276) 30 (214) 20 (55) 
+      CaryGlab 40 (119) 
+      QuerAlba 130 (1829) 
+      QuerPrin 100 (306) 130 (7915) 40 (723) 120 (839) 50 (1104) 80 (998) 70 (574) 90 (424) 20 (283) 
+ 
+MapCode  359 
+      AcerRubr 40 (1263) 50 (2602) 30 (499) 60 (1119) 
+      BetuLent 40 (235) 
+      FraxAmer 50 (866) 
+      MagnMacr 40 (271) 
+      PrunSero 50 (2484) 
+      QuerAlba 50 (987) 
+      QuerCocc 30 (546) 
+      QuerRubr 40 (5999) 60 (1588) 50 (4064) 30 (533) 
+ 
+MapCode  360 
+      AcerRubr 50 (80) 
+      CaryGlab 130 (2363) 60 (153) 90 (519) 120 (719) 
+      CaryAlba 90 (1040) 60 (933) 50 (657) 30 (70) 70 (203) 
+      QuerAlba 130 (742) 
+      QuerRubr 130 (5873) 70 (158) 
+      QuerVelu 130 (5412) 
+      RobiPseu 50 (90) 
+ 
+MapCode  361 
+      AcerRubr 20 (25) 
+      AcerSacc 60 (369) 20 (317) 50 (234) 
+      BetuLent 70 (1721) 40 (633) 20 (106) 80 (2263) 50 (507) 60 (450) 
+      PrunSero 80 (1257) 
+      QuerAlba 40 (353) 50 (139) 80 (490) 130 (528) 
+      QuerRubr 130 (2500) 
+      RobiPseu 90 (1487) 
+ 
+MapCode  362 
+      AcerRubr 40 (494) 30 (140) 
+      AcerSacc 20 (259) 50 (1664) 30 (306) 
+      BetuLent 40 (2153) 30 (220) 10 (19) 
+      LiriTuli 60 (490) 70 (896) 150 (2482) 90 (348) 
+      MagnAcum 70 (675) 
+      NyssSylv 20 (75) 
+      PrunSero 50 (193) 
+      QuerRubr 40 (463) 30 (121) 60 (1473) 140 (2421) 
+ 
+MapCode  363 
+      AcerRubr 10 (786) 
+      CaryGlab 60 (1836) 30 (141) 40 (164) 20 (390) 
+      FraxAmer 10 (381) 
+      LiriTuli 40 (2016) 30 (812) 20 (660) 50 (2819) 
+      PrunSero 50 (521) 20 (104) 
+ 
+MapCode  364 
+      AcerRubr 50 (1193) 40 (750) 60 (2085) 30 (122) 
+      CaryGlab 50 (837) 60 (1326) 90 (2116) 
+      FraxAmer 40 (125) 
+      HaleDipt 10 (17) 
+      LiriTuli 40 (271) 150 (995) 60 (288) 130 (1291) 30 (111) 
+      MagnMacr 40 (236) 
+      NyssSylv 30 (124) 
+      OxydArbo 30 (388) 20 (391) 
+      QuerAlba 30 (215) 50 (2860) 40 (318) 
+      QuerCocc 90 (1530) 
+      QuerPrin 60 (713) 
+      QuerRubr 70 (762) 60 (899) 
+      RobiPseu 40 (246) 
+      TiliAmhe 60 (405) 
+ 
+MapCode  365 
+      AcerRubr 40 (277) 30 (313) 
+      BetuLent 60 (1038) 
+      CornFlor 10 (88) 
+      LiriTuli 70 (1386) 
+      NyssSylv 10 (28) 
+      OxydArbo 20 (474) 30 (251) 
+      QuerCocc 40 (2076) 
+      QuerPrin 40 (3639) 50 (8909) 70 (2713) 20 (230) 30 (196) 
+ 
+MapCode  366 
+      AcerRubr 10 (15) 
+      CaryAlba 40 (292) 90 (2129) 
+      CornFlor 20 (198) 
+      LiriTuli 150 (1335) 
+      NyssSylv 40 (255) 30 (242) 60 (580) 
+      OxydArbo 30 (357) 
+      QuerCocc 70 (2324) 
+      QuerPrin 140 (6538) 20 (59) 30 (145) 110 (3707) 50 (400) 70 (3034) 100 (5090) 80 (1890) 
+      QuerVelu 30 (156) 
+ 
+MapCode  367 
+      AcerRubr 30 (1120) 40 (411) 20 (90) 
+      BetuLent 40 (219) 
+      NyssSylv 40 (1424) 
+      OxydArbo 20 (872) 10 (18) 
+      QuerCocc 20 (541) 30 (1139) 
+ 
+MapCode  368 
+      AcerRubr 60 (311) 40 (269) 70 (1238) 80 (1131) 20 (165) 
+      AcerSacc 50 (617) 20 (85) 40 (684) 
+      BetuLent 30 (191) 40 (246) 70 (1267) 
+      LiriTuli 60 (563) 150 (8283) 
+      MagnMacr 120 (692) 180 (1262) 80 (533) 70 (903) 
+      QuerPrin 140 (1619) 
+      QuerRubr 140 (2304) 60 (666) 
+      TiliAmer 70 (681) 
+ 
+MapCode  369 
+      AcerRubr 20 (311) 30 (672) 40 (133) 10 (20) 
+      AcerSacc 40 (1033) 30 (180) 10 (101) 50 (878) 
+      FraxPenn 90 (2442) 20 (137) 
+      LiriTuli 50 (350) 30 (548) 20 (404) 
+      OxydArbo 10 (343) 
+      PrunSero 30 (73) 
+      QuerPrin 40 (1023) 
+      RobiPseu 20 (293) 
+      TiliAmer 20 (522) 40 (1061) 50 (439) 30 (688) 60 (952) 10 (56) 
+ 
+MapCode  370 
+      AcerRubr 30 (534) 20 (25) 50 (376) 
+      AcerSacc 40 (228) 50 (1704) 10 (22) 
+      CaryAlba 90 (2084) 60 (1133) 
+      FraxAmer 30 (446) 
+      LiriTuli 90 (776) 70 (524) 50 (300) 30 (156) 40 (266) 20 (270) 10 (71) 
+      NyssSylv 50 (488) 30 (135) 20 (48) 
+      QuerPrin 80 (1155) 
+ 
+MapCode  371 
+      AcerRubr 70 (694) 40 (499) 50 (412) 60 (548) 
+      CornFlor 20 (294) 
+      FaguGran 10 (31) 
+      FraxPenn 40 (447) 
+      LiriTuli 50 (597) 40 (221) 150 (683) 90 (961) 70 (601) 
+      NyssSylv 40 (302) 30 (101) 20 (78) 
+      OxydArbo 30 (73) 70 (553) 60 (275) 
+      QuerAlba 30 (105) 
+      QuerFalc 140 (2209) 
+      QuerRubr 140 (1179) 
+ 
+MapCode  372 
+      AcerRubr 40 (345) 50 (233) 60 (1007) 20 (61) 
+      AcerSacc 20 (103) 
+      LiriTuli 30 (665) 20 (452) 140 (1598) 
+      NyssSylv 20 (239) 10 (70) 
+      PrunSero 40 (464) 30 (386) 20 (139) 
+      QuerAlba 30 (278) 
+      QuerPrin 140 (2046) 30 (202) 
+ 
+MapCode  373 
+      AcerRubr 50 (834) 80 (2486) 40 (423) 
+      LiriTuli 110 (1209) 60 (705) 150 (1704) 20 (192) 
+      MagnAcum 50 (428) 30 (113) 40 (278) 140 (899) 
+      MagnMacr 30 (142) 40 (277) 10 (48) 
+      QuerAlba 40 (186) 60 (742) 90 (2129) 80 (3726) 140 (3418) 
+      QuerPrin 140 (1612) 40 (311) 60 (966) 20 (107) 
+      QuerRubr 120 (6497) 
+      QuerVelu 70 (1411) 
+ 
+MapCode  374 
+      AcerRubr 70 (535) 40 (185) 30 (546) 
+      MagnAcum 30 (159) 40 (168) 
+      MagnMacr 60 (232) 30 (83) 20 (550) 10 (50) 
+      NyssSylv 10 (18) 20 (1085) 50 (142) 30 (672) 
+      OxydArbo 80 (428) 30 (531) 60 (375) 40 (322) 50 (222) 
+      QuerAlba 50 (269) 
+      QuerCocc 50 (943) 80 (1465) 90 (1313) 60 (412) 70 (1429) 
+      QuerPrin 170 (836) 60 (1477) 
+      QuerVelu 80 (407) 70 (401) 60 (160) 40 (165) 
+ 
+MapCode  375 
+      AcerRubr 40 (242) 50 (1109) 
+      AcerSacc 40 (805) 50 (798) 60 (732) 20 (350) 30 (88) 
+      CaryAlba 50 (432) 
+      FraxAmer 80 (1903) 
+      LiriTuli 70 (574) 30 (55) 
+      MagnAcum 70 (1003) 80 (1276) 
+      PrunSero 60 (1506) 40 (109) 70 (1872) 
+      QuerCocc 40 (304) 
+      QuerRubr 50 (2473) 60 (1547) 40 (328) 
+ 
+MapCode  376 
+      AcerRubr 50 (500) 20 (58) 30 (303) 
+ 
+MapCode  377 
+      AcerRubr 30 (128) 
+      CaryGlab 40 (108) 20 (80) 60 (279) 
+      CaryAlba 30 (55) 40 (72) 
+      FraxAmer 30 (261) 40 (91) 
+      LiriTuli 140 (5571) 70 (144) 30 (42) 
+      MagnAcum 50 (241) 90 (213) 
+      NyssSylv 20 (45) 
+      PrunSero 40 (402) 70 (633) 60 (198) 
+      QuerPrin 50 (202) 
+      QuerRubr 30 (99) 100 (438) 60 (227) 70 (385) 50 (206) 80 (328) 130 (2837) 
+      QuerVelu 40 (87) 
+      RobiPseu 90 (202) 
+ 
+MapCode  378 
+      AcerRubr 60 (817) 70 (635) 80 (1321) 50 (306) 30 (202) 40 (238) 
+      AcerSacc 40 (1727) 50 (233) 20 (240) 
+      BetuLent 20 (130) 10 (95) 
+      LiriTuli 50 (715) 140 (6246) 
+      MagnAcum 30 (69) 
+      MagnMacr 20 (99) 
+      NyssSylv 20 (338) 
+      QuerCocc 120 (1660) 
+      QuerPrin 70 (1668) 
+      QuerRubr 80 (938) 60 (569) 140 (2451) 70 (1086) 30 (96) 
+      RobiPseu 100 (567) 
+ 
+MapCode  379 
+      AcerRubr 60 (341) 100 (926) 120 (545) 110 (1019) 80 (354) 
+      HaleDipt 10 (710) 
+      MagnMacr 160 (4715) 20 (37) 
+      NyssSylv 80 (408) 160 (783) 70 (121) 
+      OxydArbo 100 (900) 20 (225) 40 (70) 50 (376) 130 (110) 70 (233) 
+      QuerPrin 130 (7129) 110 (288) 
+      QuerRubr 130 (326) 
+      QuerVelu 130 (306) 
+ 
+MapCode  380 
+      AcerRubr 10 (25) 
+      LiriTuli 40 (439) 30 (226) 20 (205) 
+      OxydArbo 20 (272) 
+      PrunSero 30 (196) 
+      RobiPseu 20 (155) 
+ 
+MapCode  381 
+      AcerRubr 50 (409) 40 (793) 
+      BetuLent 30 (1163) 40 (1174) 
+      HaleDipt 10 (336) 
+      LiriTuli 80 (810) 90 (910) 50 (619) 150 (2385) 40 (183) 
+      OxydArbo 30 (865) 40 (333) 
+ 
+MapCode  382 
+      AcerRubr 40 (166) 
+      BetuLent 40 (3860) 50 (7218) 30 (275) 
+      LiriTuli 40 (689) 50 (3977) 
+      OxydArbo 30 (359) 50 (570) 40 (2095) 
+      QuerRubr 10 (40) 
+ 
+MapCode  383 
+      AcerRubr 50 (847) 30 (138) 
+      AcerSacc 50 (621) 60 (1239) 30 (118) 
+      BetuLent 40 (1651) 
+      LiriTuli 120 (1726) 60 (3159) 30 (276) 90 (1409) 50 (771) 80 (4268) 
+      MagnMacr 40 (569) 
+      OxydArbo 20 (74) 30 (454) 
+      PrunSero 70 (1657) 
+      QuerRubr 30 (260) 80 (2108) 
+      RobiPseu 50 (607) 
+      TiliAmhe 40 (753) 10 (71) 20 (183) 
+ 
+MapCode  384 
+      AcerRubr 20 (72) 50 (1482) 40 (144) 60 (279) 70 (1001) 30 (62) 
+      MagnMacr 70 (410) 
+      NyssSylv 40 (140) 
+      OxydArbo 50 (413) 40 (364) 20 (74) 
+      QuerPrin 70 (2501) 80 (4718) 20 (195) 220 (4021) 140 (3751) 60 (902) 40 (258) 50 (1019) 
+ 
+MapCode  385 
+      AcerRubr 40 (427) 30 (84) 50 (262) 
+      NyssSylv 30 (84) 
+      OxydArbo 20 (342) 
+      QuerCocc 50 (902) 30 (763) 
+      QuerPrin 30 (128) 20 (31) 50 (962) 
+ 
+MapCode  386 
+      AcerRubr 10 (66) 50 (1010) 30 (87) 40 (420) 20 (126) 70 (997) 60 (850) 
+      CaryGlab 60 (999) 
+      CaryAlba 50 (600) 40 (127) 
+      CornFlor 20 (141) 
+      LiriTuli 30 (96) 110 (815) 
+      NyssSylv 20 (256) 
+      QuerCocc 60 (977) 
+      QuerPrin 90 (5421) 80 (6307) 180 (1910) 100 (832) 50 (2247) 30 (257) 
+      QuerRubr 180 (2897) 140 (2998) 60 (954) 50 (453) 70 (1070) 
+      RobiPseu 100 (601) 
+ 
+MapCode  387 
+      AcerRubr 60 (762) 50 (288) 70 (163) 80 (193) 20 (25) 40 (577) 30 (126) 
+      NyssSylv 10 (11) 20 (123) 30 (48) 50 (96) 
+      OxydArbo 40 (293) 30 (87) 
+      QuerAlba 120 (470) 130 (1046) 
+      QuerCocc 90 (1003) 50 (116) 
+      QuerPrin 130 (4345) 80 (346) 140 (715) 120 (595) 
+ 
+MapCode  388 
+      AcerRubr 40 (1043) 20 (425) 
+      AcerSacc 30 (778) 10 (147) 
+      LiriTuli 60 (618) 50 (3008) 40 (2208) 30 (1591) 
+      RobiPseu 20 (621) 30 (475) 
+ 
+MapCode  389 
+      AcerRubr 50 (884) 40 (518) 10 (25) 30 (993) 20 (259) 60 (2424) 
+      AcerSacc 10 (78) 20 (79) 
+      CornFlor 10 (77) 
+      LiriTuli 150 (1828) 
+      QuerPrin 60 (3439) 30 (522) 140 (2556) 40 (965) 10 (78) 100 (2256) 20 (87) 
+ 
+MapCode  390 
+      AcerRubr 40 (406) 60 (693) 30 (346) 
+      CaryGlab 50 (199) 
+      CaryAlba 50 (340) 40 (108) 
+      CornFlor 20 (77) 
+      FaguGran 10 (63) 
+      LiriTuli 140 (1009) 
+      NyssSylv 80 (773) 30 (159) 
+      OxydArbo 30 (92) 40 (745) 50 (184) 20 (287) 
+      QuerPrin 140 (20131) 120 (2096) 60 (364) 70 (397) 80 (654) 100 (865) 
+      QuerRubr 80 (761) 
+      QuerVelu 50 (487) 
+      SassAlid 40 (145) 
+ 
+MapCode  391 
+      AcerRubr 50 (555) 60 (1656) 90 (992) 30 (154) 100 (977) 
+      NyssSylv 30 (441) 20 (534) 
+      OxydArbo 30 (500) 
+      QuerPrin 80 (2728) 30 (60) 40 (341) 60 (940) 130 (3611) 70 (2150) 
+      QuerRubr 140 (676) 
+      QuerVelu 60 (292) 50 (342) 
+      SassAlid 20 (48) 
+ 
+MapCode  392 
+      AcerRubr 40 (863) 50 (2251) 60 (644) 30 (173) 
+      CaryGlab 60 (1107) 70 (1543) 
+      LiriTuli 20 (47) 10 (11) 
+      NyssSylv 10 (28) 30 (294) 
+      OxydArbo 30 (155) 10 (18) 
+      QuerPrin 90 (884) 50 (367) 70 (606) 60 (2621) 80 (1740) 40 (684) 
+      QuerVelu 60 (1195) 
+ 
+MapCode  393 
+      AcerRubr 30 (103) 
+      AcerSacc 20 (410) 
+      CaryAlba 30 (509) 40 (1236) 
+      CornFlor 20 (129) 
+      LiriTuli 60 (1955) 30 (255) 50 (3019) 70 (3874) 
+ 
+MapCode  394 
+      AcerRubr 70 (346) 50 (287) 30 (170) 20 (52) 
+      CaryGlab 100 (1910) 
+      LiriTuli 40 (170) 
+      NyssSylv 30 (272) 10 (46) 
+      OxydArbo 50 (159) 30 (610) 40 (101) 20 (136) 
+      QuerAlba 140 (1710) 
+      QuerPrin 140 (10616) 30 (119) 
+      QuerRubr 140 (1255) 
+      QuerVelu 110 (1192) 140 (4242) 
+      SassAlid 80 (228) 40 (111) 50 (276) 
+ 
+MapCode  395 
+      AcerRubr 50 (4377) 
+      CaryGlab 50 (1677) 
+      CornFlor 20 (62) 
+      HaleDipt 10 (1846) 
+      LiriTuli 70 (1799) 150 (3789) 30 (546) 160 (1383) 90 (1212) 80 (1103) 
+      QuerAlba 60 (7357) 
+      QuerRubr 150 (6670) 
+ 
+MapCode  396 
+      AcerRubr 20 (476) 40 (92) 
+      CaryGlab 20 (187) 30 (136) 60 (1834) 70 (2378) 50 (1370) 40 (398) 
+      LiriTuli 150 (1342) 
+      NyssSylv 40 (403) 
+      QuerPrin 80 (1202) 30 (436) 90 (2019) 
+      QuerVelu 70 (3455) 50 (517) 100 (3096) 60 (1587) 80 (1433) 
+      RobiPseu 10 (43) 
+ 
+MapCode  397 
+      AcerRubr 50 (1651) 20 (126) 30 (213) 10 (35) 40 (393) 
+      CaryGlab 60 (1328) 30 (84) 
+      LiriTuli 20 (80) 10 (28) 
+      OxydArbo 20 (660) 10 (136) 
+      QuerPrin 140 (6043) 90 (4354) 70 (3470) 30 (468) 60 (2347) 50 (4139) 40 (1897) 
+ 
+MapCode  398 
+      AcerRubr 40 (223) 20 (460) 30 (740) 
+      CaryGlab 40 (128) 
+      FraxAmer 50 (438) 
+      LiriTuli 30 (102) 40 (155) 
+      MagnMacr 40 (146) 50 (440) 10 (14) 30 (72) 
+      OxydArbo 40 (632) 30 (1570) 
+      QuerAlba 50 (1049) 110 (2542) 140 (2762) 60 (971) 40 (304) 
+      QuerRubr 80 (1538) 
+      RobiPseu 30 (293) 
+      SassAlid 30 (158) 
+ 
+MapCode  399 
+      AcerRubr 20 (78) 
+      BetuLent 70 (2863) 90 (3902) 50 (434) 100 (1930) 
+      CaryGlab 80 (1604) 
+      LiriTuli 50 (211) 30 (61) 40 (285) 150 (2449) 
+      OxydArbo 40 (173) 
+      QuerAlba 100 (2329) 140 (1026) 
+ 
+MapCode  400 
+      AcerRubr 20 (389) 30 (316) 10 (57) 
+      CaryAlba 30 (95) 
+      FraxPenn 30 (87) 
+      LiriTuli 30 (596) 10 (80) 
+      MagnAcum 30 (397) 20 (79) 40 (288) 10 (21) 
+      NyssSylv 10 (22) 
+      QuerAlba 30 (976) 10 (66) 20 (82) 
+      QuerCocc 30 (243) 
+      QuerPrin 20 (88) 
+      QuerRubr 30 (232) 
+      QuerVelu 30 (346) 
+      RobiPseu 20 (271) 
+ 
+MapCode  401 
+      AcerRubr 40 (331) 50 (1987) 
+      FaguGran 30 (3297) 70 (6495) 80 (3657) 20 (637) 
+      LiriTuli 160 (4323) 
+      QuerRubr 30 (378) 
+      QuerVelu 110 (5492) 
+ 
+MapCode  402 
+      AcerRubr 30 (320) 40 (180) 
+      AcerSacc 30 (357) 10 (17) 40 (239) 
+      CaryGlab 30 (90) 20 (153) 
+      CaryAlba 50 (459) 80 (928) 60 (886) 30 (70) 
+      PrunSero 50 (605) 
+      QuerAlba 70 (3704) 140 (6055) 
+      QuerCocc 140 (3902) 
+      RobiPseu 30 (434) 40 (720) 
+ 
+MapCode  403 
+      AcerRubr 10 (90) 30 (1147) 40 (305) 60 (1397) 
+      AcerSacc 30 (159) 20 (79) 10 (28) 
+      LiriTuli 50 (358) 
+      NyssSylv 30 (219) 
+      OxydArbo 20 (63) 
+      QuerAlba 30 (266) 110 (2875) 50 (1760) 40 (567) 20 (123) 
+      QuerCocc 40 (763) 
+      QuerPrin 30 (209) 
+      QuerVelu 50 (1195) 
+ 
+MapCode  404 
+      AcerRubr 40 (3537) 30 (983) 
+      AcerSacc 40 (882) 
+      FaguGran 60 (2439) 20 (146) 
+      LiriTuli 10 (28) 20 (62) 
+      NyssSylv 10 (57) 
+ 
+MapCode  405 
+      AcerRubr 30 (546) 20 (314) 
+      AcerSacc 40 (647) 20 (305) 10 (42) 
+      FaguGran 40 (384) 30 (542) 
+      LiriTuli 40 (551) 20 (506) 10 (11) 30 (577) 
+      MagnAcum 40 (1242) 30 (632) 
+      NyssSylv 30 (1161) 40 (1434) 20 (124) 
+      RobiPseu 20 (150) 
+      TiliAmer 50 (424) 
+ 
+MapCode  406 
+      AcerRubr 40 (416) 
+      AcerSacc 50 (1763) 30 (1399) 60 (1971) 20 (77) 40 (800) 10 (22) 
+      BetuLent 40 (302) 20 (306) 30 (213) 
+      FraxAmer 30 (77) 
+      MagnAcum 50 (1535) 40 (336) 
+      PrunSero 60 (1453) 20 (121) 
+      TiliAmer 50 (326) 
+ 
+MapCode  407 
+      AcerRubr 50 (254) 
+      AcerSacc 60 (514) 110 (1404) 90 (802) 40 (121) 70 (768) 
+      BetuLent 60 (657) 40 (870) 50 (1482) 70 (458) 
+      CaryGlab 90 (805) 
+      FaguGran 30 (268) 
+      LiriTuli 90 (400) 170 (341) 140 (2772) 
+      MagnAcum 60 (300) 
+      OxydArbo 40 (167) 30 (173) 
+      QuerCocc 130 (2663) 170 (904) 90 (581) 70 (918) 
+      QuerPrin 140 (2218) 50 (691) 40 (97) 
+ 
+MapCode  408 
+      AcerRubr 30 (63) 
+      MagnAcum 30 (155) 
+      QuerPrin 40 (1203) 140 (7246) 30 (104) 
+      QuerRubr 30 (107) 50 (2287) 
+      RobiPseu 20 (500) 
+      TiliAmer 30 (177) 
+ 
+MapCode  409 
+      AcerRubr 30 (212) 
+      RobiPseu 20 (399) 10 (60) 
+ 
+MapCode  410 
+      AcerRubr 60 (2875) 70 (2209) 
+      CaryGlab 30 (76) 
+      CaryAlba 30 (254) 
+      LiriTuli 150 (6580) 70 (842) 
+      MagnAcum 40 (338) 60 (1148) 50 (715) 
+      NyssSylv 10 (48) 
+      QuerPrin 80 (4472) 40 (693) 90 (1789) 
+      QuerRubr 50 (1346) 
+      SassAlid 30 (413) 
+      TiliAmer 60 (426) 
+ 
+MapCode  411 
+      AcerRubr 50 (121) 100 (2065) 90 (2124) 
+      AcerSacc 60 (300) 20 (360) 
+      BetuLent 70 (852) 80 (644) 
+      FaguGran 50 (183) 40 (788) 
+      LiriTuli 140 (4301) 60 (477) 
+      MagnMacr 60 (102) 
+      OxydArbo 50 (1257) 
+      QuerRubr 140 (9746) 90 (497) 
+ 
+MapCode  412 
+      AcerRubr 60 (1090) 
+      AcerSacc 30 (1780) 20 (358) 40 (557) 
+      LiriTuli 50 (1400) 20 (40) 
+      MagnAcum 40 (661) 50 (731) 
+      MagnMacr 30 (415) 
+      QuerPrin 30 (335) 
+      QuerVelu 60 (5358) 
+      TiliAmer 30 (1000) 40 (307) 50 (1308) 
+ 
+MapCode  413 
+      AcerRubr 80 (4469) 
+      AcerSacc 100 (6189) 
+      FaguGran 30 (173) 60 (489) 20 (255) 90 (1177) 40 (527) 50 (1013) 
+      QuerRubr 140 (9642) 
+      TiliAmer 60 (901) 
+ 
+MapCode  414 
+      AcerRubr 30 (181) 50 (972) 20 (127) 40 (364) 
+      NyssSylv 30 (227) 40 (238) 10 (111) 70 (1363) 20 (73) 
+      QuerAlba 120 (831) 90 (843) 30 (435) 
+      QuerFalc 50 (1146) 
+ 
+MapCode  415 
+      AcerRubr 20 (136) 30 (504) 
+      CaryAlba 40 (100) 20 (52) 
+      LiriTuli 40 (428) 
+      NyssSylv 10 (212) 
+      OxydArbo 30 (281) 
+      QuerPrin 50 (233) 60 (503) 
+ 
+MapCode  416 
+      AcerRubr 40 (162) 
+      AcerSacc 50 (1326) 40 (302) 10 (22) 30 (223) 
+      FaguGran 50 (325) 110 (4118) 40 (117) 
+      LiriTuli 70 (464) 
+      PrunSero 60 (382) 70 (1611) 90 (1629) 
+      QuerAlba 90 (3153) 110 (2015) 140 (1753) 
+      QuerRubr 50 (727) 
+      RobiPseu 60 (1073) 
+      SassAlid 40 (70) 
+ 
+MapCode  417 
+      AcerRubr 30 (579) 
+      FaguGran 60 (1103) 
+      LiriTuli 100 (2418) 60 (874) 
+      QuerCocc 40 (840) 
+      QuerVelu 70 (1329) 50 (768) 60 (1585) 30 (1696) 
+ 
+MapCode  418 
+      AcerRubr 20 (1292) 30 (605) 
+      BetuLent 30 (350) 20 (113) 
+      OxydArbo 10 (11) 20 (23) 
+      PrunSero 40 (87) 
+      QuerRubr 20 (191) 
+      RobiPseu 30 (510) 20 (91) 
+ 
+MapCode  419 
+      AcerRubr 40 (3205) 20 (162) 50 (1349) 
+      LiriTuli 90 (2578) 60 (1391) 
+      MagnMacr 20 (120) 10 (66) 
+      NyssSylv 20 (109) 10 (53) 
+      OxydArbo 30 (212) 
+      QuerAlba 40 (1406) 30 (805) 
+      QuerCocc 60 (2868) 40 (4112) 
+      QuerPrin 20 (377) 30 (1837) 40 (3921) 
+      QuerVelu 40 (656) 50 (593) 
+ 
+MapCode  420 
+      AcerRubr 60 (141) 
+      BetuLent 100 (1186) 60 (1074) 
+      CaryGlab 80 (981) 
+      FraxPenn 90 (3884) 
+      LiriTuli 140 (4163) 180 (542) 30 (74) 80 (418) 
+      PrunSero 200 (3469) 
+      QuerRubr 130 (2643) 
+ 
+MapCode  421 
+      AcerRubr 50 (733) 70 (582) 60 (673) 80 (918) 40 (190) 90 (366) 
+      FaguGran 50 (161) 
+      MagnMacr 50 (128) 
+      NyssSylv 30 (60) 
+      OxydArbo 70 (482) 110 (526) 30 (239) 
+      QuerAlba 40 (471) 130 (3866) 110 (464) 
+      QuerCocc 60 (402) 130 (5102) 
+ 
+MapCode  422 
+      AcerRubr 20 (170) 10 (90) 40 (265) 60 (400) 
+      BetuLent 70 (976) 40 (1940) 50 (557) 60 (1096) 
+      CaryAlba 60 (1203) 
+      FaguGran 10 (403) 
+      FraxAmer 60 (882) 
+      OxydArbo 20 (201) 
+      QuerRubr 70 (1957) 
+      QuerVelu 80 (1489) 
+ 
+MapCode  423 
+      AcerRubr 50 (553) 30 (1264) 40 (841) 20 (160) 10 (178) 
+      BetuLent 40 (1120) 30 (1062) 20 (708) 
+      CaryGlab 50 (3083) 30 (177) 
+      FraxPenn 20 (199) 
+      LiriTuli 50 (1645) 60 (1956) 80 (4165) 
+      QuerPrin 30 (5163) 
+      QuerRubr 60 (4432) 90 (8106) 40 (6225) 
+ 
+MapCode  424 
+      AcerRubr 30 (93) 50 (386) 20 (64) 80 (394) 
+      CaryAlba 50 (1133) 40 (74) 
+      LiriTuli 110 (475) 130 (466) 70 (242) 60 (127) 140 (2317) 
+      NyssSylv 50 (179) 30 (89) 20 (54) 
+      OxydArbo 30 (719) 40 (406) 20 (180) 60 (346) 
+      QuerAlba 80 (345) 30 (113) 
+      QuerPrin 130 (14921) 
+      QuerVelu 130 (1189) 
+ 
+MapCode  425 
+      AcerRubr 50 (202) 90 (1023) 70 (440) 60 (151) 80 (276) 
+      MagnMacr 120 (223) 
+      NyssSylv 80 (316) 70 (127) 
+      OxydArbo 40 (394) 100 (190) 20 (35) 
+      QuerAlba 130 (2142) 
+      QuerCocc 130 (1671) 
+      QuerPrin 130 (6190) 30 (55) 140 (251) 80 (282) 100 (391) 70 (209) 50 (168) 
+ 
+MapCode  426 
+      AcerRubr 40 (1592) 30 (283) 50 (446) 20 (221) 60 (1401) 
+      HaleDipt 10 (361) 
+      LiriTuli 130 (889) 150 (1108) 
+      NyssSylv 30 (773) 
+      OxydArbo 30 (400) 20 (60) 50 (530) 
+      QuerPrin 60 (2652) 130 (5239) 40 (258) 50 (562) 
+ 
+MapCode  427 
+      AcerRubr 20 (117) 40 (562) 30 (193) 
+      CaryGlab 20 (25) 40 (1201) 
+      LiriTuli 20 (247) 
+      NyssSylv 20 (220) 
+      OxydArbo 40 (1955) 30 (553) 20 (65) 
+      QuerPrin 80 (5938) 50 (5637) 30 (112) 10 (24) 40 (1990) 70 (1224) 60 (2774) 
+ 
+MapCode  428 
+      AcerRubr 20 (698) 30 (602) 
+      BetuLent 20 (204) 
+      LiriTuli 60 (3616) 50 (2591) 40 (2398) 20 (172) 70 (2778) 30 (432) 
+      MagnMacr 30 (2955) 20 (346) 10 (49) 
+      NyssSylv 30 (1419) 
+      OxydArbo 20 (211) 
+      QuerCocc 40 (2082) 
+      QuerPrin 30 (1201) 20 (806) 
+      QuerRubr 40 (1778) 60 (2736) 
+ 
+MapCode  429 
+      AcerRubr 80 (3730) 50 (1271) 30 (81) 
+      BetuLent 30 (622) 40 (834) 50 (782) 
+      NyssSylv 30 (160) 
+      OxydArbo 30 (724) 50 (784) 
+      QuerPrin 70 (2526) 50 (1443) 40 (1675) 100 (2823) 80 (2376) 
+      QuerRubr 110 (1935) 
+ 
+MapCode  430 
+      AcerRubr 30 (1054) 20 (134) 40 (142) 10 (101) 60 (793) 
+      CaryGlab 50 (572) 60 (1892) 
+      CaryAlba 60 (2217) 
+      LiriTuli 80 (1416) 
+      NyssSylv 30 (196) 
+      OxydArbo 20 (119) 30 (732) 10 (89) 
+      QuerAlba 70 (1555) 60 (2374) 
+      QuerCocc 100 (8655) 
+      QuerPrin 30 (452) 40 (977) 
+      QuerVelu 50 (383) 60 (2396) 
+      RobiPseu 100 (2922) 60 (451) 
+ 
+MapCode  431 
+      AcerRubr 50 (796) 60 (624) 40 (140) 70 (936) 80 (1898) 
+      CaryGlab 80 (1828) 50 (230) 60 (572) 120 (2127) 
+      HaleDipt 10 (74) 
+      LiriTuli 140 (4855) 60 (226) 
+      MagnAcum 120 (338) 
+      PrunSero 50 (124) 
+      QuerAlba 130 (3284) 60 (475) 
+      QuerCocc 130 (3218) 
+      QuerPrin 50 (266) 
+      QuerRubr 80 (528) 130 (4307) 
+ 
+MapCode  432 
+      AcerRubr 50 (1337) 60 (3617) 70 (809) 
+      BetuLent 50 (4338) 60 (940) 40 (2801) 
+      FaguGran 40 (312) 50 (621) 10 (21) 
+      HaleDipt 10 (3363) 
+ 
+MapCode  433 
+      AcerRubr 60 (892) 90 (666) 40 (259) 70 (541) 
+      BetuLent 90 (478) 
+      CaryGlab 120 (612) 
+      NyssSylv 50 (311) 80 (1400) 
+      OxydArbo 30 (129) 60 (309) 20 (62) 40 (239) 
+      QuerCocc 130 (355) 110 (1549) 40 (163) 
+      QuerPrin 70 (136) 130 (5774) 50 (434) 60 (254) 40 (386) 100 (864) 
+      QuerRubr 90 (351) 50 (311) 
+      QuerVelu 30 (239) 
+      RobiPseu 30 (368) 
+ 
+MapCode  434 
+      AcerRubr 40 (355) 
+      AcerSacc 40 (613) 30 (1275) 60 (1553) 20 (162) 
+      CaryGlab 50 (2489) 
+      FaguGran 20 (228) 50 (3193) 40 (264) 10 (87) 60 (2493) 30 (205) 
+      LiriTuli 70 (1158) 30 (188) 40 (391) 
+      MagnAcum 40 (287) 
+ 
+MapCode  435 
+      AcerRubr 60 (693) 40 (309) 20 (66) 50 (1161) 30 (171) 10 (31) 
+      LiriTuli 10 (34) 
+      NyssSylv 20 (57) 
+      OxydArbo 40 (179) 20 (48) 30 (361) 
+      QuerAlba 140 (9236) 40 (795) 50 (1121) 
+      QuerPrin 50 (467) 60 (4380) 40 (341) 
+ 
+MapCode  436 
+      AcerRubr 20 (280) 30 (347) 10 (15) 40 (317) 
+      AcerSacc 30 (351) 
+      CaryGlab 70 (3296) 40 (304) 
+      LiriTuli 10 (15) 20 (576) 
+      NyssSylv 20 (461) 10 (99) 
+      OxydArbo 20 (73) 
+      QuerCocc 50 (1311) 
+      QuerPrin 130 (4298) 
+      QuerVelu 10 (26) 
+      SassAlid 20 (14) 
+ 
+MapCode  437 
+      AcerRubr 30 (462) 
+      BetuLent 70 (2738) 50 (227) 40 (687) 
+      CaryGlab 70 (2034) 40 (731) 
+      LiriTuli 80 (1918) 60 (410) 30 (241) 20 (459) 
+      QuerAlba 40 (1156) 
+      QuerPrin 90 (951) 80 (1756) 60 (925) 70 (2043) 
+      QuerRubr 60 (1683) 
+ 
+MapCode  438 
+      AcerRubr 30 (1462) 20 (492) 40 (714) 
+      AcerSacc 20 (116) 10 (22) 
+      LiriTuli 30 (180) 
+      NyssSylv 10 (577) 20 (62) 
+      OxydArbo 20 (259) 10 (287) 
+      QuerCocc 20 (596) 
+      QuerPrin 20 (36) 40 (1068) 
+      QuerVelu 80 (3032) 40 (1588) 60 (1722) 30 (206) 
+      RobiPseu 20 (105) 
+ 
+MapCode  439 
+      AcerRubr 50 (460) 30 (398) 40 (840) 70 (1266) 
+      BetuLent 40 (184) 
+      LiriTuli 30 (511) 100 (1274) 
+      MagnMacr 40 (479) 30 (1056) 20 (62) 
+      NyssSylv 20 (615) 
+      OxydArbo 20 (111) 
+      QuerAlba 40 (363) 
+      QuerPrin 30 (140) 60 (4174) 40 (837) 50 (310) 70 (2562) 
+      SassAlid 30 (381) 
+ 
+MapCode  440 
+      AcerRubr 50 (2639) 40 (1750) 30 (960) 60 (1219) 20 (606) 10 (61) 
+      FaguGran 10 (179) 30 (149) 
+      LiriTuli 90 (2031) 80 (1270) 
+      NyssSylv 10 (46) 
+      OxydArbo 10 (23) 20 (63) 30 (362) 
+      QuerCocc 150 (6224) 
+      QuerPrin 80 (1845) 60 (1597) 90 (4556) 50 (2568) 70 (1685) 
+ 
+MapCode  441 
+      AcerRubr 50 (132) 40 (106) 
+      AcerSacc 40 (377) 20 (305) 30 (441) 
+      CaryGlab 60 (1457) 40 (165) 
+      CaryAlba 40 (309) 50 (596) 
+      NyssSylv 10 (14) 
+      OxydArbo 40 (188) 30 (163) 
+      QuerAlba 60 (484) 50 (1580) 40 (1658) 140 (1538) 
+      QuerFalc 90 (1889) 
+      QuerPrin 40 (704) 
+ 
+MapCode  442 
+      AcerRubr 20 (673) 30 (504) 10 (67) 
+      NyssSylv 10 (163) 
+      OxydArbo 10 (195) 20 (83) 
+      QuerCocc 10 (135) 
+      QuerPrin 40 (9786) 30 (3573) 60 (2808) 20 (696) 10 (109) 
+      QuerVelu 30 (586) 
+      SassAlid 10 (10) 
+ 
+MapCode  443 
+      AcerRubr 50 (932) 40 (98) 60 (327) 90 (733) 
+      AcerSacc 50 (333) 
+      CaryGlab 50 (269) 110 (1588) 
+      LiriTuli 40 (112) 
+      OxydArbo 30 (191) 50 (184) 20 (229) 
+      QuerAlba 150 (1865) 140 (1077) 50 (883) 60 (677) 30 (219) 
+      QuerCocc 60 (465) 100 (595) 150 (1007) 140 (890) 
+      QuerRubr 50 (326) 
+ 
+MapCode  444 
+      AcerRubr 10 (25) 30 (1226) 20 (52) 
+      CaryGlab 60 (1383) 
+      LiriTuli 40 (106) 20 (125) 30 (79) 
+      NyssSylv 30 (227) 10 (14) 
+      OxydArbo 30 (72) 
+      QuerAlba 60 (799) 50 (711) 
+      QuerCocc 50 (627) 
+      QuerFalc 30 (158) 
+      QuerPrin 140 (4015) 80 (2134) 70 (809) 
+      QuerVelu 80 (2158) 140 (2562) 
+      SassAlid 20 (378) 10 (10) 
+ 
+MapCode  445 
+      AcerRubr 110 (5685) 50 (718) 40 (281) 70 (1004) 
+      FraxAmer 80 (674) 50 (122) 30 (111) 
+      MagnAcum 50 (169) 
+      PrunSero 100 (2059) 90 (1208) 
+      QuerRubr 100 (508) 80 (1155) 70 (1223) 140 (2311) 110 (1186) 170 (963) 60 (458) 
+      RobiPseu 80 (641) 
+ 
+MapCode  446 
+      AcerRubr 30 (988) 50 (2389) 40 (890) 
+      BetuLent 30 (662) 
+      LiriTuli 30 (428) 40 (475) 10 (71) 
+      NyssSylv 30 (910) 
+      OxydArbo 20 (351) 30 (827) 
+      QuerPrin 50 (9803) 70 (3525) 
+      QuerRubr 50 (7295) 40 (613) 
+ 
+MapCode  447 
+      AcerRubr 80 (2162) 40 (106) 70 (1856) 60 (1570) 50 (541) 
+      AcerSacc 50 (234) 40 (441) 20 (258) 
+      BetuLent 50 (412) 40 (350) 20 (100) 60 (380) 
+      HaleDipt 10 (803) 20 (425) 
+      QuerCocc 50 (349) 70 (512) 
+      QuerPrin 50 (461) 60 (1843) 
+      QuerRubr 50 (563) 70 (789) 
+ 
+MapCode  448 
+      AcerRubr 40 (159) 50 (1045) 30 (174) 
+      BetuLent 20 (143) 
+      CaryAlba 40 (163) 60 (2683) 
+      LiriTuli 10 (151) 
+      OxydArbo 30 (251) 10 (11) 
+      QuerAlba 40 (372) 
+      QuerPrin 50 (1038) 
+      QuerRubr 50 (991) 
+      QuerVelu 50 (358) 
+ 
+MapCode  449 
+      AcerRubr 30 (151) 60 (181) 
+      LiriTuli 50 (134) 140 (1823) 
+      MagnMacr 180 (2235) 
+      NyssSylv 60 (1340) 
+      OxydArbo 40 (456) 30 (554) 20 (359) 
+      QuerCocc 40 (900) 
+      QuerPrin 60 (1171) 80 (947) 140 (3954) 50 (1404) 30 (200) 40 (214) 70 (1746) 
+      QuerRubr 100 (1357) 
+      QuerVelu 130 (1116) 60 (480) 
+ 
+MapCode  450 
+      AcerRubr 50 (207) 70 (959) 80 (1111) 
+      BetuLent 80 (510) 60 (411) 70 (826) 100 (552) 
+      LiriTuli 140 (4369) 
+      PrunSero 80 (583) 50 (593) 60 (821) 
+      QuerCocc 50 (316) 
+ 
+MapCode  451 
+      AcerRubr 50 (1725) 10 (67) 20 (95) 
+      BetuLent 10 (126) 
+      CaryGlab 30 (120) 50 (2304) 
+      CaryAlba 30 (345) 
+      LiriTuli 40 (1139) 20 (545) 
+      NyssSylv 20 (1012) 30 (1766) 
+      QuerPrin 20 (590) 40 (6023) 30 (580) 
+      QuerRubr 80 (8251) 
+      QuerVelu 40 (3553) 
+ 
+MapCode  452 
+      AcerRubr 40 (724) 50 (588) 20 (186) 30 (186) 
+      BetuLent 60 (548) 
+      NyssSylv 80 (647) 
+      OxydArbo 30 (255) 40 (339) 
+      QuerAlba 50 (294) 
+      QuerCocc 50 (486) 70 (739) 100 (1381) 60 (1042) 80 (676) 140 (5601) 
+      QuerPrin 40 (4133) 60 (993) 
+      QuerVelu 60 (401) 
+      RobiPseu 20 (210) 40 (681) 
+      SassAlid 30 (78) 
+ 
+MapCode  453 
+      AcerRubr 40 (559) 70 (382) 80 (741) 50 (132) 
+      BetuLent 50 (1132) 70 (529) 40 (149) 60 (603) 
+      MagnMacr 60 (672) 20 (289) 10 (169) 
+      QuerPrin 50 (2741) 130 (13031) 90 (1525) 
+ 
+MapCode  454 
+      AcerRubr 70 (5526) 90 (3532) 
+      AcerSacc 40 (863) 50 (1685) 30 (335) 80 (3516) 70 (2925) 100 (4000) 
+      BetuLent 60 (2160) 
+      FaguGran 30 (231) 
+      FraxAmer 60 (2838) 40 (520) 
+      LiriTuli 80 (1204) 
+      MagnAcum 40 (185) 
+      PrunSero 70 (1645) 40 (123) 
+      RobiPseu 50 (607) 60 (768) 
+      TiliAmhe 70 (1063) 50 (214) 80 (1487) 60 (632) 
+ 
+MapCode  455 
+      AcerRubr 60 (452) 70 (98) 
+      MagnMacr 60 (123) 50 (99) 40 (79) 
+      NyssSylv 100 (300) 60 (162) 160 (2303) 30 (75) 80 (169) 70 (151) 
+      OxydArbo 30 (79) 40 (135) 
+      QuerPrin 130 (902) 70 (248) 
+      QuerRubr 130 (5056) 90 (211) 60 (184) 50 (150) 
+ 
+MapCode  456 
+      AcerRubr 60 (471) 50 (254) 30 (522) 70 (308) 20 (83) 40 (360) 
+      CaryGlab 50 (109) 60 (146) 250 (3471) 90 (1215) 
+      CornFlor 20 (68) 
+      LiriTuli 40 (77) 
+      OxydArbo 30 (99) 20 (93) 
+      QuerAlba 40 (118) 
+      QuerCocc 130 (4188) 80 (1336) 100 (718) 
+      QuerRubr 130 (10054) 90 (992) 50 (343) 
+ 
+MapCode  457 
+      AcerRubr 40 (413) 
+      CaryGlab 10 (122) 30 (285) 20 (139) 
+      CaryAlba 30 (307) 20 (175) 
+      FraxAmer 10 (56) 
+      LiriTuli 150 (7970) 80 (2128) 70 (1747) 20 (65) 60 (1051) 50 (490) 40 (347) 30 (191) 
+      NyssSylv 20 (153) 
+      QuerAlba 50 (1534) 40 (1376) 70 (5653) 
+ 
+MapCode  458 
+      AcerRubr 10 (70) 50 (189) 30 (346) 
+      CaryGlab 90 (1113) 70 (1890) 80 (1035) 50 (261) 20 (91) 
+      LiriTuli 80 (293) 
+      NyssSylv 30 (129) 50 (297) 20 (387) 
+      PrunSero 30 (95) 
+      QuerAlba 140 (901) 
+      QuerPrin 70 (357) 30 (77) 
+ 
+MapCode  459 
+      AcerRubr 40 (444) 10 (66) 20 (62) 
+      NyssSylv 20 (58) 40 (275) 30 (355) 
+      OxydArbo 30 (148) 
+      QuerPrin 40 (1273) 30 (116) 50 (2023) 60 (1975) 
+      QuerRubr 60 (4804) 50 (1629) 40 (617) 10 (16) 
+      RobiPseu 10 (25) 
+ 
+MapCode  460 
+      AcerRubr 30 (98) 
+      CaryGlab 30 (146) 80 (2847) 40 (113) 50 (513) 
+      FraxAmer 20 (859) 50 (242) 40 (326) 30 (286) 
+      LiriTuli 40 (375) 30 (104) 
+      QuerPrin 70 (1558) 110 (2397) 130 (2089) 140 (2683) 150 (1739) 80 (1078) 
+      QuerRubr 140 (5208) 30 (109) 
+      RobiPseu 40 (381) 30 (194) 
+ 
+MapCode  461 
+      AcerRubr 60 (1380) 40 (1820) 50 (419) 30 (456) 70 (526) 
+      NyssSylv 60 (890) 40 (127) 
+      OxydArbo 20 (164) 40 (1413) 30 (192) 
+      QuerAlba 30 (149) 90 (1471) 
+      QuerPrin 140 (1070) 
+      QuerRubr 110 (1145) 50 (389) 140 (2662) 190 (9690) 
+ 
+MapCode  462 
+      AcerRubr 20 (355) 30 (127) 
+      BetuLent 50 (464) 
+      FraxAmer 40 (861) 20 (20) 30 (449) 
+      LiriTuli 80 (1082) 50 (747) 10 (40) 30 (61) 40 (473) 
+      PrunSero 70 (1155) 60 (713) 30 (402) 
+      QuerRubr 40 (747) 60 (1531) 
+      RobiPseu 70 (761) 20 (216) 
+ 
+MapCode  463 
+      AcerRubr 30 (146) 40 (253) 
+      FraxAmer 10 (25) 
+      LiriTuli 10 (54) 50 (291) 140 (915) 
+      NyssSylv 50 (560) 
+      PrunSero 40 (383) 
+      QuerRubr 30 (203) 
+      QuerVelu 50 (997) 40 (527) 
+ 
+MapCode  464 
+      AcerRubr 40 (2527) 10 (73) 
+      AcerSacc 10 (113) 20 (441) 
+      LiriTuli 30 (384) 80 (1408) 90 (849) 150 (3769) 70 (3231) 40 (585) 
+      NyssSylv 40 (634) 20 (97) 
+      QuerPrin 70 (3916) 
+      QuerRubr 70 (5301) 80 (9072) 
+      RobiPseu 30 (774) 
+      SassAlid 20 (103) 
+ 
+MapCode  465 
+      AcerRubr 40 (121) 50 (121) 
+      BetuLent 40 (232) 50 (232) 20 (316) 
+      CaryGlab 20 (318) 
+      LiriTuli 20 (1648) 30 (836) 
+      MagnMacr 40 (2462) 50 (1472) 20 (79) 30 (79) 70 (554) 80 (554) 
+      PrunSero 50 (616) 
+      QuerRubr 110 (3677) 140 (24891) 70 (2626) 100 (2626) 30 (321) 40 (321) 
+ 
+MapCode  466 
+      AcerRubr 30 (552) 50 (857) 40 (701) 20 (134) 
+      BetuLent 10 (47) 
+      NyssSylv 10 (11) 
+      QuerCocc 20 (373) 30 (629) 
+      QuerPrin 40 (520) 30 (379) 20 (62) 
+      QuerRubr 40 (609) 30 (457) 
+ 
+MapCode  467 
+      AcerRubr 20 (104) 30 (565) 
+      CornFlor 20 (88) 
+      LiriTuli 20 (270) 150 (3519) 80 (1697) 40 (91) 
+      QuerAlba 10 (188) 
+ 
+MapCode  468 
+      AcerRubr 30 (421) 20 (381) 
+      CaryAlba 110 (3275) 
+      CornFlor 20 (51) 
+      FraxPenn 30 (82) 
+      LiriTuli 150 (2075) 90 (881) 60 (925) 20 (1375) 30 (1372) 10 (23) 40 (1224) 50 (334) 
+      NyssSylv 40 (449) 30 (473) 20 (45) 10 (265) 
+      PrunSero 40 (458) 20 (58) 50 (774) 
+ 
+MapCode  469 
+      AcerRubr 70 (1243) 80 (1894) 60 (783) 
+      BetuLent 40 (412) 
+      FaguGran 50 (649) 60 (565) 20 (80) 40 (349) 
+      PrunSero 70 (355) 60 (2022) 90 (1784) 50 (1248) 40 (68) 
+      QuerRubr 140 (6527) 90 (1595) 50 (537) 
+ 
+MapCode  470 
+      AcerRubr 90 (418) 60 (266) 70 (178) 80 (688) 50 (387) 40 (81) 
+      MagnAcum 130 (393) 60 (105) 20 (116) 
+      NyssSylv 60 (149) 
+      OxydArbo 40 (145) 
+      QuerCocc 130 (2287) 100 (316) 80 (317) 40 (1157) 60 (654) 
+      QuerPrin 130 (6638) 180 (416) 30 (414) 40 (121) 100 (562) 20 (242) 
+ 
+MapCode  471 
+      AcerRubr 30 (348) 60 (1288) 40 (490) 20 (310) 
+      BetuLent 40 (270) 
+      LiriTuli 50 (417) 80 (581) 70 (524) 
+      NyssSylv 40 (435) 50 (424) 20 (153) 10 (46) 30 (196) 
+      OxydArbo 30 (622) 40 (482) 50 (480) 
+      QuerAlba 80 (2136) 
+      QuerPrin 80 (1803) 140 (2011) 
+      QuerRubr 140 (3386) 150 (4495) 
+ 
+MapCode  472 
+      AcerRubr 60 (373) 40 (110) 
+      AcerSacc 40 (1315) 10 (90) 50 (643) 
+      BetuLent 80 (1066) 30 (160) 40 (544) 70 (636) 
+      HaleDipt 10 (322) 
+      LiriTuli 80 (1020) 150 (13960) 
+      NyssSylv 60 (478) 
+ 
+MapCode  473 
+      AcerSacc 10 (17) 
+      FraxAmer 30 (365) 60 (6554) 50 (1389) 10 (20) 
+      LiriTuli 20 (280) 160 (4654) 30 (732) 80 (3104) 
+      PrunSero 30 (231) 
+      QuerRubr 30 (2958) 
+      TiliAmhe 60 (2477) 
+ 
+MapCode  474 
+      AcerSacc 90 (413) 110 (442) 170 (1806) 60 (169) 
+      QuerAlba 40 (147) 
+ 
+MapCode  475 
+      AcerSacc 60 (1177) 50 (970) 80 (1521) 40 (727) 70 (1632) 30 (58) 
+ 
+MapCode  476 
+      AcerSacc 20 (65) 30 (413) 
+      BetuLent 30 (117) 40 (1757) 50 (2944) 
+      LiriTuli 50 (908) 150 (1854) 40 (140) 10 (200) 
+      MagnAcum 10 (58) 
+      QuerAlba 50 (1750) 
+ 
+MapCode  477 
+      AcerSacc 30 (215) 20 (396) 
+      BetuLent 40 (1445) 30 (2149) 20 (109) 
+      CaryGlab 40 (218) 
+      FaguGran 30 (1994) 40 (428) 20 (177) 
+      FraxAmer 40 (896) 
+      LiriTuli 60 (2393) 
+      NyssSylv 30 (1346) 
+      QuerRubr 50 (6917) 
+      RobiPseu 30 (601) 40 (2305) 
+      TiliAmer 30 (45) 
+ 
+MapCode  478 
+      AcerSacc 150 (1990) 50 (221) 250 (2831) 40 (114) 70 (205) 60 (449) 
+      FaguGran 150 (1479) 120 (1104) 80 (508) 
+      LiriTuli 140 (5099) 
+      TiliAmer 50 (218) 60 (542) 150 (1283) 
+ 
+MapCode  479 
+      AcerSacc 50 (1517) 70 (721) 40 (651) 100 (1280) 80 (830) 60 (473) 90 (1247) 30 (953) 
+      CaryAlba 60 (334) 
+      PrunSero 80 (2336) 90 (1768) 
+      QuerAlba 70 (660) 150 (1410) 50 (524) 110 (2284) 
+      QuerRubr 70 (514) 
+      TiliAmer 50 (155) 
+ 
+MapCode  480 
+      AcerSacc 100 (2402) 120 (4766) 50 (1160) 40 (408) 
+      FaguGran 40 (144) 60 (1450) 50 (172) 10 (13) 
+      FraxAmer 70 (462) 
+      FraxPenn 90 (1220) 50 (242) 
+      LiriTuli 50 (306) 
+      NyssSylv 170 (3531) 
+      TiliAmer 110 (759) 60 (273) 30 (301) 
+ 
+MapCode  481 
+      AcerSacc 30 (427) 
+      FaguGran 20 (125) 10 (47) 
+      FraxPenn 10 (81) 30 (513) 
+      LiriTuli 50 (4997) 40 (1717) 60 (629) 100 (1783) 30 (304) 20 (381) 
+      NyssSylv 30 (154) 20 (78) 
+ 
+MapCode  482 
+      AcerSacc 20 (534) 
+      LiriTuli 50 (4551) 80 (2298) 60 (2164) 70 (1797) 40 (309) 10 (54) 
+      RobiPseu 30 (549) 
+ 
+MapCode  483 
+      AcerSacc 30 (1106) 20 (909) 10 (1083) 
+      BetuLent 20 (289) 
+      CaryAlba 70 (6649) 
+      LiriTuli 60 (2699) 70 (4042) 
+      MagnAcum 20 (64) 
+      QuerPrin 40 (2338) 
+      TiliAmer 30 (789) 
+ 
+MapCode  484 
+      AcerSacc 30 (157) 20 (303) 10 (273) 
+      FraxPenn 20 (137) 90 (1149) 
+      LiriTuli 10 (213) 20 (447) 
+ 
+MapCode  485 
+      AcerSacc 20 (233) 40 (2839) 
+      CaryAlba 40 (473) 
+      FaguGran 40 (2054) 
+      MagnAcum 50 (838) 
+      NyssSylv 20 (1007) 
+      QuerPrin 30 (1576) 
+ 
+MapCode  486 
+      AcerSacc 20 (160) 
+      BetuLent 30 (1313) 20 (80) 
+      LiriTuli 20 (137) 30 (1380) 50 (2300) 
+      MagnAcum 20 (130) 50 (1964) 40 (594) 
+      QuerRubr 20 (149) 
+      TiliAmer 40 (570) 
+ 
+MapCode  487 
+      AcerSacc 30 (287) 20 (376) 60 (2511) 40 (2482) 10 (50) 
+      LiriTuli 20 (243) 30 (635) 50 (2288) 10 (38) 
+      MagnAcum 20 (269) 30 (563) 
+      TiliAmer 40 (912) 50 (620) 
+ 
+MapCode  488 
+      AcerSacc 180 (3669) 40 (355) 50 (394) 120 (5200) 70 (300) 
+      CaryGlab 80 (2060) 
+      CaryAlba 70 (944) 100 (2076) 
+      FraxAmer 180 (1425) 100 (793) 70 (529) 
+      LiriTuli 50 (72) 
+      TiliAmer 90 (772) 150 (868) 100 (1373) 
+ 
+MapCode  489 
+      AcerSacc 20 (89) 
+      FaguGran 40 (1931) 50 (5538) 20 (47) 
+      LiriTuli 80 (2760) 60 (8588) 50 (3074) 70 (4611) 
+      PrunSero 40 (3019) 60 (3735) 
+ 
+MapCode  490 
+      AcerSacc 30 (91) 
+      CaryAlba 40 (438) 80 (1052) 60 (600) 
+      FaguGran 20 (59) 
+      NyssSylv 10 (335) 
+      QuerAlba 100 (1159) 40 (254) 120 (1235) 
+ 
+MapCode  491 
+      AcerSacc 60 (1389) 50 (968) 40 (1150) 30 (230) 80 (1658) 70 (1626) 
+      CornFlor 20 (254) 
+      FraxAmer 30 (194) 
+      LiriTuli 30 (380) 
+      SassAlid 30 (172) 20 (399) 
+ 
+MapCode  492 
+      AcerSacc 20 (1242) 50 (3069) 
+      BetuLent 30 (590) 40 (409) 20 (134) 
+      CaryGlab 50 (1541) 
+      FaguGran 10 (477) 30 (287) 20 (131) 
+      LiriTuli 110 (1846) 50 (934) 60 (640) 160 (5767) 80 (2057) 40 (359) 
+      QuerAlba 50 (1850) 
+      QuerPrin 30 (1146) 
+      QuerRubr 30 (904) 
+      TiliAmer 50 (1140) 40 (257) 80 (941) 60 (1294) 
+ 
+MapCode  493 
+      AcerSacc 20 (406) 30 (571) 
+      FraxAmer 90 (3498) 
+      FraxPenn 30 (289) 90 (1768) 
+      LiriTuli 150 (2674) 
+ 
+MapCode  494 
+      AcerSacc 20 (328) 10 (45) 
+      CaryGlab 100 (1058) 20 (247) 
+      FaguGran 30 (152) 60 (651) 
+      LiriTuli 40 (61) 
+      MagnAcum 60 (493) 40 (402) 
+      NyssSylv 40 (160) 30 (368) 180 (1282) 
+      QuerAlba 60 (424) 110 (2182) 
+      QuerRubr 140 (2795) 
+ 
+MapCode  495 
+      AcerSacc 60 (669) 40 (788) 30 (745) 
+      CaryGlab 80 (2587) 
+      CaryAlba 40 (157) 
+      FaguGran 10 (52) 30 (352) 
+      FraxPenn 30 (197) 80 (1094) 
+      LiriTuli 150 (899) 60 (450) 80 (555) 
+      MagnAcum 40 (787) 
+      QuerCocc 40 (1185) 
+      QuerRubr 90 (1796) 
+      SassAlid 30 (112) 
+ 
+MapCode  496 
+      AcerSacc 40 (968) 
+      FaguGran 20 (1687) 30 (2730) 10 (352) 40 (1204) 
+      QuerPrin 40 (2186) 
+ 
+MapCode  497 
+      AcerSacc 50 (392) 
+      CaryAlba 40 (149) 30 (569) 20 (70) 
+      NyssSylv 50 (454) 60 (286) 20 (179) 
+      OxydArbo 30 (391) 40 (312) 50 (148) 20 (111) 
+      PrunSero 40 (144) 
+      QuerAlba 140 (6439) 50 (616) 70 (465) 60 (688) 
+      QuerPrin 80 (1121) 60 (660) 70 (2274) 140 (5650) 90 (691) 40 (543) 
+      QuerRubr 90 (555) 
+      QuerVelu 60 (519) 
+ 
+MapCode  498 
+      AcerSacc 40 (341) 
+      CaryAlba 40 (154) 70 (1396) 
+      CornFlor 20 (1314) 
+      LiriTuli 150 (4721) 40 (333) 50 (405) 70 (208) 60 (387) 
+      NyssSylv 40 (393) 30 (218) 
+      OxydArbo 30 (304) 40 (105) 20 (79) 50 (410) 
+      SassAlid 30 (481) 40 (211) 
+ 
+MapCode  499 
+      AcerSacc 40 (266) 30 (116) 60 (962) 50 (242) 70 (846) 20 (50) 
+      BetuLent 110 (760) 70 (460) 
+      CaryGlab 70 (646) 80 (468) 
+      FraxPenn 90 (1736) 
+      QuerPrin 50 (653) 
+      QuerRubr 140 (5232) 120 (1198) 
+      RobiPseu 100 (2076) 70 (423) 
+      TiliAmer 40 (89) 
+ 
+MapCode  500 
+      AcerSacc 20 (443) 10 (113) 30 (99) 
+      FraxAmer 20 (137) 
+      QuerAlba 40 (1429) 70 (1816) 50 (4137) 80 (3362) 140 (4390) 30 (375) 60 (1493) 
+      QuerCocc 50 (1432) 
+      QuerRubr 60 (1450) 
+ 
+MapCode  501 
+      AcerSacc 30 (471) 20 (59) 
+      FaguGran 40 (638) 10 (70) 
+      MagnAcum 20 (65) 
+      MagnMacr 30 (441) 
+      PrunSero 40 (654) 
+ 
+MapCode  502 
+      AcerSacc 50 (1424) 40 (694) 60 (348) 80 (945) 90 (1758) 70 (1021) 20 (162) 
+      FaguGran 50 (661) 40 (125) 
+      FraxAmer 180 (11386) 
+      PrunSero 80 (4694) 
+      TiliAmer 80 (667) 20 (59) 
+ 
+MapCode  503 
+      AcerSacc 50 (1884) 10 (42) 
+      FaguGran 70 (5080) 50 (874) 60 (2392) 10 (26) 
+      LiriTuli 40 (4060) 50 (1935) 30 (674) 20 (640) 
+      TiliAmer 40 (1172) 10 (73) 30 (252) 
+ 
+MapCode  504 
+      AcerSacc 40 (850) 30 (804) 
+      BetuLent 40 (196) 
+      FaguGran 80 (3862) 40 (229) 
+      NyssSylv 50 (500) 
+      QuerAlba 30 (443) 70 (1877) 140 (11532) 
+      QuerVelu 140 (1309) 
+      TiliAmer 70 (472) 20 (55) 
+ 
+MapCode  505 
+      AcerSacc 20 (869) 30 (115) 40 (892) 10 (716) 
+      CaryGlab 80 (2804) 50 (901) 20 (30) 
+      FraxAmer 30 (264) 
+      QuerAlba 40 (829) 10 (20) 
+      QuerRubr 80 (1857) 40 (581) 
+      RobiPseu 20 (74) 
+      SassAlid 20 (437) 
+ 
+MapCode  506 
+      AcerSacc 30 (441) 20 (399) 10 (721) 
+      FraxAmer 40 (2801) 10 (343) 
+ 
+MapCode  507 
+      AcerSacc 10 (334) 20 (938) 
+      BetuLent 30 (239) 10 (76) 
+      LiriTuli 20 (78) 60 (2606) 70 (3706) 110 (2495) 80 (3787) 30 (868) 90 (1532) 50 (2767) 40 (308) 
+      MagnAcum 30 (174) 70 (1971) 
+      NyssSylv 20 (91) 
+      SassAlid 30 (213) 40 (203) 20 (90) 
+ 
+MapCode  508 
+      AcerSacc 40 (605) 20 (68) 
+      FraxAmer 50 (1234) 60 (596) 
+      QuerPrin 40 (375) 
+      QuerRubr 50 (617) 
+      RobiPseu 10 (123) 20 (278) 
+      TiliAmhe 70 (1653) 40 (738) 50 (628) 30 (190) 
+ 
+MapCode  509 
+      AcerSacc 10 (22) 20 (297) 30 (721) 
+      LiriTuli 150 (23182) 50 (252) 40 (72) 
+      NyssSylv 20 (61) 40 (178) 
+      QuerAlba 30 (95) 
+ 
+MapCode  510 
+      AcerSacc 40 (190) 50 (432) 20 (643) 
+      CaryGlab 60 (610) 50 (315) 
+      LiriTuli 40 (181) 20 (34) 10 (15) 
+      NyssSylv 20 (87) 
+      PrunSero 20 (10) 
+      QuerAlba 30 (159) 10 (25) 
+      QuerCocc 20 (54) 
+      QuerVelu 20 (150) 
+ 
+MapCode  511 
+      AcerSacc 40 (569) 60 (445) 30 (529) 50 (280) 180 (2998) 
+      FaguGran 10 (68) 20 (26) 70 (866) 60 (420) 30 (73) 50 (311) 40 (241) 
+      FraxPenn 90 (1364) 30 (68) 
+      LiriTuli 140 (2365) 
+      QuerAlba 40 (603) 
+      QuerRubr 140 (7727) 
+      TiliAmer 40 (141) 50 (471) 60 (572) 100 (1275) 70 (890) 
+ 
+MapCode  512 
+      AcerSacc 30 (1644) 20 (782) 
+      FraxAmer 30 (172) 
+      FraxPenn 40 (375) 
+      LiriTuli 150 (4078) 30 (661) 80 (1869) 10 (89) 
+      RobiPseu 70 (2191) 
+ 
+MapCode  513 
+      AcerSacc 30 (413) 40 (825) 50 (380) 60 (260) 20 (411) 
+      CaryGlab 40 (561) 
+      PrunSero 50 (1350) 30 (665) 
+      TiliAmer 30 (185) 20 (48) 
+ 
+MapCode  514 
+      BetuLent 20 (117) 
+      NyssSylv 30 (166) 20 (58) 
+      OxydArbo 20 (1096) 
+      QuerCocc 20 (503) 30 (963) 40 (773) 
+      QuerPrin 40 (698) 50 (1246) 20 (1561) 30 (1133) 
+      QuerVelu 20 (134) 
+      RobiPseu 10 (216) 
+ 
+MapCode  515 
+      BetuLent 50 (575) 30 (680) 40 (535) 
+      HaleDipt 20 (1285) 
+ 
+MapCode  516 
+      BetuLent 40 (332) 70 (1067) 60 (2107) 
+      FaguGran 50 (91) 30 (58) 
+      LiriTuli 140 (5394) 110 (2095) 
+ 
+MapCode  517 
+      BetuLent 70 (1248) 110 (1325) 100 (1548) 
+      CaryGlab 20 (70) 50 (220) 
+      FaguGran 70 (844) 40 (241) 
+      FraxAmer 30 (149) 40 (357) 
+      LiriTuli 30 (640) 10 (15) 150 (2795) 40 (173) 
+      QuerFalc 20 (92) 70 (824) 
+      QuerRubr 100 (846) 
+      QuerVelu 60 (447) 
+ 
+MapCode  518 
+      CaryGlab 140 (2488) 
+      CornFlor 20 (79) 
+      NyssSylv 10 (14) 
+      OxydArbo 50 (520) 60 (586) 
+      QuerAlba 140 (1825) 
+      QuerPrin 50 (798) 140 (13809) 40 (176) 130 (4676) 
+      QuerRubr 60 (622) 
+      QuerVelu 200 (1302) 60 (207) 
+      RobiPseu 100 (521) 
+ 
+MapCode  519 
+      CaryGlab 30 (115) 
+      NyssSylv 40 (646) 10 (23) 50 (571) 
+      OxydArbo 30 (739) 20 (173) 40 (175) 
+      QuerPrin 30 (131) 70 (1016) 130 (4139) 140 (9554) 100 (1645) 
+      QuerVelu 80 (2798) 60 (1324) 
+ 
+MapCode  520 
+      CaryGlab 70 (2432) 60 (527) 
+      CaryAlba 40 (363) 30 (134) 60 (954) 
+      FaguGran 40 (168) 
+      LiriTuli 40 (273) 150 (1581) 50 (361) 
+      OxydArbo 30 (109) 
+      QuerAlba 30 (486) 
+      QuerVelu 60 (1033) 50 (1309) 110 (1361) 30 (258) 40 (424) 140 (4116) 70 (605) 
+ 
+MapCode  521 
+      CaryAlba 90 (1989) 
+      LiriTuli 140 (4767) 190 (700) 20 (342) 50 (864) 
+      SassAlid 30 (238) 
+ 
+MapCode  522 
+      CaryAlba 90 (1933) 60 (1391) 70 (1056) 
+      NyssSylv 20 (52) 10 (46) 
+      OxydArbo 40 (339) 
+      QuerAlba 30 (429) 40 (1227) 110 (906) 
+ 
+MapCode  523 
+      CaryAlba 40 (114) 20 (80) 
+      FraxAmer 10 (51) 
+      NyssSylv 40 (394) 30 (851) 50 (328) 
+      QuerAlba 50 (1144) 60 (2629) 30 (138) 
+      QuerVelu 60 (1009) 50 (727) 
+      RobiPseu 110 (1192) 
+ 
+MapCode  524 
+      CornFlor 30 (100) 20 (100) 
+      LiriTuli 130 (3005) 60 (3005) 
+      PrunSero 40 (80) 30 (80) 
+      QuerAlba 30 (105) 20 (105) 
+      QuerVelu 60 (150) 30 (635) 70 (485) 
+ 
+MapCode  525 
+      CornFlor 10 (69) 
+      LiriTuli 30 (655) 20 (87) 
+      QuerAlba 10 (134) 
+      QuerFalc 10 (20) 
+ 
+MapCode  526 
+      FaguGran 20 (275) 10 (53) 30 (265) 
+      LiriTuli 70 (6952) 40 (759) 30 (484) 
+      QuerPrin 40 (6366) 50 (5443) 
+      QuerRubr 70 (5952) 
+ 
+MapCode  527 
+      FaguGran 20 (1058) 10 (34) 40 (927) 
+ 
+MapCode  528 
+      FaguGran 50 (440) 10 (21) 20 (26) 
+      PrunSero 60 (1678) 10 (58) 
+ 
+MapCode  529 
+      FraxAmer 70 (926) 
+      NyssSylv 10 (150) 
+      PrunSero 20 (120) 
+      QuerAlba 40 (378) 
+      QuerFalc 60 (876) 50 (969) 140 (4775) 90 (1351) 130 (987) 
+      QuerRubr 20 (82) 
+      QuerVelu 50 (461) 
+ 
+MapCode  530 
+      FraxAmer 50 (294) 70 (710) 30 (91) 
+      QuerRubr 90 (1697) 
+ 
+MapCode  531 
+      FraxPenn 30 (1173) 
+ 
+MapCode  532 
+      FraxPenn 40 (302) 90 (1148) 20 (280) 
+      LiriTuli 140 (1431) 150 (1431) 
+      OxydArbo 30 (244) 
+      QuerCocc 140 (2037) 130 (2037) 
+      QuerPrin 60 (510) 50 (1282) 140 (4249) 100 (1940) 130 (2309) 
+ 
+MapCode  533 
+      FraxPenn 20 (44) 
+      QuerAlba 10 (326) 
+ 
+MapCode  534 
+      FraxPenn 70 (369) 90 (5185) 40 (445) 50 (615) 60 (499) 80 (892) 
+ 
+MapCode  535 
+      LiriTuli 20 (905) 30 (65) 10 (11) 
+      PrunSero 20 (75) 40 (54) 
+      QuerAlba 20 (876) 30 (181) 
+      QuerVelu 20 (56) 
+ 
+MapCode  536 
+      LiriTuli 100 (3541) 80 (1444) 
+ 
+MapCode  537 
+      LiriTuli 10 (85) 
+      RobiPseu 10 (12) 
+      SassAlid 10 (10) 
+ 
+MapCode  538 
+      MagnMacr 50 (720) 10 (45) 30 (84) 20 (73) 
+ 
+MapCode  539 
+      PrunSero 10 (10) 
+ 
+MapCode  540 
+      PrunSero 40 (275) 
+      QuerRubr 20 (161) 
+      QuerVelu 60 (1139) 
+ 
+MapCode  541 
+      PrunSero 40 (44) 
+      QuerAlba 20 (46) 
+ 
+MapCode  542 
+      QuerAlba 40 (474) 
+      QuerCocc 70 (3336) 60 (3672) 50 (2910) 90 (2062) 130 (2386) 80 (739) 
+      QuerPrin 80 (1153) 70 (1640) 60 (1677) 
+      QuerVelu 50 (649) 
+ 
+MapCode  543 
+      QuerRubr 140 (3036) 
+ 
+MapCode  544 
+      QuerRubr 40 (112) 130 (4925) 110 (413) 60 (326) 
+ 
+MapCode  545 
+      RobiPseu 10 (759) 20 (100) 
+ 
+MapCode  546 
+      RobiPseu 10 (484) 
+ 
